@@ -1,13 +1,13 @@
 {
   "main": {
-    "name": "Jhon Doe",
+    "name": "Dylan Nguyen",
     "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
     "titles": [
-      "Frontend Development",
-      "Backend Development",
-      "App Development"
+      "Full Stack Development",
+      "App Development",
+      "AI, SAAS Development"
     ],
-    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "heroImage": "https://i.ibb.co/R0tZtBY/profilepicture-japan2023.jpg",
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/material-ui.png",
       "https://img.icons8.com/color/144/000000/html-5--v1.png",
@@ -17,28 +17,28 @@
   },
   "about": {
     "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
-    "aboutImageCaption": "< I build stuff 🚀/>",
+    "aboutImageCaption": "< I develop stuff 🚀/>",
     "title": "Full Stack Developer",
-    "about": "I am a Full-Stack developer based in Pune, India. I'm an Information Technology undergraduate from SPPU, and my journey in web development began during my first year of college. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack clones and side projects.",
-    "callUrl": "",
-    "resumeUrl": ""
+    "about": "I am an undergraduate currently obtaining a B.S. in Computer Science at University of California, Riverside. I am seeking any opportunities to apply and leverage my skill set in sofware development. I have experience with full-stack frameworks (React, Vue, TypeScript, Node, Express, Mongo, REST API, GraphQL, Laravel). Additionally, I have worked extensively with machine learning and big data stacks (Python, TensorFlow, Pytorch, Jupyter, Selenium). I also enjoy meeting new peers and working in collaborative team environements. My interpersonal skill set includes collaboration, communication, critical thinking, creativity, and time management. .Let's work together to bring your ideas to life! On a more personal note, I was born in Seattle, WA and grew up in Irvine, CA. My hobbies include surfing, tennis, skiing, cinema and coding",
+    "callUrl": "tel:+19498422889",
+    "resumeUrl": "https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view"
   },
   "socials": [
     {
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/in/jhon-doe"
+      "link": "https://www.linkedin.com/in/dylanhnguyen"
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com/jhon-doe"
+      "link": "https://github.com/thedigitalchief"
     },
     {
       "icon": "FaInstagram",
-      "link": "https://www.instagram.com/jhondoe"
+      "link": "https://www.instagram.com/"
     },
     {
       "icon": "FaTwitter",
-      "link": "https://twitter.com/jhondoe"
+      "link": "https://twitter.com/itsdigitalchief"
     }
   ],
   "skills": [
@@ -60,75 +60,106 @@
   ],
   "projects": [
     {
-      "name": "Project Title",
-      "techstack": "HTML5, CSS3, JavaScript, jQuery",
-      "category": "MERN Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "name": "ClarityGPT - AI SAAS",
+      "techstack": "React, TypeScript, Next.js, Node, Express, Tailwind, MongoDB, Lottie, Vercel",
+      "category": "AI",
+      "image": "https://dylanhnguyen.com/assets/aisaas-demo.f8b5fd1f.mp4",
       "links": {
         "code": "",
         "video": "",
-        "visit": ""
+        "visit": "https://ai-saas-clarity-main.vercel.app"
       }
     },
     {
-      "name": "Project Title",
-      "techstack": "Flutter, Dart, Firebase",
-      "category": "Flutter",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "name": "HighlanderNow - Academic platform serving nearly 3,000 UCR students a month.",
+      "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
+      "category": "PWA",
+      "image": "https://dylanhnguyen.com/assets/highlander.59dd0dd4.mp4",
       "links": {
         "code": "",
         "video": "",
-        "visit": ""
+        "visit": "https://highalndernow.com"
       }
     },
     {
-      "name": "Project Title",
-      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
-      "category": "LAMP Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "name": "Chef'it: Find local homemade meals & home chefs",
+      "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+      "category": "Website",
+      "image": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
       "links": {
         "code": "",
         "video": "",
-        "visit": ""
+        "visit": "https://chefit.io"
       }
     }
   ],
   "educations": [
     {
-      "institute": "XYZ School | CBSE",
-      "degree": "HSC Science",
-      "duration": "2014 - 2016"
-    },
-    {
-      "institute": "XYZ College Of Engineering",
-      "degree": "B.Tech CSE",
-      "duration": "2016 - 2020",
+      "institute": "Bourns School of Engineering | University of California, Riverside",
+      "degree": "Bachelor of Science",
+      "duration": "2021 - 2023",
       "desc": [
-        "Pursuing IT Engineering course from ABC University",
-        "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
+       "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
         "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
       ]
+    },
+    {
+      "institute": "Irvine Valley College",
+      "degree": "Transfer Credits",
+      "duration": "2019 - 2021",
+      "desc": [
+        "Pursuing engineering degree with a focus on software development and machine learning"
+      ]
+    },
+    {
+      "institute": "University High School",
+      "degree": "High School Diploma",
+      "duration": "2015 - 2019"
     }
   ],
   "experiences": [
     {
-      "company": "ABC Tech Solutions",
-      "position": "Web Developer",
-      "duration": "2020 -2022",
+      "company": "Farmers & Merchants Bank",
+      "position": "Information Security Analyst",
+      "duration": "March 2022 - March 2023",
+      "desc": [
+        "Assisted in development of technical network diagrams of security infrastructure",
+        "Analyzed threats with vulnerability scanning tools and internal security controls",
+       
+        "Performed vulnerability scans and penetration tests on internal and external systems",
+        "Skills: Cyber Security, Network Security, Vulnerability Management, Penetration Testing, Active Directory, IAM/SEIM, Sumo Logic, Secureworks, Netwrix, Hitachi, ZenDesk"
+      ]
+    },
+    {
+      "company": "Uber Technologies, Inc.",
+      "position": "Delivery Service Partner",
+      "duration": "June 2019 - March 2020",
       "desc": [
         "Assisted with design and development of project.",
         "Worked on building the product from scratch and built multiple dashboards.",
         "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
       ]
     },
-    {
-      "company": "XYZ Tech Solutions",
-      "position": "Web Developer",
-      "duration": "2022 - present",
+     {
+      "company": "Woodly Co. USA, Inc.",
+      "position": "Founder",
+      "duration": "March 2017 - Ocotber 2019",
       "desc": [
-        "Assisted with design and development of project.",
-        "Worked on building the product from scratch and built multiple dashboards.",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
+        "Launched successful private label, trademarked company sunglasses that were distributed nationwide on Amazon Prime",
+        "Negotiated with multiple overseas Chinese suppliers and Amazon’s fulfillment & distribution network",
+          "Achieved $10,000 in sales in first year of business",
+        "Skills: Product Development, Branding, Marketing, Negotiation, Supply Chain Management, Amazon FBA"
+      
+      ]
+    },
+     {
+      "company": "Irvine Lakeview Center",
+      "position": "Information Technology Tutor",
+      "duration": "October 2017 - January 2019",
+      "desc": [
+        "Analyzed and resolved technology problems for Irvine residents",
+        "Provided individualized assessment and tailored education plans",
+        "Skills: Technology Troubleshooting, Communication, Time Management, Patience, Adaptability"
       ]
     }
   ]
