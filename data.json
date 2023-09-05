@@ -1,11 +1,11 @@
 {
   "main": {
-    "name": "Dylan Nguyen",
-    "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+    "name": "Dylan H. Nguyen",
+    "shortDesc": "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
     "titles": [
-      "Full Stack Development",
-      "App Development",
-      "AI, SAAS"
+      "Full Stack engineering",
+      "AI, SAAS development",
+        "Progressive web apps"
     ],
     "heroImage": "https://i.ibb.co/MBCqx9z/profilepicture-japan2023.png",
     "techStackImages": [
@@ -34,7 +34,7 @@
     },
     {
       "icon": "FaInstagram",
-      "link": "https://www.instagram.com/"
+      "link": "mailto:hello@dylanhnguyen.com"
     },
     {
       "icon": "FaTwitter",
@@ -56,16 +56,91 @@
       "name": "GitHub",
       "image": "https://img.icons8.com/material-outlined/96/null/github.png",
       "category": "Tools"
+    },
+ {
+      "name": "React",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Next.js",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "TypeScript",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Frontend"
+    },
+     {
+      "name": "Tailwind",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "JQuery",
+      "image": "https://img.icons8.com/material-outlined",
+      "category": "Frontend"
+    },
+      {
+      "name": "Node.js",
+      "image": " https://img.icons8.com/color/144/null/mysql-logo.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Express",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Backend"
+    },
+     {
+      "name": "MongoDB",
+      "image": "https://jigarsable-jd3mn2g0e-jigar-sable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fexternal-tal-revivo-color-tal-revivo%2F96%2Fnull%2Fexternal-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png&w=256&q=75",
+      "category": "Backend"
+    },
+    {
+      "name": "AWS",
+      "image": "https://jigarsable-jd3mn2g0e-jigar-sable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Famazon-web-services.png&w=256&q=75",
+      "category": "Backend"
+    },
+    {
+      "name": "MySQL/SQlite",
+      "image": "https://img.icons8.com/color/144/null/mysql-logo.png",
+      "category": "Backend"
+    },
+        {
+      "name": "PHP",
+      "image": "https://jigarsable-jd3mn2g0e-jigar-sable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Foffices%2F160%2Fnull%2Fphp-logo.png&w=256&q=75",
+      "category": "Backend"
+    },
+     {
+      "name": "Git",
+      "image": " https://img.icons8.com/color/144/null/mysql-logo.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Agile",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools"
+    },
+     {
+      "name": "Vercel",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Tools"
     }
   ],
   "projects": [
     {
-      "name": "ClarityGPT - AI SAAS",
+      "name": "ClarityGPT - Powerful AI SAAS platform with 5 generative tools",
       "techstack": "React, TypeScript, Next.js, Node, Express, Tailwind, MongoDB, Lottie, Vercel",
-      "category": "AI",
-      "image": "https://dylanhnguyen.com/assets/aisaas-demo.f8b5fd1f.mp4",
+    
+      "image": "https://i.ibb.co/MsqB9B3/Screenshot-2023-09-04-at-23-29-46.png",
       "links": {
-        "code": "",
+        "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/aisaas-demo.f8b5fd1f.mp4",
         "visit": "https://ai-saas-clarity-main.vercel.app"
       }
@@ -73,66 +148,72 @@
     {
       "name": "HighlanderNow - Academic platform serving nearly 3,000 UCR students a month.",
       "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
-      "category": "PWA",
-      "image": "https://dylanhnguyen.com/assets/highlander.59dd0dd4.mp4",
+   
+      "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
       "links": {
-        "code": "",
+        "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/highlander.59dd0dd4.mp4",
-        "visit": "https://highalndernow.com"
+        "visit": "https://highlander.com/#/"
       }
     },
+    
     {
-      "name": "Chef'it: Find local homemade meals & home chefs",
+      "name": "Surfaholic - Peer to peer Surf Reports",
       "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-      "category": "Website",
-      "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
+    
+      "image": "https://i.ibb.co/KVLLnnc/IMG-1491.jpg",
       "links": {
-        "code": "",
-        "video": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
-        "visit": "https://chefit.io"
-      }
-    },
-    {
-      "name": "Surfaholic - Surfing Social Media Platform",
-      "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-      "category": "SASS",
-      "image": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
-      "links": {
-        "code": "",
+        "code": "https://github.com/SurfApp-Inc",
         "video": "https://dylanhnguyen.com/assets/surfaholic.f74a38ab.mp4",
         "visit": "https://surfaholic.app"
       }
     },
     {
-      "name": "002Pickle™ - E-Commerce Shop for Pickleball Equipment",
+      "name": "002Pickle™ - Pickleball E-Commerce Shop",
       "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-      "category": "E-commerce",
+     
       "image": "https://i.ibb.co/q0pGtwq/cap-logo.png",
       "links": {
-        "code": "",
+        "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/002pickle-demo.e366c128.mp4",
+        "visit": "https://002pickle.com"
+      }
+    },
+    {
+      "name": "Startup Club@UCR - Landing",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+     
+      "image": "https://i.ibb.co/q0pGtwq/cap-logo.png",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "https://dylanhnguyen.com/assets/startupucr.9c9ee42e.mp4",
+        "visit": "https://startupucr.com"
+      }
+    },
+    {
+      "name": "Chef'it – Find local homemade meals & home chefs",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+    
+      "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
         "visit": "https://chefit.io"
+      }
+    },
+    {
+      "name": "Responsive Portfolio v1",
+      "techstack": "React, HTML, Bootstrap, TailWind",
+    
+      "image": "https://i.ibb.co/jDx7bm0/Screenshot-2023-09-04-at-23-44-04.png",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "https://dylanhnguyen.com/assets/portfolio.d24c72e0.mp4",
+        "visit": "https://portfolio-optimized.vercel.app"
       }
     }
   ],
   "educations": [
-    {
-      "institute": "Bourns School of Engineering | University of California, Riverside",
-      "degree": "Bachelor of Science",
-      "duration": "2021 - 2023",
-      "desc": [
-       "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
-        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
-      ]
-    },
-    {
-      "institute": "Irvine Valley College",
-      "degree": "Transfer Credits",
-      "duration": "2019 - 2021",
-      "desc": [
-        "Pursuing engineering degree with a focus on software development and machine learning"
-      ]
-    },
     {
       "institute": "University High School",
       "degree": "High School Diploma",
@@ -142,34 +223,32 @@
         "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
       ]
     }
-  ],
-  "experiences": [
+    ,
     {
-      "company": "Farmers & Merchants Bank",
-      "position": "Information Security Analyst",
-      "duration": "March 2022 - March 2023",
+      "institute": "Irvine Valley College",
+      "degree": "Transfer Program",
+      "duration": "2019 - 2021",
       "desc": [
-        "Assisted in development of technical network diagrams of security infrastructure",
-        "Analyzed threats with vulnerability scanning tools and internal security controls",
-
-        "Performed vulnerability scans and penetration tests on internal and external systems",
-        "Skills: Cyber Security, Network Security, Vulnerability Management, Penetration Testing, Active Directory, IAM/SEIM, Sumo Logic, Secureworks, Netwrix, Hitachi, ZenDesk"
-      ]
-    },
-    {
-      "company": "Uber Technologies, Inc.",
-      "position": "Delivery Service Partner",
-      "duration": "June 2019 - March 2020",
-      "desc": [
-        "Assisted with design and development of project.",
-        "Worked on building the product from scratch and built multiple dashboards.",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
+        "Pursuing engineering degree with a focus on software development and machine learning"
       ]
     },
      {
+      "institute": "Bourns School of Engineering | University of California, Riverside",
+      "degree": "Computer Science, B.S.",
+      "duration": "2021 - 2023 (Expected)",
+      "desc": [
+       "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
+        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
+      ]
+    }
+    
+  ],
+  "experiences": [
+   
+     {
       "company": "Woodly Co. USA, Inc.",
-      "position": "Founder",
-      "duration": "March 2017 - Ocotber 2019",
+      "position": "Private-label Brand Founder",
+      "duration": "March 2017 - September 2018",
       "desc": [
         "Launched successful private label, trademarked company sunglasses that were distributed nationwide on Amazon Prime",
         "Negotiated with multiple overseas Chinese suppliers and Amazon’s fulfillment & distribution network",
@@ -181,11 +260,44 @@
      {
       "company": "Irvine Lakeview Center",
       "position": "Information Technology Tutor",
-      "duration": "October 2017 - January 2019",
+      "duration": "October 2017 - June 2019",
       "desc": [
         "Analyzed and resolved technology problems for Irvine residents",
         "Provided individualized assessment and tailored education plans",
         "Skills: Technology Troubleshooting, Communication, Time Management, Patience, Adaptability"
+      ]
+    },
+    {
+      "company": "Uber Technologies, Inc.",
+      "position": "Delivery Service Partner",
+      "duration": "June 2019 - March 2020",
+      "desc": [
+        "Safely handled and provided punctual delivery services of customer products",
+        "Promoted to Gold Status for providing exceptional customer and merchant communication service",
+        "Maintained a 4.9/5.0 rating with over 500 deliveries",
+        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
+      ]
+    },
+     {
+      "company": "Farmers & Merchants Bank",
+      "position": "Information Security Analyst",
+      "duration": "March 2022 - March 2023",
+      "desc": [
+        "Assisted in development of technical network diagrams of security infrastructure",
+        "Analyzed threats with vulnerability scanning tools and internal security controls",
+
+        "Performed vulnerability scans and penetration tests on internal and external systems",
+        "Skills: Cyber Security, Network Security, Vulnerability Management, Penetration Testing, Active Directory, IAM/SEIM, Sumo Logic, Secureworks, Netwrix, Hitachi, ZenDesk"
+      ]
+    },
+     {
+      "company": "UpWork",
+      "position": "Full Stack Developer",
+      "duration": "June 2023 - Present",
+      "desc": [
+        " developing scalable, responsive SaaS progressive web apps, Demonstrated success in application optimization, ensuring seamless operation across all device types and network conditions.",
+        "effective project management, client communication, and the ability to meet tight deadlines"
+      
       ]
     }
   ]

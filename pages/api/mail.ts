@@ -1,7 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import sgMail from "@sendgrid/mail";
 
-sgMail.setApiKey(process.env.SENDGRID_API_KEY || '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');
+sgMail.setApiKey(process.env.SENDGRID_API_KEY || '');
 
 type Data = {
     message: string;
