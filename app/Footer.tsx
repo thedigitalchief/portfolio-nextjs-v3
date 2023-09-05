@@ -14,12 +14,12 @@ export default function Footer({ socials, name }: { socials: social[], name: str
 
             <div className="xl:max-w-6xl mx-auto md:mx-6 lg:mx-10 xl:mx-auto py-4 lg:py-6 flex flex-col-reverse md:flex-row gap-2 md:gap-0 justify-between items-center">
 
-                <p className="text-sm mt-2 md:mt-0">Made with
-                    <span className="animate-pulse"> ❤️ </span>
+                <p className="text-sm mt-2 md:mt-0">Made by
+                    <span className="animate-pulse">Dylan Nguyen </span>
                     by
                     <span className="text-violet-600"> {name}</span></p>
 
-                <div className="hidden xl:flex items-center gap-2">
+                {/* <div className="hidden xl:flex items-center gap-2">
                     <Link href={'https://nextjs.org'} target="_blank">
                         <Image alt="Next.js" width={45} height={45} src="/nextjs.svg" className={`${theme === 'dark' ? 'invert' : 'invert-0'} opacity-80 hover:opacity-100 transition-opacity`} />
                     </Link>
@@ -27,7 +27,7 @@ export default function Footer({ socials, name }: { socials: social[], name: str
                     <Link href={'https://vercel.com'} target="_blank">
                         <Image alt="Tailwind CSS" width={52} height={52} src="/vercel.svg" className={`${theme === 'dark' ? 'invert' : 'invert-0'} opacity-80 hover:opacity-100 transition-opacity`} />
                     </Link>
-                </div>
+                </div> */}
 
                 {/* Social Links */}
                 <div className="flex xl:hidden items-center gap-2">

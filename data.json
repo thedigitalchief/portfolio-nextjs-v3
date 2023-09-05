@@ -5,9 +5,9 @@
     "titles": [
       "Full Stack Development",
       "App Development",
-      "AI, SAAS Development"
+      "AI, SAAS"
     ],
-    "heroImage": "https://i.ibb.co/R0tZtBY/profilepicture-japan2023.jpg",
+    "heroImage": "https://i.ibb.co/MBCqx9z/profilepicture-japan2023.png",
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/material-ui.png",
       "https://img.icons8.com/color/144/000000/html-5--v1.png",
@@ -17,9 +17,9 @@
   },
   "about": {
     "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
-    "aboutImageCaption": "< I develop stuff 🚀/>",
-    "title": "Full Stack Developer",
-    "about": "I am an undergraduate currently obtaining a B.S. in Computer Science at University of California, Riverside. I am seeking any opportunities to apply and leverage my skill set in sofware development. I have experience with full-stack frameworks (React, Vue, TypeScript, Node, Express, Mongo, REST API, GraphQL, Laravel). Additionally, I have worked extensively with machine learning and big data stacks (Python, TensorFlow, Pytorch, Jupyter, Selenium). I also enjoy meeting new peers and working in collaborative team environements. My interpersonal skill set includes collaboration, communication, critical thinking, creativity, and time management. .Let's work together to bring your ideas to life! On a more personal note, I was born in Seattle, WA and grew up in Irvine, CA. My hobbies include surfing, tennis, skiing, cinema and coding",
+    "aboutImageCaption": "Dylan Nguyen",
+    "title": "Full Stack, AI, SAAS Developer",
+    "about": "I am an undergraduate currently obtaining a B.S. in Computer Science at University of California, Riverside. I am seeking any opportunities to apply and leverage my skill set in sofware development. <br><br> My experience encompasses extensive work with HTML/CSS/Javascript, the Bootstrap Framework, VueJS, AngularJS, and NodeJS. My projects have often required integration using AWS Lambda, Google App Engine, and AWS API Gateway. With hands-on experience in both SQL and NoSQL databases, I have designed and executed numerous seamless integrations for back-end services and databases, closely aligning with the outcomes MindFire expects. Being well-versed in Google Tag Manager, Google Analytics, Salesforce.com, and Zapier, I can confidently say that my skill set resonates with the expectations of this role. <br> <br> Beyond technical proficiencies, I am deeply familiar with the intricacies of digital marketing, from leveraging social media platform APIs to creating data-driven campaigns that resonate. My experience has also taught me the importance of being proactive and organized, especially in a fast-paced agency environment. I pride myself on my ability to multitask efficiently and maintain acute attention to detail, ensuring that every project I undertake is executed with precision and dedication.<br><br> Let's work together to bring your ideas to life! On a more personal note, I was born in Seattle, WA and grew up in Irvine, CA. My hobbies include surfing, tennis, skiing, cinema and coding",
     "callUrl": "tel:+19498422889",
     "resumeUrl": "https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view"
   },
@@ -66,7 +66,7 @@
       "image": "https://dylanhnguyen.com/assets/aisaas-demo.f8b5fd1f.mp4",
       "links": {
         "code": "",
-        "video": "",
+        "video": "https://dylanhnguyen.com/assets/aisaas-demo.f8b5fd1f.mp4",
         "visit": "https://ai-saas-clarity-main.vercel.app"
       }
     },
@@ -77,7 +77,7 @@
       "image": "https://dylanhnguyen.com/assets/highlander.59dd0dd4.mp4",
       "links": {
         "code": "",
-        "video": "",
+        "video": "https://dylanhnguyen.com/assets/highlander.59dd0dd4.mp4",
         "visit": "https://highalndernow.com"
       }
     },
@@ -88,7 +88,29 @@
       "image": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
       "links": {
         "code": "",
-        "video": "",
+        "video": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
+        "visit": "https://chefit.io"
+      }
+    },
+    {
+      "name": "Surfaholic - Surfing Social Media Platform",
+      "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+      "category": "SASS",
+      "image": "https://dylanhnguyen.com/assets/surfaholic.f74a38ab.mp4",
+      "links": {
+        "code": "",
+        "video": "https://dylanhnguyen.com/assets/surfaholic.f74a38ab.mp4",
+        "visit": "https://surfaholic.app"
+      }
+    },
+    {
+      "name": "002Pickle™ - E-Commerce Shop for Pickleball Equipment",
+      "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+      "category": "E-commerce",
+      "image": "https://dylanhnguyen.com/assets/002pickle-demo.e366c128.mp4",
+      "links": {
+        "code": "",
+        "video": "https://dylanhnguyen.com/assets/002pickle-demo.e366c128.mp4",
         "visit": "https://chefit.io"
       }
     }
