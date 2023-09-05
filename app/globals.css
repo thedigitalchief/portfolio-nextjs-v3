@@ -10,11 +10,17 @@
   margin: 0;
 }
 
+  .zoom, a:hover {
+  transform: scale(1.03);
+    -webkit-transform: all 0.22s ease-in;
+    transition: all 0.22s ease-in;
+}
+
 html {
   scroll-behavior: smooth !important;
-  /* optimizeLegibility: true;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; */
+  scroll-behavior: smooth;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
   
 }
 

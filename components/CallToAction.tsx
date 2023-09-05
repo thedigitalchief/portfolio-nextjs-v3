@@ -20,10 +20,10 @@ const CallToAction = () => {
                         <FaGithub />
                         {/* Fork Now */}
                     </Link>
-                    {/* <Link href="https://github.com/thedigitalchief" target="_blank" className="py-2 px-4 bg-blue-800 rounded-lg w-fit flex items-center gap-2 hover:bg-blue-900 transition-all">
+                    <Link href="https://github.com/thedigitalchief" target="_blank" className="py-2 px-4 bg-blue-800 rounded-lg w-fit flex items-center gap-2 hover:bg-blue-900 transition-all">
                         Visit Docs
                         <BiLinkExternal />
-                    </Link> */}
+                    </Link>
                 </div>
             </div>
             {/* <div className="w-full md:w-1/2 h-40 md:h-52 lg:w-96 mb-4 md:mb-0 mx-auto rounded-lg bg-white dark:bg-grey-900">
