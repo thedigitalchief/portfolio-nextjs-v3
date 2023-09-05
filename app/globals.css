@@ -12,9 +12,9 @@
 
 html {
   scroll-behavior: smooth !important;
-  optimizeLegibility: true;
+  /* optimizeLegibility: true;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale; */
   
 }
 
