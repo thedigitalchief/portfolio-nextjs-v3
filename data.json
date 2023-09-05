@@ -85,7 +85,7 @@
       "name": "Chef'it: Find local homemade meals & home chefs",
       "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
       "category": "Website",
-      "image": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
+      "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "",
         "video": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
@@ -96,7 +96,7 @@
       "name": "Surfaholic - Surfing Social Media Platform",
       "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
       "category": "SASS",
-      "image": "https://dylanhnguyen.com/assets/surfaholic.f74a38ab.mp4",
+      "image": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
       "links": {
         "code": "",
         "video": "https://dylanhnguyen.com/assets/surfaholic.f74a38ab.mp4",
@@ -107,7 +107,7 @@
       "name": "002Pickle™ - E-Commerce Shop for Pickleball Equipment",
       "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
       "category": "E-commerce",
-      "image": "https://dylanhnguyen.com/assets/002pickle-demo.e366c128.mp4",
+      "image": "https://i.ibb.co/q0pGtwq/cap-logo.png",
       "links": {
         "code": "",
         "video": "https://dylanhnguyen.com/assets/002pickle-demo.e366c128.mp4",
@@ -136,7 +136,11 @@
     {
       "institute": "University High School",
       "degree": "High School Diploma",
-      "duration": "2015 - 2019"
+      "duration": "2015 - 2019",
+       "desc": [
+       "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
+        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
+      ]
     }
   ],
   "experiences": [
@@ -147,7 +151,7 @@
       "desc": [
         "Assisted in development of technical network diagrams of security infrastructure",
         "Analyzed threats with vulnerability scanning tools and internal security controls",
-       
+
         "Performed vulnerability scans and penetration tests on internal and external systems",
         "Skills: Cyber Security, Network Security, Vulnerability Management, Penetration Testing, Active Directory, IAM/SEIM, Sumo Logic, Secureworks, Netwrix, Hitachi, ZenDesk"
       ]

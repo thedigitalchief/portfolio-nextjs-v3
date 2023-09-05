@@ -7,7 +7,7 @@ import { Analytics } from '@vercel/analytics/react';
 const poppins = Poppins({
   subsets: ['latin'],
   weight: ['300', '400', '500', '600', '700', '800'],
-  variable: '--font-poppins'
+  // variable: '--font-poppins'
 })
 
 export default function RootLayout({

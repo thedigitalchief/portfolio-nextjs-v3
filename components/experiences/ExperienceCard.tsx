@@ -36,7 +36,7 @@ const Experience = ({ index, company, position, desc, institute, degree, duratio
       <motion.div
         ref={ref}
         variants={cardVariants}
-        initial="hidden"
+        initial="visible"
         animate={inView ? 'visible' : 'hidden'}
         className="order-1 rounded-lg w-full ml-3 md:ml-0 bg-white dark:bg-grey-800 md:w-5/12 p-3 md:px-4 md:py-4">
         <h3 className="mb-2 font-medium text-lg md:text-xl">{company || institute}</h3>

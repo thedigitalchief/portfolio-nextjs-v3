@@ -28,9 +28,11 @@ const About = ({ aboutData, name }: Props) => {
                         <p className="text-3xl font-semibold">{name}</p>
                         <p className='text-blue-800 w-fit rounded py-1 px-2 text-sm dark:text-blue-600 bg-blue-50 dark:bg-blue-900/10'>{title}</p>
                         <p className="text-sm md:text-base my-2 text-gray-600 dark:text-gray-300">{about}</p>
+                        
                         <div className="flex items-center gap-4 md:mt-4">
-                            {resumeUrl.trim() && <Link href={resumeUrl} target="_blank" className="text-sm md:text-base bg-blue-600 dark:bg-blue-700 text-white w-fit rounded-md py-2 px-6 hover:shadow-xl transition-shadow">Resume</Link>}
-                            {callUrl.trim() && <Link href={callUrl} target="_blank" className="text-blue-600 flex items-center gap-1 hover:bg-blue-50 hover:dark:bg-blue-900/10 py-2 px-4 transition-colors rounded-md">Schedule a call<BiLinkExternal /> </Link>}
+                            {resumeUrl.trim() && <Link href={resumeUrl} target="_blank" className="text-sm md:text-base bg-blue-600 dark:bg-blue-700 text-white w-fit rounded-md py-2 px-6 hover:shadow-xl transition-shadow">Résumé</Link>}
+
+                            {callUrl.trim() && <Link href={callUrl} target="_blank" className="text-blue-600 flex items-center gap-1 hover:bg-blue-50 hover:dark:bg-blue-900/10 py-2 px-4 transition-colors rounded-md">Schedule a call <BiLinkExternal /> </Link>}
                         </div>
                     </div>
                 </div>

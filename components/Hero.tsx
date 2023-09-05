@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { useTheme } from 'next-themes'
-import { Link as ScrollLink } from 'react-scroll'
+import { Button, Link as ScrollLink } from 'react-scroll'
 import Typewriter from 'typewriter-effect';
 import { IoIosArrowForward } from 'react-icons/io';
 import wavingHand from '@/public/waving-hand.gif';
@@ -34,7 +34,7 @@ const Hero = ({ mainData }: HeroProps) => {
                     <div className="flex items-center gap-1">
                         <Image unoptimized={true} alt='waving-hand' width={30} height={30} src={wavingHand} />
                         <p className="text-lg md:text-xl mt-2 md:mt-1.5">
-                            Hey
+                            Hello
                         </p>
                     </div>
                     <h1 className="text-4xl md:text-6xl font-bold relative">
@@ -65,17 +65,15 @@ const Hero = ({ mainData }: HeroProps) => {
                         <span className="relative">SPPU Prep</span>
                     </a> */}
 
-                    <ScrollLink
-                        className="w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 hover:dark:bg-blue-800 transition-colors group text-white"
-                        to={'about'}
+                    <div className="w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 hover:dark:bg-blue-800 transition-colors group text-white"
+                        onClick={() => window.open('https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view', '_blank')}
                         offset={-60}
                         smooth={true}
                         duration={500}
                         isDynamic={true}
-                    >
-                        About Me
+                    >Résumé
                         <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
-                    </ScrollLink>
+                    </div>
                 </div>
 
                 <div className="relative mx-auto lg:mx-0 mt-12 md:mt-16 lg:mt-0">
@@ -86,6 +84,7 @@ const Hero = ({ mainData }: HeroProps) => {
                     <div className="absolute grid -top-6 -left-12 lg:-top-14 lg:-left-32 w-16 h-16 md:w-20 md:h-20 bg-white dark:bg-grey-800 rounded-full place-items-center hover:shadow-lg transition-shadow">
                         <Image alt='tech-stack' className="h-8 w-8 md:h-10 md:w-10 object-cover" src={techStackImages[0]} width={100} height={100} />
                     </div>
+                    
                     <div className="absolute grid top-0 -right-12 lg:-right-4 w-14 h-14 bg-white dark:bg-grey-800 rounded-full place-items-center hover:shadow-lg transition-shadow">
                         <Image alt='tech-stack' className="h-8 w-8 md:h-10 md:w-10 object-cover" src={techStackImages[1]} width={100} height={100} />
                     </div>

@@ -13,6 +13,9 @@
 html {
   scroll-behavior: smooth !important;
   optimizeLegibility: true;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
 }
 
 body {

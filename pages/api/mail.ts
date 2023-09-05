@@ -1,7 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import sgMail from "@sendgrid/mail";
 
-sgMail.setApiKey(process.env.SENDGRID_API_KEY || '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');
+sgMail.setApiKey(process.env.SENDGRID_API_KEY );
 
 type Data = {
     message: string;
@@ -21,7 +21,7 @@ export default async function handler(
         const data = {
             to: process.env.MAIL_TO as string,
             from: process.env.MAIL_FROM as string,
-            subject: `${name.toUpperCase()} sent you a message from Portfolio`,
+            subject: `${name.toUpperCase()} sent you a message from portfolio`,
             text: `Email => ${email}`,
             html: msg.replace(/\r\n/g, "<br>"),
         };
