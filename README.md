@@ -115,10 +115,10 @@ Here are the steps to run the portfolio locally.
    MAIL_TO=YOUR_MAIL_ID
    ```
 4. Hurray! You successfully deployed the portfolio🥳
-
+<!-- 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jigar-sable/next-portfolio/blob/main/LICENSE.md)
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jigar-sable/next-portfolio/blob/main/LICENSE.md) -->
 
 <!-- ## Contact 📬
 
