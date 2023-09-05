@@ -17,9 +17,9 @@
   },
   "about": {
     "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
-    "aboutImageCaption": "Dylan Nguyen",
+    "aboutImageCaption": "I develop progressive web apps & custom SAAS",
     "title": "Full Stack, AI, SAAS Developer",
-    "about": "I am an undergraduate currently obtaining a B.S. in Computer Science at University of California, Riverside. I am seeking any opportunities to apply and leverage my skill set in sofware development. <br><br> My experience encompasses extensive work with HTML/CSS/Javascript, the Bootstrap Framework, VueJS, AngularJS, and NodeJS. My projects have often required integration using AWS Lambda, Google App Engine, and AWS API Gateway. With hands-on experience in both SQL and NoSQL databases, I have designed and executed numerous seamless integrations for back-end services and databases, closely aligning with the outcomes MindFire expects. Being well-versed in Google Tag Manager, Google Analytics, Salesforce.com, and Zapier, I can confidently say that my skill set resonates with the expectations of this role. <br> <br> Beyond technical proficiencies, I am deeply familiar with the intricacies of digital marketing, from leveraging social media platform APIs to creating data-driven campaigns that resonate. My experience has also taught me the importance of being proactive and organized, especially in a fast-paced agency environment. I pride myself on my ability to multitask efficiently and maintain acute attention to detail, ensuring that every project I undertake is executed with precision and dedication.<br><br> Let's work together to bring your ideas to life! On a more personal note, I was born in Seattle, WA and grew up in Irvine, CA. My hobbies include surfing, tennis, skiing, cinema and coding",
+    "about": "I am an undergraduate currently obtaining a B.S. in Computer Science at University of California, Riverside. I am seeking any opportunities to apply and leverage my skill set in sofware development. My experience encompasses extensive work with HTML/CSS/Javascript, the Bootstrap Framework, VueJS, AngularJS, and NodeJS. My projects have often required integration using AWS Lambda, Google App Engine, and AWS API Gateway. With hands-on experience in both SQL and NoSQL databases, I have designed and executed numerous seamless integrations for back-end services and databases, closely aligning with the outcomes MindFire expects. Being well-versed in Google Tag Manager, Google Analytics, Salesforce.com, and Zapier, I can confidently say that my skill set resonates with the expectations of this role. <br> <br> Beyond technical proficiencies, I am deeply familiar with the intricacies of digital marketing, from leveraging social media platform APIs to creating data-driven campaigns that resonate. My experience has also taught me the importance of being proactive and organized, especially in a fast-paced agency environment. I pride myself on my ability to multitask efficiently and maintain acute attention to detail, ensuring that every project I undertake is executed with precision and dedication.<br><br> Let's work together to bring your ideas to life! On a more personal note, I was born in Seattle, WA and grew up in Irvine, CA. My hobbies include surfing, tennis, skiing, cinema and coding",
     "callUrl": "tel:+19498422889",
     "resumeUrl": "https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view"
   },
@@ -112,19 +112,14 @@
       "image": "https://img.icons8.com/color/144/null/mysql-logo.png",
       "category": "Backend"
     },
-        {
-      "name": "PHP",
-      "image": "https://jigarsable-jd3mn2g0e-jigar-sable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Foffices%2F160%2Fnull%2Fphp-logo.png&w=256&q=75",
-      "category": "Backend"
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/null/python.png",
+      "category": "Frontend"
     },
      {
       "name": "Git",
       "image": " https://img.icons8.com/color/144/null/mysql-logo.png",
-      "category": "Tools"
-    },
-    {
-      "name": "Agile",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
       "category": "Tools"
     },
      {
@@ -137,7 +132,7 @@
     {
       "name": "ClarityGPT - Powerful AI SAAS platform with 5 generative tools",
       "techstack": "React, TypeScript, Next.js, Node, Express, Tailwind, MongoDB, Lottie, Vercel",
-     "category":"",
+     "category":"AI",
       "image": "https://i.ibb.co/MsqB9B3/Screenshot-2023-09-04-at-23-29-46.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -148,7 +143,7 @@
     {
       "name": "HighlanderNow - Academic platform serving nearly 3,000 UCR students a month.",
       "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
-   
+      "category":"MERN",
       "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -158,9 +153,9 @@
     },
     
     {
-      "name": "Surfaholic - Peer to peer Surf Reports",
+      "name": "Surfaholic.AI - Peer to peer AI powered surf reports",
       "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"",
+     "category":"AI",
       "image": "https://i.ibb.co/KVLLnnc/IMG-1491.jpg",
       "links": {
         "code": "https://github.com/SurfApp-Inc",
@@ -170,8 +165,8 @@
     },
     {
       "name": "002Pickle™ - Pickleball E-Commerce Shop",
-      "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-      "category":"",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+      "category":"MERN",
       "image": "https://i.ibb.co/q0pGtwq/cap-logo.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -182,7 +177,7 @@
     {
       "name": "Startup Club@UCR - Landing",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"",
+     "category":"MERN",
       "image": "https://i.ibb.co/q0pGtwq/cap-logo.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -193,7 +188,7 @@
     {
       "name": "Chef'it – Find local homemade meals & home chefs",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"",
+     "category":"PWA",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -204,7 +199,7 @@
     {
       "name": "Responsive Portfolio v1",
       "techstack": "React, HTML, Bootstrap, TailWind",
-    
+    "category":"MERN",
       "image": "https://i.ibb.co/jDx7bm0/Screenshot-2023-09-04-at-23-44-04.png",
       "links": {
         "code": "https://github.com/thedigitalchief",

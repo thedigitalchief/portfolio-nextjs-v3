@@ -6,6 +6,7 @@ import { Link as ScrollLink } from 'react-scroll'
 import { FiSun, FiMoon } from 'react-icons/fi'
 import { FaNodeJs } from 'react-icons/fa'
 import { CgClose, CgMenuRight } from 'react-icons/cg'
+import Image from 'next/image';
 
 export default function Header({ logo }: { logo: string }) {
 
@@ -28,7 +29,7 @@ export default function Header({ logo }: { logo: string }) {
             <nav className='lg:w-11/12 2xl:w-4/5 w-full md:px-6 2xl:px-0 mx-auto py-4 hidden sm:flex items-center justify-between'>
 
                 <Link href={'/'} className='2xl:ml-6 hover:text-blue-700 hover:dark:text-blue-500 transition-colors duration-300'>
-                    {logo === 'Dylan Nguyen' ? <FaNodeJs size={28} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                    {logo === 'Dylan Nguyen' ? <Image width={40} height={40} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
                 </Link>
 
                 <ul className='flex items-center gap-8'>
@@ -55,7 +56,7 @@ export default function Header({ logo }: { logo: string }) {
             </nav>
 
             <nav className='p-4 flex sm:hidden items-center justify-between'>
-                {logo === 'Dylan Nguyen' ? <FaNodeJs size={28} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                {logo === 'Dylan Nguyen' ? <Image width={40} height={40} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
                 <div className='flex items-center gap-4'>
                     <span
                         onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
@@ -72,7 +73,7 @@ export default function Header({ logo }: { logo: string }) {
                 <div className="flex flex-col p-4 gap-5 bg-gray-100/95 backdrop-filter backdrop-blur-sm dark:bg-grey-900/95 w-3/4">
                     <CgClose className='self-end my-2' size={20} onClick={() => setNavCollapse(true)} />
 
-                    {navs.slice(0, 4).map((e) => (
+                    {navs.slice(0, 5).map((e) => (
                         <ScrollLink
                             key={e}
                             className='hover:text-purple-600 py-1.5 px-4 rounded transition-colors capitalize cursor-pointer'
