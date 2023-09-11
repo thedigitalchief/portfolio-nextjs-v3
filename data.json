@@ -1,13 +1,12 @@
 {
   "main": {
-    "name": "Dylan H. Nguyen",
-    "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
-    "Specifically, I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. Let's work together to bring your ideas to life!"
+    "name": "Dylan Nguyen",
+    "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance."
   ],
     "titles": [
-      "Full Stack engineering",
-      "AI, SAAS development",
-        "Progressive web apps"
+      "SAAS engineering",
+      "AI development",
+        "Progressive Web Apps"
     ],
     "heroImage": "https://i.ibb.co/MBCqx9z/profilepicture-japan2023.png",
     "techStackImages": [
@@ -21,9 +20,9 @@
     "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
     "aboutImageCaption": "I develop progressive web apps & custom SAAS",
     "title": "Dylan Nguyen",
-    "about": "What I enjoy most about software development is bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences. On a more personal note, if I'm not in front of a computer screen, I am most likely surfing, playing tennis, trying new cuisines, or video editing. I was born in Seattle, WA but grew up in Irvine. I am currently a computer science undergraduate at University of California, Riverside and will be graduating in 2023. I am currently looking for full-time opportunities in software engineering. If you are interested in working together or just want to say hi, feel free to reach out!",
+    "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. What I enjoy most about software development is bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.",
     "callUrl": "tel:+19498422889",
-    "resumeUrl": "https://drive.google.com/file/d/1G-hSOE66OOoq9LWxWY7BnnIWxB99yhBr/view"
+    "resumeUrl": "https://drive.google.com/file/d/1xP9PyQKeyyvRVL9fXbvZBJ1LBzN1MGCd/view"
   },
   "socials": [
     {
