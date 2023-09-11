@@ -149,7 +149,7 @@
     {
       "name": "HighlanderNow - Powerful academic platform serving nearly 3,000 UCR students a month.",
       "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
-      "category":"MERN",
+      "category":"PWA",
       "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -166,13 +166,13 @@
       "links": {
         "code": "https://github.com/SurfApp-Inc",
         "video": "https://dylanhnguyen.com/assets/surfaholic.f74a38ab.mp4",
-        "visit": "https://surfaholic.app"
+        "visit": "https://surfaholic.netlify.app"
       }
     },
     {
       "name": "002Pickle™ - Pickleball E-Commerce Shop",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-      "category":"MERN",
+      "category":"E-commerce",
       "image": "https://i.ibb.co/Lnk98hr/Untitled.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -192,7 +192,7 @@
       }
     },
     {
-      "name": "Chef'it – Find local homemade meals & home chefs",
+      "name": "Chef'it App– Find local homemade meals & home chefs",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"PWA",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
@@ -203,9 +203,20 @@
       }
     },
     {
+      "name": "Chef'it Landing – Find local homemade meals & home chefs",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+     "category":"Landing",
+      "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
+        "visit": "https://chefit.io"
+      }
+    },
+    {
       "name": "Responsive Portfolio v1",
       "techstack": "React, HTML, Bootstrap, TailWind",
-    "category":"MERN",
+    "category":"Landing",
       "image": "https://portfolio-reactvite-v5.vercel.app/assets/portfolio.d24c72e0.mp4",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -216,7 +227,7 @@
     {
       "name": "SAAS Startup Landing",
       "techstack": "React, HTML, Bootstrap, TailWind",
-    "category":"MERN",
+    "category":"Landing",
       "image": "https://i.ibb.co/Yjk7ksy/Screenshot-2023-09-11-at-12-06-27.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -224,10 +235,21 @@
         "visit": "https://portfolio-optimized.vercel.app"
       }
     },
+      {
+      "name": "True Picture Enhancer",
+      "techstack": "React, HTML, Bootstrap, TailWind, Vue",
+    "category":"PWA",
+      "image": "hhttps://i.ibb.co/3r5yWtH/68747470733a2f2f6769746c61622e636f6d2f5468654576696c536b656c65746f6e2f55707363616c65722f2d2f7261772f.png",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "",
+        "visit": "https://picture-upscaler.vercel.app"
+      }
+    },
     {
-      "name": "Responsive Portfolio v1",
+      "name": "AI Plagiarism Checker",
       "techstack": "React, HTML, Bootstrap, TailWind",
-    "category":"MERN",
+    "category":"AI",
       "image": "https://i.ibb.co/jDx7bm0/Screenshot-2023-09-04-at-23-44-04.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -243,7 +265,7 @@
       "duration": "2015 - 2019",
        "desc": [
 
-        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
+       
       ]
     }
     ,
@@ -298,7 +320,7 @@
       "desc": [
         "Analyzed and resolved technology problems for Irvine residents",
         "Provided individualized assessment and tailored education plans",
-        "Skills: Technology Troubleshooting, Communication, Time Management, Patience, Adaptability"
+        "Skills: Technology Education, Communication, Time Management, Adaptability"
       ]
     },
     {
@@ -308,8 +330,8 @@
       "desc": [
         "Safely handled and provided punctual delivery services of customer products",
         "Promoted to Gold Status for providing exceptional customer and merchant communication service",
-        "Maintained a 4.9/5.0 rating with over 500 deliveries",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
+        "Skills: Customer Service, Communication, Time Management, Adaptability"
+
       ]
     },
      {
@@ -326,11 +348,11 @@
      {
       "company": "TriNet Internet Solutions, Inc.",
       "position": "Web Developer Intern",
-      "duration": "June 2023 - Present",
+      "duration": "June 2023 - August 2023",
       "desc": [
-        "Optimized website performance with caching mechanisms using Memcached and Redis.",
-        "added full responsiveness to all mobile environments",
-        "Improved loading speeds by 34% by implementing lazy loading and image optimization"
+        "Developed dynamic, database-driven website pages and increased performance by 15% by using caching mechanisms with Memcached and Redis.",
+        "Assisted in adding full responsiveness to mobile environments",
+        "Improved loading speeds by 34% by implementing lazy loading and image optimization."
 
       ]
     }
