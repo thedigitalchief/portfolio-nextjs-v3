@@ -35,12 +35,16 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaEmail",
+      "icon": "FaTwitter",
       "link": "mailto:hello@dylanhnguyen.com"
     },
     {
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/itsdigitalchief"
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/dylanhnguyen"
+    },
+    {
+      "icon": "FaYoutube",
+      "link": "https://www.youtube.com/channel/UC4QXqyXQ3Y5zQ1Yq6XcQ1jQ"
     }
   ],
   "skills": [
@@ -202,7 +206,7 @@
       "name": "Responsive Portfolio v1",
       "techstack": "React, HTML, Bootstrap, TailWind",
     "category":"MERN",
-      "image": "https://i.ibb.co/jDx7bm0/Screenshot-2023-09-04-at-23-44-04.png",
+      "image": "https://portfolio-reactvite-v5.vercel.app/assets/portfolio.d24c72e0.mp4",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/portfolio.d24c72e0.mp4",
@@ -210,10 +214,10 @@
       }
     },
     {
-      "name": "Responsive Portfolio v1",
+      "name": "SAAS Startup Landing",
       "techstack": "React, HTML, Bootstrap, TailWind",
     "category":"MERN",
-      "image": "https://i.ibb.co/jDx7bm0/Screenshot-2023-09-04-at-23-44-04.png",
+      "image": "https://i.ibb.co/Yjk7ksy/Screenshot-2023-09-11-at-12-06-27.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/portfolio.d24c72e0.mp4",

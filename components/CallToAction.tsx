@@ -21,7 +21,7 @@ const CallToAction = () => {
                         {/* Fork Now */}
                     </Link>
                     <Link href="https://github.com/thedigitalchief" target="_blank" className="py-2 px-4 bg-blue-800 rounded-lg w-fit flex items-center gap-2 hover:bg-blue-900 transition-all">
-                        Visit Docs
+                        Visit GitHub
                         <BiLinkExternal />
                     </Link>
                 </div>
