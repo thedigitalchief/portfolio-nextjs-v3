@@ -141,7 +141,7 @@
       }
     },
     {
-      "name": "HighlanderNow - Academic platform serving nearly 3,000 UCR students a month.",
+      "name": "HighlanderNow - Powerful academic platform serving nearly 3,000 UCR students a month.",
       "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
       "category":"MERN",
       "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
@@ -153,10 +153,10 @@
     },
     
     {
-      "name": "Surfaholic.AI - Peer to peer AI powered surf reports",
+      "name": "Surfaholic - Peer to peer AI powered surf reports",
       "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"AI",
-      "image": "https://i.ibb.co/KVLLnnc/IMG-1491.jpg",
+      "image": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/SurfApp-Inc",
         "video": "https://dylanhnguyen.com/assets/surfaholic.f74a38ab.mp4",
@@ -167,7 +167,7 @@
       "name": "002Pickle™ - Pickleball E-Commerce Shop",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
       "category":"MERN",
-      "image": "https://i.ibb.co/q0pGtwq/cap-logo.png",
+      "image": "https://i.ibb.co/Lnk98hr/Untitled.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/002pickle-demo.e366c128.mp4",
@@ -178,10 +178,10 @@
       "name": "Startup Club@UCR - Landing",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"MERN",
-      "image": "https://i.ibb.co/q0pGtwq/cap-logo.png",
+      "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
-        "code": "https://github.com/thedigitalchief",
-        "video": "https://dylanhnguyen.com/assets/startupucr.9c9ee42e.mp4",
+        "code": "https://github.com/thedigitalchief/startupucr",
+        "video": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
         "visit": "https://startupucr.com"
       }
     },
@@ -194,6 +194,28 @@
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
         "visit": "https://chefit.io"
+      }
+    },
+    {
+      "name": "Responsive Portfolio v1",
+      "techstack": "React, HTML, Bootstrap, TailWind",
+    "category":"MERN",
+      "image": "https://i.ibb.co/jDx7bm0/Screenshot-2023-09-04-at-23-44-04.png",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "https://dylanhnguyen.com/assets/portfolio.d24c72e0.mp4",
+        "visit": "https://portfolio-optimized.vercel.app"
+      }
+    },
+    {
+      "name": "Responsive Portfolio v1",
+      "techstack": "React, HTML, Bootstrap, TailWind",
+    "category":"MERN",
+      "image": "https://i.ibb.co/jDx7bm0/Screenshot-2023-09-04-at-23-44-04.png",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "https://dylanhnguyen.com/assets/portfolio.d24c72e0.mp4",
+        "visit": "https://portfolio-optimized.vercel.app"
       }
     },
     {
