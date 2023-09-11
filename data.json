@@ -1,7 +1,9 @@
 {
   "main": {
     "name": "Dylan H. Nguyen",
-    "shortDesc": "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+    "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+    "Specifically, I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. Let's work together to bring your ideas to life!"
+  ],
     "titles": [
       "Full Stack engineering",
       "AI, SAAS development",
@@ -18,10 +20,10 @@
   "about": {
     "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
     "aboutImageCaption": "I develop progressive web apps & custom SAAS",
-    "title": "Full Stack, AI, SAAS Developer",
-    "about": "I am an undergraduate currently obtaining a B.S. in Computer Science at University of California, Riverside. I am seeking any opportunities to apply and leverage my skill set in sofware development. My experience encompasses extensive work with HTML/CSS/Javascript, the Bootstrap Framework, VueJS, AngularJS, and NodeJS. My projects have often required integration using AWS Lambda, Google App Engine, and AWS API Gateway. With hands-on experience in both SQL and NoSQL databases, I have designed and executed numerous seamless integrations for back-end services and databases, closely aligning with the outcomes MindFire expects. Being well-versed in Google Tag Manager, Google Analytics, Salesforce.com, and Zapier, I can confidently say that my skill set resonates with the expectations of this role. <br> <br> Beyond technical proficiencies, I am deeply familiar with the intricacies of digital marketing, from leveraging social media platform APIs to creating data-driven campaigns that resonate. My experience has also taught me the importance of being proactive and organized, especially in a fast-paced agency environment. I pride myself on my ability to multitask efficiently and maintain acute attention to detail, ensuring that every project I undertake is executed with precision and dedication.<br><br> Let's work together to bring your ideas to life! On a more personal note, I was born in Seattle, WA and grew up in Irvine, CA. My hobbies include surfing, tennis, skiing, cinema and coding",
+    "title": "Dylan Nguyen",
+    "about": "What I enjoy most about software development is bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences. On a more personal note, if I'm not in front of a computer screen, I am most likely surfing, playing tennis, trying new cuisines, or video editing. I was born in Seattle, WA but grew up in Irvine. I am currently a computer science undergraduate at University of California, Riverside and will be graduating in 2023. I am currently looking for full-time opportunities in software engineering. If you are interested in working together or just want to say hi, feel free to reach out!",
     "callUrl": "tel:+19498422889",
-    "resumeUrl": "https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view"
+    "resumeUrl": "https://drive.google.com/file/d/1G-hSOE66OOoq9LWxWY7BnnIWxB99yhBr/view"
   },
   "socials": [
     {
@@ -33,7 +35,7 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaInstagram",
+      "icon": "FaEmail",
       "link": "mailto:hello@dylanhnguyen.com"
     },
     {
@@ -53,13 +55,13 @@
       "category": "Backend"
     },
     {
-      "name": "GitHub",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
-      "category": "Tools"
+      "name": "C++",
+      "image": "https://portfolio-optimized.vercel.app/icons/icons8-c++.svg",
+      "category": "Frontend"
     },
  {
       "name": "React",
-      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "image": "hhttps://portfolio-optimized.vercel.app/icons/icons8-react-native.svg",
       "category": "Frontend"
     },
     {
@@ -89,7 +91,7 @@
     },
       {
       "name": "Node.js",
-      "image": " https://img.icons8.com/color/144/null/mysql-logo.png",
+      "image": "https://portfolio-optimized.vercel.app/icons/icons8-nodejs.svg",
       "category": "Backend"
     },
     {
@@ -99,7 +101,7 @@
     },
      {
       "name": "MongoDB",
-      "image": "https://jigarsable-jd3mn2g0e-jigar-sable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fexternal-tal-revivo-color-tal-revivo%2F96%2Fnull%2Fexternal-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png&w=256&q=75",
+      "image": "hhttps://portfolio-optimized.vercel.app/icons/mongodb.svg",
       "category": "Backend"
     },
     {
@@ -119,7 +121,7 @@
     },
      {
       "name": "Git",
-      "image": " https://img.icons8.com/color/144/null/mysql-logo.png",
+      "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
       "category": "Tools"
     },
      {
@@ -236,31 +238,43 @@
       "degree": "High School Diploma",
       "duration": "2015 - 2019",
        "desc": [
-       "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
+
         "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
       ]
     }
     ,
     {
       "institute": "Irvine Valley College",
-      "degree": "Transfer Program",
+      "degree": "Transfer IGETC",
       "duration": "2019 - 2021",
       "desc": [
-        "Pursuing engineering degree with a focus on software development and machine learning"
+        "Pursuing engineering degree with a focus on software development and machine learning",
+              "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL"
       ]
     },
      {
-      "institute": "Bourns School of Engineering | University of California, Riverside",
+      "institute": "Bourns School of Engineering, University of California, Riverside",
       "degree": "Computer Science, B.S.",
       "duration": "2021 - 2023 (Expected)",
       "desc": [
-       "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
-        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
+ "Strong understanding of machine learning, artificial intelligence, big data, regression analysis, and data mining",
+        "Knowledgeable in software development methodologies and project management practices, including Agile, Waterfall, Scrum, design patterns, and Git."
       ]
     }
     
   ],
   "experiences": [
+     {
+      "company": "Tyvak Systems",
+      "position": "Engineer Intern",
+      "duration": "April 2017 - December 2018",
+      "desc": [
+        "Individually selected to join small team of first high school students to successfully develop and launch a nano-satellite into orbital space",
+        "Assisted in development of orbital camera module team from Tyvak Nano-Satellite systems",
+        "Developed technical specifications and government legal documentsA"
+      
+      ]
+    },
      {
       "company": "Woodly Co. USA, Inc.",
       "position": "Private-label Brand Founder",
@@ -306,13 +320,14 @@
       ]
     },
      {
-      "company": "UpWork",
-      "position": "Full Stack Developer",
+      "company": "TriNet Internet Solutions, Inc.",
+      "position": "Web Developer Intern",
       "duration": "June 2023 - Present",
       "desc": [
-        "Developing scalable, responsive SaaS progressive web apps, Demonstrated success in application optimization, ensuring seamless operation across all device types and network conditions.",
-        "effective project management, client communication, and the ability to meet tight deadlines"
-      
+        "Optimized website performance with caching mechanisms using Memcached and Redis.",
+        "added full responsiveness to all mobile environments",
+        "Improved loading speeds by 34% by implementing lazy loading and image optimization"
+
       ]
     }
   ]
