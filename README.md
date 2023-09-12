@@ -1,20 +1,6 @@
+## Dylan Nguyen - Personal Portfolio - Next.js
 
 
-Here are the steps to run the portfolio locally.
-
-1. Fork [this](https://github.com/jigar-sable/next-portfolio) repository.
-
-2. Clone your forked copy of the repo
-
-   ```bash
-   git clone https://github.com/<your-github-username>/next-portfolio.git
-   ```
-
-3. Install dependencies
-
-   ```bash
-   npm i
-   ```
 
 4. Create a Firebase project and select the web app
 

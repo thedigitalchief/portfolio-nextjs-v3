@@ -18,8 +18,8 @@
   },
   "about": {
     "aboutImage": "https://i.ibb.co/wcgXxdS/Unknown.gif",
-    "aboutImageCaption": "My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences",
-    "title": "AI, SAAS, PWA, E-commerce, Landing Pages",
+    "aboutImageCaption": "I strive to developscalable and efficient applications while still providing engaging, pixel-perfect user experiences.",
+    "title": "AI, SAAS, PWA, E-commerce, CMS",
     "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress.",
     "callUrl": "tel:+19498422889",
     "resumeUrl": "https://drive.google.com/file/d/1xP9PyQKeyyvRVL9fXbvZBJ1LBzN1MGCd/view"
@@ -38,7 +38,7 @@
       "link": "mailto:hello@dylanhnguyen.com"
     },
     {
-      "icon": "FaPhone",
+      "icon": "FaTwitter",
       "link": "tel:+19498422889"
     }
   ],
@@ -117,11 +117,6 @@
       "name": "Git",
       "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
       "category": "Tools"
-    },
-     {
-      "name": "JQuery",
-      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fexternal-tal-revivo-shadow-tal-revivo%2F96%2Fnull%2Fexternal-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png&w=256&q=75",
-      "category": "Frontend"
     }
   ],
   "projects": [

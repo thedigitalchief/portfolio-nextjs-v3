@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import * as Fa from 'react-icons/fa';
 import { social } from '@/types/main';
-import { IconType } from '../node_modules/react-icons/lib'
+// import { IconType } from '../node_modules/react-icons/lib'
 
 const Socials = ({ socials }: { socials: social[] }) => {
 
@@ -16,7 +16,7 @@ const Socials = ({ socials }: { socials: social[] }) => {
                 // const iconIndex = components.indexOf(icon : IconType)
                 // const Icon = components[`Fa${icon}`]
                 return (
-                    <Link href={s.link} target="_blank" rel="noreferrer" key={s.icon} className="grid place-items-center p-3 hover:animate-bounce rounded-full bg-blue-700 text-white">
+                    <Link href={s.link} target="_blank" rel="noreferrer" key={s.icon} className="grid place-items-center p-3 hover:animate-bounce rounded-full bg-violet-700 text-white">
                         {
                             //@ts-ignore
                             React.createElement(Fa[`${s.icon}`])
