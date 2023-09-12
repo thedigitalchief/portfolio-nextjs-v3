@@ -55,22 +55,4 @@ Here are the steps to run the portfolio locally.
    MAIL_FROM=YOUR_MAIL_ID
    MAIL_TO=YOUR_MAIL_ID
    ```
-4. Hurray! You successfully deployed the portfolio🥳
-<!-- 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jigar-sable/next-portfolio/blob/main/LICENSE.md) -->
-
-<!-- ## Contact 📬
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
-
-## Support 🙌
-
-If you like this portfolio, please consider giving it a ⭐ on GitHub and sharing it with your friends via social media.
-
-<div align="center">
-  <h3> Show some &nbsp;❤️&nbsp; by starring this repo! </h3>
-</div> -->
+4. Hurray! 

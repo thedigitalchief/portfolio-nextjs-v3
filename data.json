@@ -1,12 +1,12 @@
 {
   "main": {
     "name": "Dylan Nguyen",
-    "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance."
+    "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance. What I enjoy most about software development is bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product."
   ],
     "titles": [
       "SAAS engineering",
       "AI development",
-        "Progressive Web Apps"
+      "Progressive Web Apps"
     ],
     "heroImage": "https://i.ibb.co/MBCqx9z/profilepicture-japan2023.png",
     "techStackImages": [
@@ -18,9 +18,9 @@
   },
   "about": {
     "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
-    "aboutImageCaption": "I develop progressive web apps & custom SAAS",
+    "aboutImageCaption": "AI, SAAS full-stack developer",
     "title": "Dylan Nguyen",
-    "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. What I enjoy most about software development is bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.",
+    "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.",
     "callUrl": "tel:+19498422889",
     "resumeUrl": "https://drive.google.com/file/d/1xP9PyQKeyyvRVL9fXbvZBJ1LBzN1MGCd/view"
   },
@@ -39,11 +39,7 @@
     },
     {
       "icon": "FaInstagram",
-      "link": "https://www.instagram.com/dylanhnguyen"
-    },
-    {
-      "icon": "FaYoutube",
-      "link": "https://www.youtube.com/channel/UC4QXqyXQ3Y5zQ1Yq6XcQ1jQ"
+      "link": "tel:+19498422889"
     }
   ],
   "skills": [
@@ -69,27 +65,27 @@
     },
     {
       "name": "Next.js",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png",
       "category": "Frontend"
     },
     {
       "name": "TypeScript",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "image": "https://i.ibb.co/7265F1d/typescript-icons8.png",
       "category": "Frontend"
     },
      {
       "name": "Tailwind",
-      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "image": "https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png",
       "category": "Frontend"
     },
     {
       "name": "Bootstrap",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "image": "https://icons.getbootstrap.com/assets/img/favicons/favicon-32x32.png",
       "category": "Frontend"
     },
     {
       "name": "JQuery",
-      "image": "https://img.icons8.com/material-outlined",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTiLqtMSiadOggqrvLEHWe7ES8KK6VEUz9VTLgWWy&s",
       "category": "Frontend"
     },
       {
@@ -99,12 +95,12 @@
     },
     {
       "name": "Express",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "image": "https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png",
       "category": "Backend"
     },
      {
       "name": "MongoDB",
-      "image": "hhttps://portfolio-optimized.vercel.app/icons/mongodb.svg",
+      "image": "https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png",
       "category": "Backend"
     },
     {
@@ -129,7 +125,7 @@
     },
      {
       "name": "Vercel",
-      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "image": "https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67",
       "category": "Tools"
     }
   ],
@@ -204,19 +200,19 @@
     {
       "name": "Chef'it Landing – Find local homemade meals & home chefs",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Landing",
+     "category":"MERN",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
-        "visit": "https://chefit.io"
+        "visit": "https://chefit-app-v3.vercel.appo"
       }
     },
     {
       "name": "Responsive Portfolio v1",
       "techstack": "React, HTML, Bootstrap, TailWind",
     "category":"Landing",
-      "image": "https://portfolio-reactvite-v5.vercel.app/assets/portfolio.d24c72e0.mp4",
+      "image": "https://i.ibb.co/sqDLbnx/Screenshot-2023-09-04-at-23-44-04.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/portfolio.d24c72e0.mp4",
@@ -231,14 +227,14 @@
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/portfolio.d24c72e0.mp4",
-        "visit": "https://portfolio-optimized.vercel.app"
+        "visit": "https://next-saas-starter-master-snowy.vercel.app"
       }
     },
       {
       "name": "True Picture Enhancer",
       "techstack": "React, HTML, Bootstrap, TailWind, Vue",
     "category":"PWA",
-      "image": "hhttps://i.ibb.co/3r5yWtH/68747470733a2f2f6769746c61622e636f6d2f5468654576696c536b656c65746f6e2f55707363616c65722f2d2f7261772f.png",
+      "image": "https://i.ibb.co/3r5yWtH/68747470733a2f2f6769746c61622e636f6d2f5468654576696c536b656c65746f6e2f55707363616c65722f2d2f7261772f.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "",
