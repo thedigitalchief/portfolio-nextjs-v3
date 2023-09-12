@@ -4,8 +4,8 @@
     "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance. What I enjoy most about software development is bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product."
   ],
     "titles": [
-      "SAAS engineering",
-      "AI development",
+      "SAAS Engineering",
+      "AI Development",
       "Progressive Web Apps"
     ],
     "heroImage": "https://i.ibb.co/MBCqx9z/profilepicture-japan2023.png",
@@ -17,10 +17,10 @@
     ]
   },
   "about": {
-    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
-    "aboutImageCaption": "AI, SAAS & PWA Developer",
-    "title": "Learn about me.",
-    "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.",
+    "aboutImage": "https://i.ibb.co/wcgXxdS/Unknown.gif",
+    "aboutImageCaption": "My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences",
+    "title": "AI, SAAS, PWA, E-commerce, Landing Pages",
+    "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress.",
     "callUrl": "tel:+19498422889",
     "resumeUrl": "https://drive.google.com/file/d/1xP9PyQKeyyvRVL9fXbvZBJ1LBzN1MGCd/view"
   },
@@ -60,7 +60,7 @@
     },
  {
       "name": "React",
-      "image": "https://portfolio-optimized.vercel.app/icons/icons8-react-native.svg",
+      "image": "https://res.cloudinary.com/lifecodes/image/upload/v1678131853/Portfolio/rmz2jvsww4cdwkfriuyc.svg",
       "category": "Frontend"
     },
     {
@@ -75,17 +75,17 @@
     },
      {
       "name": "Tailwind",
-      "image": "https://portfolio-reactvite-v5.vercel.app/assets/tailwind-logo.8e8afef7.svg",
+      "image": "https://img.icons8.com/color/144/null/tailwindcss.png",
       "category": "Frontend"
     },
     {
       "name": "Bootstrap",
-      "image": "https://icons.getbootstrap.com/assets/img/favicons/favicon-32x32.png",
+      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Fbootstrap.png&w=256&q=75",
       "category": "Frontend"
     },
     {
-      "name": "JQuery",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTiLqtMSiadOggqrvLEHWe7ES8KK6VEUz9VTLgWWy&s",
+      "name": "Java",
+      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Fjava-coffee-cup-logo--v1.png&w=256&q=75",
       "category": "Frontend"
     },
       {
@@ -95,22 +95,22 @@
     },
     {
       "name": "Express",
-      "image": "https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png",
+      "image": "https://img.icons8.com/ios/150/null/express-js.png",
       "category": "Backend"
     },
      {
       "name": "MongoDB",
-      "image": "https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png",
+      "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png",
       "category": "Backend"
     },
     {
       "name": "AWS",
-      "image": "https://jigarsable-jd3mn2g0e-jigar-sable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Famazon-web-services.png&w=256&q=75",
+      "image": "https://img.icons8.com/color/144/null/amazon-web-services.png5",
       "category": "Backend"
     },
     {
-      "name": "MySQL",
-      "image": "https://img.icons8.com/color/144/null/mysql-logo.png",
+      "name": "SQL",
+      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Fmysql-logo.png&w=256&q=75",
       "category": "Backend"
     },
     {
@@ -124,9 +124,9 @@
       "category": "Tools"
     },
      {
-      "name": "Vercel",
-      "image": "https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67",
-      "category": "Tools"
+      "name": "JQuery",
+      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fexternal-tal-revivo-shadow-tal-revivo%2F96%2Fnull%2Fexternal-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png&w=256&q=75",
+      "category": "Frontend"
     }
   ],
   "projects": [
@@ -234,7 +234,7 @@
       "name": "True Picture Enhancer",
       "techstack": "React, HTML, Bootstrap, TailWind, Vue",
     "category":"PWA",
-      "image": "https://i.ibb.co/3r5yWtH/68747470733a2f2f6769746c61622e636f6d2f5468654576696c536b656c65746f6e2f55707363616c65722f2d2f7261772f.png",
+      "image": "https://raw.githubusercontent.com/upscayl/upscayl.github.io/main/static/upscayl-desktop.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "",
@@ -243,12 +243,23 @@
     },
     {
       "name": "AI Plagiarism Checker",
-      "techstack": "React, HTML, Bootstrap, TailWind",
+      "techstack": "React, HTML, Bootstrap",
     "category":"AI",
-      "image": "https://github.com/josemmo/plagpatrol/raw/master/demo.gif",
+      "image": "https://user-images.githubusercontent.com/125241405/235997302-2a66bdef-0735-48a6-bc56-91aeb46a1c4d.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
-        "video": "",
+        "video": "https://raw.githubusercontent.com/josemmo/plagpatrol/master/demo.gif",
+        "visit": "https://josemmo.github.io/plagpatrol/"
+      }
+    },
+    {
+      "name": "LinkedIn Auto-Apply Bot",
+      "techstack": "Python, Selenium, BS4, PyautoGUI",
+    "category":"AI",
+      "image": "https://i.ibb.co/8MyHbFs/linkedin-networking-bot-demo-8-48-18-PM.gif",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "https://raw.githubusercontent.com/josemmo/plagpatrol/master/demo.gif",
         "visit": "https://josemmo.github.io/plagpatrol/"
       }
     }
@@ -259,7 +270,7 @@
       "degree": "High School Diploma",
       "duration": "2015 - 2019",
        "desc": [
-
+        "Nation Merit Scholar, Varsity nationally ranked tennis, AP Scholar"
        
       ]
     }

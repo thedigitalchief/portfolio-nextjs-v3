@@ -29,7 +29,7 @@ export default function Header({ logo }: { logo: string }) {
             <nav className='lg:w-11/12 2xl:w-4/5 w-full md:px-6 2xl:px-0 mx-auto py-4 hidden sm:flex items-center justify-between'>
 
                 <Link href={'/'} className='2xl:ml-6 hover:text-blue-700 hover:dark:text-blue-500 transition-colors duration-300'>
-                    {logo === 'Dylan Nguyen' ? <Image width={40} height={40} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                    {logo === 'Dylan Nguyen' ? <Image width={45} height={45} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
                 </Link>
 
                 <ul className='flex items-center gap-8'>
