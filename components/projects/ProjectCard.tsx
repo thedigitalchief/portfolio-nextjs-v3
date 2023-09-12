@@ -29,7 +29,7 @@ const Project = ({ name, image, category, techstack, links }: project) => {
             <div className="relative group rounded-lg bg-blue-50">
                 <Image alt={name} width={1000} height={1000} className="max-w-full h-48 max-h-full object-cover object-top rounded-lg" src={image} />
                 {(links.visit.trim() || links.code.trim() || links.video.trim()) &&
-                    <div className="absolute top-0 scale-x-0 group-hover:scale-100 transition-transform origin-left duration-200 ease-linear bg-gray-800 bg-opacity-60 w-full h-full rounded-lg flex items-center gap-4 justify-center">
+                    <div className="absolute top-0 scale-x-0 group-hover:scale-100 transition-transform origin-left duration-300 ease-linear bg-gray-800 bg-opacity-60 w-full h-full rounded-lg flex items-center gap-4 justify-center">
                         {links.visit.trim() &&
                             <Link href={links.visit} target="_blank" className="bg-white text-black p-2 rounded-lg hover:bg-black hover:text-white transition-all">
                                 <BiLinkExternal size={20} />

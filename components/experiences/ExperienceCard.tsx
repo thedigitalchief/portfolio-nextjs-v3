@@ -21,7 +21,7 @@ const Experience = ({ index, company, position, desc, institute, degree, duratio
 
   const cardVariants = {
     hidden: { x: index % 2 === 0 ? 20 : -20, opacity: 0 },
-    visible: { x: 0, opacity: 1, transition: { duration: 0.6, ease: 'easeInOut' } }
+    visible: { x: 0, opacity: 1, transition: { duration: 0.3, ease: 'easeInOut' } }
   };
 
   return (

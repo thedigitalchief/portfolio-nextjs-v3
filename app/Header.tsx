@@ -29,7 +29,7 @@ export default function Header({ logo }: { logo: string }) {
             <nav className='lg:w-11/12 2xl:w-4/5 w-full md:px-6 2xl:px-0 mx-auto py-4 hidden sm:flex items-center justify-between'>
 
                 <Link href={'/'} className='2xl:ml-6 hover:text-blue-700 hover:dark:text-blue-500 transition-colors duration-300'>
-                    {logo === 'Dylan Nguyen' ? <Image width={45} height={45} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                    {logo === 'Dylan Nguyen' ? <Image width={43} height={43} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
                 </Link>
 
                 <ul className='flex items-center gap-8'>
@@ -63,7 +63,7 @@ export default function Header({ logo }: { logo: string }) {
                         className='bg-gray-100 dark:bg-blue-700 p-1.5 rounded-full cursor-pointer transition-colors'>
                         {theme === 'dark' ? <FiSun /> : <FiMoon />}
                     </span>
-                    <CgMenuRight size={20} onClick={() => setNavCollapse(false)} />
+                    <CgMenuRight size={22} onClick={() => setNavCollapse(false)} />
                 </div>
             </nav>
 
@@ -80,7 +80,7 @@ export default function Header({ logo }: { logo: string }) {
                             to={e}
                             offset={-60}
                             smooth={true}
-                            duration={500}
+                            duration={600}
                             isDynamic={true}
                             onClick={() => setNavCollapse(true)}
                         >
@@ -91,7 +91,7 @@ export default function Header({ logo }: { logo: string }) {
                         to='contact'
                         offset={-60}
                         smooth={true}
-                        duration={500}
+                        duration={600}
                         onClick={() => setNavCollapse(true)}
                         className='px-6 py-1.5 rounded-md bg-blue-600 hover:bg-blue-700 text-white text-center'>
                         Contact
