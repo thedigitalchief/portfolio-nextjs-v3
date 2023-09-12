@@ -18,8 +18,8 @@
   },
   "about": {
     "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
-    "aboutImageCaption": "AI, SAAS full-stack developer",
-    "title": "Dylan Nguyen",
+    "aboutImageCaption": "AI, SAAS & PWA Developer",
+    "title": "Learn about me.",
     "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.",
     "callUrl": "tel:+19498422889",
     "resumeUrl": "https://drive.google.com/file/d/1xP9PyQKeyyvRVL9fXbvZBJ1LBzN1MGCd/view"
@@ -34,11 +34,11 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaTwitter",
+      "icon": "FaEmail",
       "link": "mailto:hello@dylanhnguyen.com"
     },
     {
-      "icon": "FaInstagram",
+      "icon": "FaPhone",
       "link": "tel:+19498422889"
     }
   ],
@@ -60,12 +60,12 @@
     },
  {
       "name": "React",
-      "image": "hhttps://portfolio-optimized.vercel.app/icons/icons8-react-native.svg",
+      "image": "https://portfolio-optimized.vercel.app/icons/icons8-react-native.svg",
       "category": "Frontend"
     },
     {
-      "name": "Next.js",
-      "image": "https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png",
+      "name": "Next",
+      "image": "https://portfolio-reactvite-v5.vercel.app/assets/next-logo.47eabacf.svg",
       "category": "Frontend"
     },
     {
@@ -75,7 +75,7 @@
     },
      {
       "name": "Tailwind",
-      "image": "https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png",
+      "image": "https://portfolio-reactvite-v5.vercel.app/assets/tailwind-logo.8e8afef7.svg",
       "category": "Frontend"
     },
     {
@@ -109,7 +109,7 @@
       "category": "Backend"
     },
     {
-      "name": "MySQL/SQlite",
+      "name": "MySQL",
       "image": "https://img.icons8.com/color/144/null/mysql-logo.png",
       "category": "Backend"
     },
