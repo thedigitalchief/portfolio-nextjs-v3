@@ -24,7 +24,7 @@
     "callUrl": "tel:+19498422889",
     "resumeUrl": "https://drive.google.com/file/d/1xP9PyQKeyyvRVL9fXbvZBJ1LBzN1MGCd/view"
   },
-  "socials": [
+    "socials": [
     {
       "icon": "FaLinkedin",
       "link": "https://www.linkedin.com/in/dylanhnguyen"
@@ -34,12 +34,12 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaEmail",
-      "link": "mailto:hello@dylanhnguyen.com"
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/"
     },
     {
-      "icon": "FaPhone",
-      "link": "tel:+19498422889"
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/itsdigitalchief"
     }
   ],
   "skills": [

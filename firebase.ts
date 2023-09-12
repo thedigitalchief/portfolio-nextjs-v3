@@ -1,4 +1,5 @@
 import { getApp, getApps, initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
 import { getDatabase } from 'firebase/database';
 
 const firebaseConfig = {
@@ -12,7 +13,8 @@ const firebaseConfig = {
   measurementId: "G-JQSL4P2CEG"
 };
 
-
 // Initialize Firebase
+
 const app = getApps().length ? getApp() : initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
 export const database = getDatabase(app);
