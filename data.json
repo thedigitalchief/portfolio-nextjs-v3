@@ -34,12 +34,12 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaInstagram",
-      "link": "https://www.instagram.com/"
+      "icon": "FaEmail",
+      "link": "mailto:hello@dylanhnguyen.com"
     },
     {
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/itsdigitalchief"
+      "icon": "FaPhone",
+      "link": "tel:+19498422889"
     }
   ],
   "skills": [
@@ -79,13 +79,8 @@
       "category": "Frontend"
     },
     {
-      "name": "Bootstrap",
-      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Fbootstrap.png&w=256&q=75",
-      "category": "Frontend"
-    },
-    {
       "name": "Java",
-      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Fjava-coffee-cup-logo--v1.png&w=256&q=75",
+      "image": " https://img.icons8.com/color/144/null/java-coffee-cup-logo--v1.png",
       "category": "Frontend"
     },
       {
@@ -100,17 +95,17 @@
     },
      {
       "name": "MongoDB",
-      "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png",
+      "image": "https://img.icons8.com/?size=256&id=8rKdRqZFLurS&format=png",
       "category": "Backend"
     },
     {
       "name": "AWS",
-      "image": "https://img.icons8.com/color/144/null/amazon-web-services.png5",
+      "image": "https://img.icons8.com/color/144/null/amazon-web-services.png",
       "category": "Backend"
     },
     {
       "name": "SQL",
-      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Fmysql-logo.png&w=256&q=75",
+      "image": "https://img.icons8.com/color/144/null/mysql-logo.png",
       "category": "Backend"
     },
     {
