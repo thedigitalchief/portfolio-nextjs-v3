@@ -30,9 +30,9 @@ const About = ({ aboutData, name }: Props) => {
                         <p className="text-sm md:text-base my-2 text-gray-600 dark:text-gray-300">{about}</p>
                         
                         <div className="flex items-center gap-4 md:mt-4">
-                            {resumeUrl.trim() && <Link href={resumeUrl} target="_blank" className="text-sm md:text-base bg-blue-600 dark:bg-blue-700 text-white w-fit rounded-md py-2 px-6 hover:shadow-xl transition-shadow">View Résumé</Link>}
+                            {resumeUrl.trim() && <Link href={'mailto:hello@dylanhnguyen.com'} target="_blank" className="text-sm md:text-base bg-blue-600 dark:bg-blue-700 text-white w-fit rounded-md py-2 px-6 hover:shadow-xl transition-shadow">Email</Link>}
 
-                            {callUrl.trim() && <Link href={callUrl} target="_blank" className="text-blue-600 flex items-center gap-1 hover:bg-blue-50 hover:dark:bg-blue-900/10 py-2 px-4 transition-colors rounded-md">Schedule a call <BiLinkExternal /> </Link>}
+                            {callUrl.trim() && <Link href={callUrl} target="_blank" className="text-blue-600 flex items-center gap-1 hover:bg-blue-50 hover:dark:bg-blue-900/10 py-2 px-4 transition-colors rounded-md">Schedule Call <BiLinkExternal /> </Link>}
                         </div>
                     </div>
                 </div>
