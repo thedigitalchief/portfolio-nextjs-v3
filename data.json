@@ -165,7 +165,7 @@
       }
     },
     {
-      "name": "002Pickle™ - Pickleball E-Commerce Shop",
+      "name": "002Pickleball™ - E-Commerce Shop",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
       "category":"E-commerce",
       "image": "https://i.ibb.co/Lnk98hr/Untitled.gif",
@@ -176,7 +176,7 @@
       }
     },
     {
-      "name": "Startup Club@UCR - Landing",
+      "name": "Startup Club@UCR - Landing Signup",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"MERN",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
@@ -198,7 +198,7 @@
       }
     },
     {
-      "name": "Chef'it Landing – Find local homemade meals & home chefs",
+      "name": "Chef'it Landing – Signup for homemade meals & home chefs",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"MERN",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
@@ -245,11 +245,11 @@
       "name": "AI Plagiarism Checker",
       "techstack": "React, HTML, Bootstrap, TailWind",
     "category":"AI",
-      "image": "https://i.ibb.co/jDx7bm0/Screenshot-2023-09-04-at-23-44-04.png",
+      "image": "https://github.com/josemmo/plagpatrol/raw/master/demo.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
-        "video": "https://dylanhnguyen.com/assets/portfolio.d24c72e0.mp4",
-        "visit": "https://portfolio-optimized.vercel.app"
+        "video": "",
+        "visit": "https://josemmo.github.io/plagpatrol/"
       }
     }
   ],
@@ -274,9 +274,9 @@
       ]
     },
      {
-      "institute": "Bourns School of Engineering, University of California, Riverside",
+      "institute": "Bourns School of Engineering, UC Riverside",
       "degree": "Computer Science, B.S.",
-      "duration": "2021 - 2023 (Expected)",
+      "duration": "2021 - 2023",
       "desc": [
  "Strong understanding of machine learning, artificial intelligence, big data, regression analysis, and data mining",
         "Knowledgeable in software development methodologies and project management practices, including Agile, Waterfall, Scrum, design patterns, and Git."

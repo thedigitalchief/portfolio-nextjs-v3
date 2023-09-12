@@ -58,13 +58,13 @@ html {
 }
 
 .rainbow span:first-child:after {
-  background: #f18867;
+  background: #f17767;
 }
 
 .rainbow span:last-child {
-  background: #e85f99;
+  background: #665fe8;
 }
 
 .rainbow span:last-child:after {
-  background: #50bda1;
+  background: #5078bd;
 }
