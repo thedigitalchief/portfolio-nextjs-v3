@@ -29,7 +29,7 @@ export default function Footer({ socials, name }: { socials: social[], name: str
                     </Link> */}
                 </div>
 
-                <footer className="items-center text-xs mt-1 md:mt-0">DigitalChief, Inc. © 2023.</footer>
+                <footer className="items-center text-xs mt-1 md:mt-0">DigitalChief, Inc. © 2023</footer>
 
                 {/* Social Links */}
                 <div className="flex xl:hidden items-center gap-2">
