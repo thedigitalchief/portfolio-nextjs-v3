@@ -36,7 +36,7 @@ export default function Header({ logo }: { logo: string }) {
                     {navs.map((e, i) => (
                         <li key={i}>
                             <ScrollLink
-                                className='zoom hover:text-blue-700 hover:dark:text-blue-500 transition-colors capitalize cursor-pointer'
+                                className='zoom-img hover:text-blue-700 hover:dark:text-blue-500 transition-colors capitalize cursor-pointer'
                                 to={e}
                                 offset={-60}
                                 smooth={true}
@@ -49,14 +49,14 @@ export default function Header({ logo }: { logo: string }) {
                     ))}
                     <span
                         onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
-                        className='hover:bg-gray-100 hover:dark:bg-blue-700 p-1.5 rounded-full cursor-pointer transition-colors'>
+                        className='zoom hover:bg-gray-100 hover:dark:bg-blue-700 p-1.5 rounded-full cursor-pointer transition-colors'>
                         {theme === 'dark' ? <FiSun /> : <FiMoon />}
                     </span>
                 </ul>
             </nav>
 
             <nav className='p-4 flex sm:hidden items-center justify-between'>
-                {logo === 'Dylan Nguyen' ? <Image width={40} height={40} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                {logo === 'Dylan Nguyen' ? <Image width={42} height={42} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
                 <div className='flex items-center gap-4'>
                     <span
                         onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
@@ -76,26 +76,31 @@ export default function Header({ logo }: { logo: string }) {
                     {navs.slice(0, 5).map((e) => (
                         <ScrollLink
                             key={e}
-                            className='hover:text-purple-600 py-1.5 px-4 rounded transition-colors capitalize cursor-pointer'
+                            className='zoom hover:text-purple-600 py-1.5 px-4 rounded transition-colors capitalize cursor-pointer'
                             to={e}
                             offset={-60}
                             smooth={true}
-                            duration={600}
+                            duration={500}
                             isDynamic={true}
                             onClick={() => setNavCollapse(true)}
                         >
                             {e}
                         </ScrollLink>
                     ))}
-                    <ScrollLink
-                        to='contact'
+                      <a
+                        href={'mailto:hello@dylanhnguyen.com'}
                         offset={-60}
                         smooth={true}
-                        duration={600}
+                        duration={500}
                         onClick={() => setNavCollapse(true)}
-                        className='px-6 py-1.5 rounded-md bg-blue-600 hover:bg-blue-700 text-white text-center'>
-                        Contact
-                    </ScrollLink>
+                        className='zoom w-fit px-6 py-1.5 rounded-lg bg-blue-800 hover:bg-purple-800 text-white text-center'>Email</a>
+                    <a
+                        href={'https://calendly.com/dylanhnguyen'}
+                        offset={-60}
+                        smooth={true}
+                        duration={500}
+                        onClick={() => setNavCollapse(true)}
+                        className='zoom w-fit px-6 py-1.5 rounded-lg bg-blue-800 hover:bg-purple-800 text-white text-center'>Schedule Call</a>
                 </div>
             </div>
 

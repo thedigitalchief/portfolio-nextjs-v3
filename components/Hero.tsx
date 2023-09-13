@@ -34,7 +34,7 @@ const Hero = ({ mainData }: HeroProps) => {
                     <div className="flex items-center gap-1">
                         <Image unoptimized={true} alt='waving-hand' width={30} height={30} src={wavingHand} />
                         <p className="text-lg md:text-xl mt-2 md:mt-1.5">
-                            Welcome!
+                            Welcome, my name is
                         </p>
                     </div>
                     <h1 className="text-4xl md:text-6xl font-bold relative">
@@ -62,14 +62,13 @@ const Hero = ({ mainData }: HeroProps) => {
                     </p>
 
 
-                    <div className="zoom w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 hover:dark:bg-blue-800 transition-colors group text-white"
+                    <div className="zoom-img w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 hover:dark:bg-blue-800 transition-colors group text-white"
                         onClick={() => window.open('https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view', '_blank')}
-                        // offset={-60}
-                        // smooth={true}
-                        // duration={500}
-                        // isDynamic={true}
-                    >View Résumé
-                        <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
+                        offset={-60}
+                        smooth={true}
+                        duration={500}
+                        isDynamic={true}
+                    >Résumé<IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
 
                     </div>
 
@@ -77,19 +76,19 @@ const Hero = ({ mainData }: HeroProps) => {
                         <span className="relative zoom w-fit text-m md:text-base ">Contact Me</span>
                     </a> */}
 
-                    <div className="w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-700 hover:dark:bg-violet-800 transition-colors group text-white"
+                    <div className="zoom w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-700 hover:dark:bg-violet-800 transition-colors group text-white"
                         onClick={() => window.open('https://calendly.com/dylanhnguyen', '_blank')}
-                        // offset={-60}
-                        // smooth={true}
-                        // duration={500}
-                        // isDynamic={true}
-                    >Schedule Meeting
-                        <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
+                        offset={-60}
+                        smooth={true}
+                        duration={500}
+                        isDynamic={true}
+                    >Schedule Call
+                        {/* <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' /> */}
                     </div>
                 </div>
 
                 <div className="relative mx-auto lg:mx-0 mt-12 md:mt-16 lg:mt-0">
-                    <div className="w-56 h-56 md:w-80 md:h-80 lg:-translate-x-16">
+                    <div className="zoom w-56 h-56 md:w-80 md:h-80 lg:-translate-x-16">
                         <Image alt='avatar' width={1000} height={1000} className="rounded-full w-full h-full object-cover" src={heroImage} />
                     </div>
 

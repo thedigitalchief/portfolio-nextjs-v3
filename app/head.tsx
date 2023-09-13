@@ -10,7 +10,7 @@ export default function Head() {
         content="I'm Dylan Nguyen, full-stack developer. My journey in web development began during my first year of college." />
       <meta property="og:url" content="https://dylanhnguyen.com" />
       <meta property="og:image" content="/favicon.ico" />
-      <link rel="canonical" href="https://dylanhnguyen.com" />
+      {/* <link rel="canonical" href="https://dylanhnguyen.com" /> */}
       <meta name="author" content="Dylan Nguyen" />
       <meta name="language" content="English" />
       <meta name="twitter:card" content="summary" />

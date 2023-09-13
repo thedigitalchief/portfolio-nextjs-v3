@@ -17,12 +17,12 @@
     ]
   },
   "about": {
-    "aboutImage": "https://i.ibb.co/wcgXxdS/Unknown.gif",
-    "aboutImageCaption": "I strive to developscalable and efficient applications while still providing engaging, pixel-perfect user experiences.",
+    "aboutImage": "https://i.ibb.co/10fV6qQ/animation-lmh90sok.gif",
+    "aboutImageCaption": "I strive to develop scalable and efficient applications while still providing engaging, pixel-perfect user experiences.",
     "title": "AI, SAAS, PWA, E-commerce, CMS",
     "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress.",
     "callUrl": "https://calendly.com/dylanhnguyen",
-    "resumeUrl": "/resume-dylanhnguyen.pdf"
+    "resumeUrl": "https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view"
   },
     "socials": [
     {
@@ -34,8 +34,12 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaTwitter",
+      "icon": "FaEmail",
       "link": "mailto:hello@dylanhnguyen.com"
+    },
+    {
+      "icon": "FaPhone",
+      "link": "tel:+19498422889"
     }
   ],
   "skills": [
@@ -56,7 +60,7 @@
     },
  {
       "name": "React",
-      "image": "https://res.cloudinary.com/lifecodes/image/upload/v1678131853/Portfolio/rmz2jvsww4cdwkfriuyc.svg",
+      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fultraviolet%2F120%2Fnull%2Freact--v1.png&w=256&q=75",
       "category": "Frontend"
     },
     {
@@ -76,7 +80,7 @@
     },
     {
       "name": "Java",
-      "image": " https://img.icons8.com/color/144/null/java-coffee-cup-logo--v1.png",
+      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Fjava-coffee-cup-logo--v1.png&w=256&q=75",
       "category": "Frontend"
     },
       {
@@ -112,6 +116,26 @@
      {
       "name": "Git",
       "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
+      "category": "tools"
+    },
+     {
+      "name": "Github",
+      "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
+      "category": "Tools"
+    },
+     {
+      "name": "Vercel",
+      "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
+      "category": "Tools"
+    },
+     {
+      "name": "Cloudinary",
+      "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
+      "category": "Tools"
+    },
+     {
+      "name": "TensorFlow",
+      "image": "https://img.icons8.com/?size=80&id=n3QRpDA7KZ7P&format=png",
       "category": "Tools"
     }
   ],
@@ -151,9 +175,9 @@
       }
     },
     {
-      "name": "002Pickleball™ - E-Commerce Shop",
+      "name": "002Pickle™ E-Commerce Web App",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-      "category":"E-commerce",
+      "category":"PWA",
       "image": "https://i.ibb.co/Lnk98hr/Untitled.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -164,7 +188,7 @@
     {
       "name": "Startup Club@UCR - Landing Signup",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"MERN",
+     "category":"PWA",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/thedigitalchief/startupucr",
@@ -186,7 +210,7 @@
     {
       "name": "Chef'it Landing – Signup for homemade meals & home chefs",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"MERN",
+     "category":"PWA",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -197,7 +221,7 @@
     {
       "name": "Responsive Portfolio v1",
       "techstack": "React, HTML, Bootstrap, TailWind",
-    "category":"Landing",
+    "category":"MERN",
       "image": "https://i.ibb.co/sqDLbnx/Screenshot-2023-09-04-at-23-44-04.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -208,7 +232,7 @@
     {
       "name": "SAAS Startup Landing",
       "techstack": "React, HTML, Bootstrap, TailWind",
-    "category":"Landing",
+    "category":"MERN",
       "image": "https://i.ibb.co/Yjk7ksy/Screenshot-2023-09-11-at-12-06-27.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
