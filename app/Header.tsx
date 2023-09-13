@@ -89,16 +89,16 @@ export default function Header({ logo }: { logo: string }) {
                     ))}
                       <Link 
                       href={'mailto:hello@dylanhnguyen.com'}
-                        offset={-60}
-                        smooth={true}
-                        duration={500}
+                        // offset={-60}
+                        // smooth={true}
+                        // duration={500}
                         onClick={() => setNavCollapse(true)}
                         className='zoom w-fit px-6 py-1.5 rounded-lg bg-blue-800 hover:bg-purple-800 text-white text-center'>Email</Link>
 
                     <Link href={'https://calendly.com/dylanhnguyen'}
-                        offset={-60}
-                        smooth={true}
-                        duration={500}
+                        // offset={-60}
+                        // smooth={true}
+                        // duration={500}
                         onClick={() => setNavCollapse(true)}
                         className='zoom w-fit px-6 py-1.5 rounded-lg bg-blue-800 hover:bg-purple-800 text-white text-center'>Schedule Call</Link>
                 </div>
