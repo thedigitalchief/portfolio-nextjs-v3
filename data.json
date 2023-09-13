@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Dylan Nguyen",
-    "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance. I am currently a computer science undergraduate at University of California, Riverside."
+    "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance."
   ],
     "titles": [
       "SAAS Engineering",
@@ -20,9 +20,9 @@
     "aboutImage": "https://i.ibb.co/10fV6qQ/animation-lmh90sok.gif",
     "aboutImageCaption": "I strive to develop scalable and efficient applications while still providing engaging, pixel-perfect user experiences.",
     "title": "AI, SAAS, PWA, E-commerce, CMS",
-    "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress.",
+    "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. I am also familiar with the following design tools: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, and Sketch.",
     "callUrl": "https://calendly.com/dylanhnguyen",
-    "resumeUrl": "https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view"
+    "resumeUrl": "https://dylanhnguyen.com/resume-dylanhnguyen.pdf"
   },
     "socials": [
     {
@@ -34,12 +34,12 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaEmail",
-      "link": "mailto:hello@dylanhnguyen.com"
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/dylanhnguyen"
     },
     {
-      "icon": "FaPhone",
-      "link": "tel:+19498422889"
+      "icon": "FaYoutube",
+      "link": "https://www.youtube.com/channel/UCklAr46onjZJZvRJaFUDnnQ"
     }
   ],
   "skills": [
@@ -116,7 +116,7 @@
      {
       "name": "Git",
       "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
-      "category": "tools"
+      "category": "Tools"
     },
      {
       "name": "Github",
@@ -130,12 +130,12 @@
     },
      {
       "name": "Cloudinary",
-      "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
+      "image": "https://i.ibb.co/4twZ5GD/cloudinary-cloud-glyph-white.png",
       "category": "Tools"
     },
      {
       "name": "TensorFlow",
-      "image": "https://img.icons8.com/?size=80&id=n3QRpDA7KZ7P&format=png",
+      "image": "https://i.ibb.co/hsxLGyq/img-icons8-com.png",
       "category": "Tools"
     }
   ],
@@ -165,7 +165,7 @@
     
     {
       "name": "Surfaholic - Peer to peer AI powered surf reports",
-      "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"AI",
       "image": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
       "links": {
