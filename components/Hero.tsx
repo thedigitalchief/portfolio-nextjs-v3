@@ -62,8 +62,8 @@ const Hero = ({ mainData }: HeroProps) => {
                     </p>
 
 
-                    <div className="zoom-img w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 hover:dark:bg-blue-800 transition-colors group text-white"
-                        onClick={() => window.open('https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view', '_blank')}
+                    <div className="zoom-img w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-500 hover:bg-blue-700 dark:bg-blue-700 hover:dark:bg-blue-800 transition-colors group text-white"
+                        onClick={() => window.open('https://dylanhnguyen.com/resume-dylanhnguyen.pdf', '_blank')}
                         // offset={-60}
                         // smooth={true}
                         // duration={500}
