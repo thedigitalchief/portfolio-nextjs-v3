@@ -26,7 +26,7 @@ const Experience = ({ index, company, position, desc, institute, degree, duratio
 
   return (
     <div className={`mb-6 md:mb-8 flex md:justify-between items-center w-full ${index % 2 === 0 ? 'md:flex-row-reverse left-timeline' : 'right-timeline'}`}>
-      <div className="order-1 md:w-5/12"></div>
+      <div className="zoom-img order-1 md:w-5/12"></div>
 
       <span className="z-20 flex items-center order-1 justify-center w-6 h-6 md:w-9 md:h-9 bg-blue-200 rounded-full ring-4 md:ring-8 ring-white dark:ring-grey-800 dark:bg-blue-900">
         {company && <MdWork className="text-base md:text-xl text-blue-600 dark:text-blue-400" />}
@@ -38,7 +38,7 @@ const Experience = ({ index, company, position, desc, institute, degree, duratio
         variants={cardVariants}
         initial="visible"
         animate={inView ? 'visible' : 'hidden'}
-        className="order-1 rounded-lg w-full ml-3 md:ml-0 bg-white dark:bg-grey-800 md:w-5/12 p-3 md:px-4 md:py-4">
+        className=" order-1 rounded-lg w-full ml-3 md:ml-0 bg-white dark:bg-grey-800 md:w-5/12 p-3 md:px-4 md:py-4">
         <h3 className="mb-2 font-medium text-lg md:text-xl">{company || institute}</h3>
         <p className="text-sm text-gray-500 dark:text-gray-400 font-medium">{position || degree} | {duration}</p>
         <ul className="text-sm text-gray-400 mt-2 ml-4 list-disc">

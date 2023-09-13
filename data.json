@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Dylan Nguyen",
-    "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance. What I enjoy most about software development is bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product."
+    "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance. I am currently a computer science undergraduate at University of California, Riverside."
   ],
     "titles": [
       "SAAS Engineering",
@@ -21,8 +21,8 @@
     "aboutImageCaption": "I strive to developscalable and efficient applications while still providing engaging, pixel-perfect user experiences.",
     "title": "AI, SAAS, PWA, E-commerce, CMS",
     "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress.",
-    "callUrl": "tel:+19498422889",
-    "resumeUrl": "https://drive.google.com/file/d/1xP9PyQKeyyvRVL9fXbvZBJ1LBzN1MGCd/view"
+    "callUrl": "https://calendly.com/dylanhnguyen",
+    "resumeUrl": "/resume-dylanhnguyen.pdf"
   },
     "socials": [
     {

@@ -71,16 +71,16 @@ html {
 }
 .zoom {
   opacity: 0.95;
-  -webkit-transition: all 0.2s ease-in;
-  transition: all 0.2s ease-in;
+  -webkit-transition: all 0.22s ease-in;
+  transition: all 0.22s ease-in;
 
 }
 
 .zoom:hover {
   opacity: 1;
   transform: scale(1.03);
-  -webkit-transition: all 0.2s ease-in;
-  transition: all 0.2s ease-in;
+  -webkit-transition:  0.22s ease-out;
+  transition:  0.22s ease-out;
 
   /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }

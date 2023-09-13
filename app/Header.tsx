@@ -28,15 +28,15 @@ export default function Header({ logo }: { logo: string }) {
         <header className={`backdrop-filter backdrop-blur-lg ${scroll ? 'border-b bg-white bg-opacity-40' : 'border-b-0'} dark:bg-grey-900 dark:bg-opacity-40 border-gray-200 dark:border-b-0 z-30 min-w-full flex flex-col fixed`}>
             <nav className='lg:w-11/12 2xl:w-4/5 w-full md:px-6 2xl:px-0 mx-auto py-4 hidden sm:flex items-center justify-between'>
 
-                <Link href={'/'} className='2xl:ml-6 hover:text-blue-700 hover:dark:text-blue-500 transition-colors duration-300'>
+                <Link href={'/'} className='zoom-img 2xl:ml-6 hover:text-blue-700 hover:dark:text-blue-500 transition-colors duration-300'>
                     {logo === 'Dylan Nguyen' ? <Image width={43} height={43} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
                 </Link>
 
-                <ul className='flex items-center gap-8'>
+                <ul className=' flex items-center gap-8'>
                     {navs.map((e, i) => (
                         <li key={i}>
                             <ScrollLink
-                                className='hover:text-blue-700 hover:dark:text-blue-500 transition-colors capitalize cursor-pointer'
+                                className='zoom hover:text-blue-700 hover:dark:text-blue-500 transition-colors capitalize cursor-pointer'
                                 to={e}
                                 offset={-60}
                                 smooth={true}
