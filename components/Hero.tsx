@@ -64,10 +64,10 @@ const Hero = ({ mainData }: HeroProps) => {
 
                     <div className="zoom w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 hover:dark:bg-blue-800 transition-colors group text-white"
                         onClick={() => window.open('https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view', '_blank')}
-                        offset={-60}
-                        smooth={true}
-                        duration={500}
-                        isDynamic={true}
+                        // offset={-60}
+                        // smooth={true}
+                        // duration={500}
+                        // isDynamic={true}
                     >View Résumé
                         <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
 
@@ -79,10 +79,10 @@ const Hero = ({ mainData }: HeroProps) => {
 
                     <div className="w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-700 hover:dark:bg-violet-800 transition-colors group text-white"
                         onClick={() => window.open('https://calendly.com/dylanhnguyen', '_blank')}
-                        offset={-60}
-                        smooth={true}
-                        duration={500}
-                        isDynamic={true}
+                        // offset={-60}
+                        // smooth={true}
+                        // duration={500}
+                        // isDynamic={true}
                     >Schedule Meeting
                         <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
                     </div>
