@@ -34,7 +34,7 @@ const Hero = ({ mainData }: HeroProps) => {
                     <div className="flex items-center gap-1">
                         <Image unoptimized={true} alt='waving-hand' width={30} height={30} src={wavingHand} />
                         <p className="text-lg md:text-xl mt-2 md:mt-1.5">
-                            Welcome, my name is
+                        WELCOME, I AM
                         </p>
                     </div>
                     <h1 className="text-4xl md:text-6xl font-bold relative">
@@ -76,7 +76,7 @@ const Hero = ({ mainData }: HeroProps) => {
                         <span className="relative zoom w-fit text-m md:text-base ">Contact Me</span>
                     </a> */}
 
-                    <div className="zoom w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-700 hover:dark:bg-violet-800 transition-colors group text-white"
+                    <div className="zoom w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-800 hover:dark:bg-violet-800 transition-colors group text-white"
                         onClick={() => window.open('https://calendly.com/dylanhnguyen', '_blank')}
                         // offset={-60}
                         // smooth={true}

@@ -34,8 +34,8 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/dylanhnguyen"
+      "icon": "FaFacebook",
+      "link": "https://www.facebook.com/dylannguyenn"
     },
     {
       "icon": "FaYoutube",
@@ -58,7 +58,18 @@
       "image": "https://portfolio-optimized.vercel.app/icons/icons8-c++.svg",
       "category": "Frontend"
     },
- {
+ 
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/null/python.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Java",
+      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Fjava-coffee-cup-logo--v1.png&w=256&q=75",
+      "category": "Frontend"
+    },
+    {
       "name": "React",
       "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fultraviolet%2F120%2Fnull%2Freact--v1.png&w=256&q=75",
       "category": "Frontend"
@@ -73,14 +84,9 @@
       "image": "https://i.ibb.co/7265F1d/typescript-icons8.png",
       "category": "Frontend"
     },
-     {
+    {
       "name": "Tailwind",
       "image": "https://img.icons8.com/color/144/null/tailwindcss.png",
-      "category": "Frontend"
-    },
-    {
-      "name": "Java",
-      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Fjava-coffee-cup-logo--v1.png&w=256&q=75",
       "category": "Frontend"
     },
       {
@@ -108,11 +114,7 @@
       "image": "https://img.icons8.com/color/144/null/mysql-logo.png",
       "category": "Backend"
     },
-    {
-      "name": "Python",
-      "image": "https://img.icons8.com/color/144/null/python.png",
-      "category": "Frontend"
-    },
+    
      {
       "name": "Git",
       "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
@@ -120,12 +122,12 @@
     },
      {
       "name": "Github",
-      "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
+      "image": "https://i.ibb.co/VvYgNwN/icons8-github-384.png",
       "category": "Tools"
     },
      {
       "name": "Vercel",
-      "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
+      "image": "https://i.ibb.co/cx9FGcL/vercel-icon-512x449-3422jidz.png",
       "category": "Tools"
     },
      {
@@ -137,6 +139,21 @@
       "name": "TensorFlow",
       "image": "https://i.ibb.co/hsxLGyq/img-icons8-com.png",
       "category": "Tools"
+    },
+    {
+      "name":"WordPress",
+      "image": "https://i.ibb.co/hWHxZxc/wordpress-logo-wordpress-icon-transparent-free-png.webp",
+       "category": "Tools"
+    },
+    {
+      "name":"Shopify",
+      "image": "https://i.ibb.co/dDswggg/shopping-512.webp",
+       "category": "Tools"
+    },
+    {
+      "name":"Woocomerce",
+      "image": "https://i.ibb.co/pKgc5HL/imgbin-computer-icons-e-commerce-woocommerce-portable-network-graphics-wordpress-social-media-icon-b.jpg",
+       "category": "Tools"
     }
   ],
   "projects": [
@@ -154,7 +171,7 @@
     {
       "name": "HighlanderNow - Powerful academic platform serving nearly 3,000 UCR students a month.",
       "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
-      "category":"PWA",
+      "category":"App",
       "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -166,7 +183,7 @@
     {
       "name": "Surfaholic - Peer to peer AI powered surf reports",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"AI",
+     "category":"Website",
       "image": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/SurfApp-Inc",
@@ -177,7 +194,7 @@
     {
       "name": "002Pickle™ E-Commerce Web App",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-      "category":"PWA",
+      "category":"App",
       "image": "https://i.ibb.co/Lnk98hr/Untitled.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -188,7 +205,7 @@
     {
       "name": "Startup Club@UCR - Landing Signup",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"PWA",
+     "category":"Website",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/thedigitalchief/startupucr",
@@ -199,7 +216,7 @@
     {
       "name": "Chef'it App– Find local homemade meals & home chefs",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"PWA",
+     "category":"App",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",

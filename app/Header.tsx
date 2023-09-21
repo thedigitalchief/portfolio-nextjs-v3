@@ -29,7 +29,7 @@ export default function Header({ logo }: { logo: string }) {
             <nav className='lg:w-11/12 2xl:w-4/5 w-full md:px-6 2xl:px-0 mx-auto py-4 hidden sm:flex items-center justify-between'>
 
                 <Link href={'/'} className='zoom-img 2xl:ml-6 hover:text-blue-700 hover:dark:text-blue-500 transition-colors duration-300'>
-                    {logo === 'Dylan Nguyen' ? <Image width={43} height={43} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                    {logo === 'Dylan Nguyen' ? <Image width={40} height={40} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
                 </Link>
 
                 <ul className=' flex items-center gap-8'>
@@ -89,16 +89,16 @@ export default function Header({ logo }: { logo: string }) {
                     ))}
                       <Link 
                       href={'mailto:hello@dylanhnguyen.com'}
-                        // offset={-60}
-                        // smooth={true}
-                        // duration={500}
+                        offset={-60}
+                        smooth={true}
+                        duration={500}
                         onClick={() => setNavCollapse(true)}
                         className='zoom w-fit px-6 py-1.5 rounded-lg bg-blue-800 hover:bg-purple-800 text-white text-center'>Email</Link>
 
                     <Link href={'https://calendly.com/dylanhnguyen'}
-                        // offset={-60}
-                        // smooth={true}
-                        // duration={500}
+                        offset={-60}
+                        smooth={true}
+                        duration={500}
                         onClick={() => setNavCollapse(true)}
                         className='zoom w-fit px-6 py-1.5 rounded-lg bg-blue-800 hover:bg-purple-800 text-white text-center'>Schedule Call</Link>
                 </div>
