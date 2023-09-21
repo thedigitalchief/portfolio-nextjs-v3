@@ -7,7 +7,7 @@ export default function Head() {
       <meta property="og:site_name" content="Dylan Nguyen's Portfolio" />
       <meta property="og:title" content="Portfolio | Dylan Nguyen - Full Stack Developer" />
       <meta property="og:description"
-        content="I'm Dylan Nguyen, full-stack developer." />
+        content="Dylan Nguyen, full-stack freelance developer." />
       <meta property="og:url" content="https://dylanhnguyen.com" />
       <meta property="og:image" content="/favicon.ico" />
       <link rel="canonical" href="https://dylanhnguyen.com" />
