@@ -17,7 +17,7 @@
     ]
   },
   "about": {
-    "aboutImage": "https://i.ibb.co/10fV6qQ/animation-lmh90sok.gif",
+    "aboutImage": "https://i.ibb.co/fY4YmLk/compliance.png",
     "aboutImageCaption": "I strive to develop scalable and efficient applications while still providing engaging, pixel-perfect user experiences.",
     "title": "AI, SAAS, PWA, E-commerce, CMS",
     "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. I am also familiar with the following design tools: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, and Sketch.",
@@ -34,12 +34,12 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaFacebook",
-      "link": "https://www.facebook.com/dylannguyenn"
+      "icon": "FaPhone",
+      "link": "tel:+19499422990"
     },
     {
-      "icon": "FaYoutube",
-      "link": "https://www.youtube.com/channel/UCklAr46onjZJZvRJaFUDnnQ"
+      "icon": "FaEmail",
+      "link": "mailto:hello@dylanhnguyen.com"
     }
   ],
   "skills": [
@@ -47,18 +47,8 @@
       "name": "JavaScript",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
       "category": "Frontend"
-    },
-    {
-      "name": "Firebase",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
-      "category": "Backend"
-    },
-    {
-      "name": "C++",
-      "image": "https://portfolio-optimized.vercel.app/icons/icons8-c++.svg",
-      "category": "Frontend"
-    },
- 
+    },\
+   
     {
       "name": "Python",
       "image": "https://img.icons8.com/color/144/null/python.png",
@@ -74,6 +64,12 @@
       "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fultraviolet%2F120%2Fnull%2Freact--v1.png&w=256&q=75",
       "category": "Frontend"
     },
+     {
+      "name": "C++",
+      "image": "https://portfolio-optimized.vercel.app/icons/icons8-c++.svg",
+      "category": "Frontend"
+    },
+ 
     {
       "name": "Next",
       "image": "https://portfolio-reactvite-v5.vercel.app/assets/next-logo.47eabacf.svg",
@@ -109,8 +105,13 @@
       "image": "https://img.icons8.com/color/144/null/amazon-web-services.png",
       "category": "Backend"
     },
+     {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Backend"
+    },
     {
-      "name": "SQL",
+      "name": "mySQL/SQlite",
       "image": "https://img.icons8.com/color/144/null/mysql-logo.png",
       "category": "Backend"
     },
@@ -169,7 +170,7 @@
       }
     },
     {
-      "name": "HighlanderNow - Powerful academic platform serving nearly 3,000 UCR students a month.",
+      "name": "HighlanderNow - Powerful academic platform serving 1,000 UCR students a month.",
       "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
       "category":"App",
       "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
@@ -181,7 +182,7 @@
     },
     
     {
-      "name": "Surfaholic - Peer to peer AI powered surf reports",
+      "name": "Surfaholic - AI powered surf forecasts and community platform",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"Website",
       "image": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
@@ -192,7 +193,7 @@
       }
     },
     {
-      "name": "002Pickle™ E-Commerce Web App",
+      "name": "002Pickle™ - E-Commerce Shop App",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
       "category":"App",
       "image": "https://i.ibb.co/Lnk98hr/Untitled.gif",
@@ -203,7 +204,7 @@
       }
     },
     {
-      "name": "Startup Club@UCR - Landing Signup",
+      "name": "Startup Club@UCR - Landing Full-Stack Website",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"Website",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
@@ -217,7 +218,7 @@
       "name": "Chef'it App– Find local homemade meals & home chefs",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"App",
-      "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
+      "image": "https://i.ibb.co/DkbRR7y/chefit-hero.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
