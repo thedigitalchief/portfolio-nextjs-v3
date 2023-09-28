@@ -17,7 +17,7 @@ export default function Head() {
       <meta name="twitter:site" content="https://dylanhnguyen.com" />
       <meta name="application-name" content="Portfolio | Dylan Nguyen" />
       <meta name="apple-mobile-web-app-title" content="Portfolio | Dylan Nguyen - Full Stack Developer" />
-      <link rel="icon" href="/favicon.ico" />
+      <link rel="icon" href="favicon.ico" />
       <title>Portfolio | Dylan Nguyen</title>
     </>
   )

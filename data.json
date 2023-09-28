@@ -12,7 +12,7 @@
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/material-ui.png",
       "https://img.icons8.com/color/144/000000/html-5--v1.png",
-      "ttps://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fultraviolet%2F120%2Fnull%2Freact--v1.png&w=256&q=75",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
       "https://img.icons8.com/color/144/000000/chakra-ui.png"
     ]
   },
@@ -34,11 +34,11 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaPhone",
+      "icon": "FaTwiiter",
       "link": "tel:+19499422990"
     },
     {
-      "icon": "FaEmail",
+      "icon": "FaInstagram",
       "link": "mailto:hello@dylanhnguyen.com"
     }
   ],
