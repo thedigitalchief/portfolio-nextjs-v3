@@ -34,7 +34,7 @@ const Hero = ({ mainData }: HeroProps) => {
                     <div className="flex items-center gap-1">
                         <Image unoptimized={true} alt='waving-hand' width={30} height={30} src={wavingHand} />
                         <p className="text-lg md:text-xl mt-2 md:mt-1.5">
-                        WELCOME, I"M
+                        WELCOME, I&apos;M
                         </p>
                     </div>
                     <h1 className="text-4xl md:text-6xl font-bold relative">
@@ -64,10 +64,10 @@ const Hero = ({ mainData }: HeroProps) => {
 
                     <div className="zoom-img w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-500 hover:bg-blue-700 dark:bg-blue-700 hover:dark:bg-blue-800 transition-colors group text-white"
                         onClick={() => window.open('https://dylanhnguyen.com/resume-dylanhnguyen.pdf', '_blank')}
-                        offset={-60}
-                        smooth={true}
-                        duration={500}
-                        isDynamic={true}
+                        // offset={-60}
+                        // smooth={true}
+                        // duration={500}
+                        // isDynamic={true}
                     >Résumé<IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
 
                     </div>
@@ -78,10 +78,10 @@ const Hero = ({ mainData }: HeroProps) => {
 
                     <div className="zoom w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-800 hover:dark:bg-violet-800 transition-colors group text-white"
                         onClick={() => window.open('https://calendly.com/dylanhnguyen', '_blank')}
-                        offset={-60}
-                        smooth={true}
-                        duration={500}
-                        isDynamic={true}
+                        // offset={-60}
+                        // smooth={true}
+                        // duration={500}
+                        // isDynamic={true}
                     >Schedule Call<IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
 
                         {/* <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' /> */}
