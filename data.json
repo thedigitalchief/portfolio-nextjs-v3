@@ -1,3 +1,4 @@
+
 {
   "main": {
     "name": "Dylan Nguyen",
@@ -12,14 +13,14 @@
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/material-ui.png",
       "https://img.icons8.com/color/144/000000/html-5--v1.png",
-      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
       "https://img.icons8.com/color/144/000000/chakra-ui.png"
     ]
   },
   "about": {
-    "aboutImage": "https://i.ibb.co/fY4YmLk/compliance.png",
+    "aboutImage": "https://i.ibb.co/10fV6qQ/animation-lmh90sok.gif",
     "aboutImageCaption": "I strive to develop scalable and efficient applications while still providing engaging, pixel-perfect user experiences.",
-    "title": "AI, SAAS, Progressive Web Apps, E-commerce",
+    "title": "AI, SAAS, PWA, E-commerce, CMS",
     "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. I am also familiar with the following design tools: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, and Sketch.",
     "callUrl": "https://calendly.com/dylanhnguyen",
     "resumeUrl": "https://dylanhnguyen.com/resume-dylanhnguyen.pdf"
@@ -34,12 +35,12 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaTwiiter",
-      "link": "tel:+19499422990"
+      "icon": "FaFacebook",
+      "link": "https://www.facebook.com/dylannguyenn"
     },
     {
-      "icon": "FaInstagram",
-      "link": "mailto:hello@dylanhnguyen.com"
+      "icon": "FaYoutube",
+      "link": "https://www.youtube.com/channel/UCklAr46onjZJZvRJaFUDnnQ"
     }
   ],
   "skills": [

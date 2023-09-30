@@ -19,7 +19,7 @@ const About = ({ aboutData, name }: Props) => {
 
             <div className="w-full lg:w-11/12 2xl:w-4/5 mt-2 lg:mt-20 mx-auto flex flex-col md:gap-4 lg:flex-row justify-between items-center">
                 <div className="p-3 w-56 self-start md:w-2/5 lg:w-72 bg-white dark:bg-grey-800 flex flex-col gap-2 items-center rounded-2xl mx-auto lg:mx-16 hover:-translate-y-2 transition-transform duration-300 lg:-rotate-3">
-                    <Image alt="profile" width={1000} height={1000} loading={'lazy'} className="zoom w-full h-60 md:h-80 rounded-2xl object-cover grayscale hover:grayscale-0 transition-all bg-blue-100" src={'https://i.ibb.co/x2SvHjL/animation-lmh90sok.gif'} />
+                    <Image alt="profile" width={1000} height={1000} loading={'lazy'} className="zoom w-full h-60 md:h-80 rounded-2xl object-cover grayscale hover:grayscale-0 transition-all bg-blue-100" src={'https://i.ibb.co/TWhyRxn/uihero-tokerunner-landing.png'} />
                     <span className="font-medium font-sans">{aboutImageCaption || '< I Build Stuff 🚀 />'}</span>
                 </div>
 
@@ -30,9 +30,9 @@ const About = ({ aboutData, name }: Props) => {
                         <p className="text-sm md:text-base my-2 text-gray-600 dark:text-gray-300">{about}</p>
                         
                         <div className="flex items-center gap-4 md:mt-4">
-                            {resumeUrl.trim() && <Link href={'mailto:hello@dylanhnguyen.com'} target="_blank" className="text-sm md:text-base bg-blue-800 dark:bg-blue-700 text-white w-fit rounded-md py-2 px-6 hover:shadow-xl transition-shadow">Email Me</Link>}
-
-                            {callUrl.trim() && <Link href={callUrl} target="_blank" className="text-blue-600 flex items-center gap-1 hover:bg-blue-50 hover:dark:bg-blue-900/10 py-2 px-4 transition-colors rounded-md">Schedule Meeting <BiLinkExternal /> </Link>}
+                            {resumeUrl.trim() && <Link href={'mailto:hello@dylanhnguyen.com'} target="_blank" className="text-sm md:text-base bg-blue-800 dark:bg-blue-700 text-white w-fit rounded-md py-2 px-6 hover:shadow-xl transition-shadow">Email Me</Link>}</div>
+    <div className="flex items-center gap-4 md:mt-4">
+                            {callUrl.trim() && <Link href={callUrl} target="_blank" className="text-blue-800 flex items-center gap-1 hover:bg-blue-500 hover:dark:bg-blue-900/10 py-2 px-4 transition-colors rounded-md">Schedule Meeting <BiLinkExternal /> </Link>}
                         </div>
                     </div>
                 </div>

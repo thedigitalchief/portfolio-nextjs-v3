@@ -14,8 +14,8 @@ export default function Footer({ socials, name }: { socials: social[], name: str
 
             <div className="xl:max-w-6xl mx-auto md:mx-6 lg:mx-10 xl:mx-auto py-4 lg:py-6 flex flex-col-reverse md:flex-row gap-2 md:gap-0 justify-between items-center">
 
-                <p className="text-sm mt-2 md:mt-0">Made by
-                    <span className="zoom text-blue-800 animate-pulse"><a href="https://digitalchief.io"> Dylan Nguyen</a></span>
+                <p className="text-sm mt-2 md:mt-0">Developed by
+                    <span className="zoom text-blue-800 animate-pulse"><a href="https://digitalchief.io"> DigitalChief</a></span>
                     {/* <span className="text-violet-600"> {name}</span> */}
                     </p>
 
@@ -29,7 +29,7 @@ export default function Footer({ socials, name }: { socials: social[], name: str
                     </Link> */}
                 </div>
 
-                <footer className="items-center text-xs mt-1 md:mt-0">DigitalChief, Inc. © 2023. <br></br>All rights reserved.</footer>
+                <footer className="items-center text-xs mt-1 md:mt-0">Dylan Nguyen © 2023. <br></br><small>All rights reserved.</small></footer>
 
                 {/* Social Links */}
                 <div className="flex xl:hidden items-center gap-2">
