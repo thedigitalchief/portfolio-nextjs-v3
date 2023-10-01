@@ -1,3 +1,4 @@
+
 {
   "main": {
     "name": "Dylan Nguyen",
@@ -12,14 +13,14 @@
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/material-ui.png",
       "https://img.icons8.com/color/144/000000/html-5--v1.png",
-      "ttps://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fultraviolet%2F120%2Fnull%2Freact--v1.png&w=256&q=75",
+      "https://img.icons8.com/color/144/000000/redux.png",
       "https://img.icons8.com/color/144/000000/chakra-ui.png"
     ]
   },
   "about": {
     "aboutImage": "https://i.ibb.co/fY4YmLk/compliance.png",
     "aboutImageCaption": "I strive to develop scalable and efficient applications while still providing engaging, pixel-perfect user experiences.",
-    "title": "AI, SAAS, Progressive Web Apps, E-commerce",
+    "title": "AI, SAAS, PWA, E-commerce, Full Stack",
     "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. I am also familiar with the following design tools: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, and Sketch.",
     "callUrl": "https://calendly.com/dylanhnguyen",
     "resumeUrl": "https://dylanhnguyen.com/resume-dylanhnguyen.pdf"
@@ -34,12 +35,12 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaPhone",
-      "link": "tel:+19499422990"
+      "icon": "FaFacebook",
+      "link": "mailto:hello@dylanhnguyen.com"
     },
     {
-      "icon": "FaEmail",
-      "link": "mailto:hello@dylanhnguyen.com"
+      "icon": "FaYoutube",
+      "link": "tel:+19498422889"
     }
   ],
   "skills": [
@@ -175,19 +176,19 @@
       "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
-        "video": "https://dylanhnguyen.com/assets/highlander.59dd0dd4.mp4",
-        "visit": "https://highlander.com/#/"
+        "video": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
+        "visit": "https://highlandernow.com/#/"
       }
     },
     
     {
       "name": "Surfaholic - AI powered surf forecasts and community platform",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Website",
+     "category":"AI",
       "image": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/SurfApp-Inc",
-        "video": "https://dylanhnguyen.com/assets/surfaholic.f74a38ab.mp4",
+        "video": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
         "visit": "https://surfaholic.netlify.app"
       }
     },
@@ -205,7 +206,7 @@
     {
       "name": "Startup Club@UCR - Landing Full-Stack Website",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Website",
+     "category":"Landing",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/thedigitalchief/startupucr",
@@ -222,6 +223,28 @@
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
         "visit": "https://chefit.io"
+      }
+    },
+      {
+      "name": "Chef'it Landing Page – Sign up for local homemade meals & home chefs",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+     "category":"Landing",
+      "image": "https://i.ibb.co/zVW6Jz2/chefit-landing-screenshot.png",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "https://i.ibb.co/zVW6Jz2/chefit-landing-screenshot.png",
+        "visit": "https://chefit-app-v3.vercel.app"
+      }
+    },
+     {
+      "name": "Portfolio Website - Dynamic, responsive developer portoflio showcasing my projects and skills",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+     "category":"Website",
+      "image": "https://i.ibb.co/4FhG4SZ/portfoliov5-screenshot.png",
+      "links": {
+        "code": "https://github.com/thedigitalchief/startupucr",
+        "video": "https://i.ibb.co/4FhG4SZ/portfoliov5-screenshot.png",
+        "visit": "https://portfolio-reactvite-v5.vercel.app"
       }
     }
   ],
