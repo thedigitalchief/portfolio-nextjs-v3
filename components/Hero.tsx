@@ -34,7 +34,7 @@ const Hero = ({ mainData }: HeroProps) => {
                     <div className="flex items-center gap-1">
                         <Image unoptimized={true} alt='waving-hand' width={30} height={30} src={wavingHand} />
                         <p className="text-lg md:text-xl mt-2 md:mt-1.5">
-                        WELCOME, I&apos;M
+                        WELCOME! I&apos;M
                         </p>
                     </div>
                     <h1 className="text-4xl md:text-6xl font-bold relative">
@@ -42,7 +42,7 @@ const Hero = ({ mainData }: HeroProps) => {
                     </h1>
                     <div className="flex flex-row items-start md:items-center gap-1.5">
                         <h2 className="text-lg md:text-2xl">
-                            I develop
+                            I DEVELOP
                         </h2>
                         <Typewriter
                             options={{

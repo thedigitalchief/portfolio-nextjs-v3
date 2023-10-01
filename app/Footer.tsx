@@ -15,7 +15,7 @@ export default function Footer({ socials, name }: { socials: social[], name: str
             <div className="xl:max-w-6xl mx-auto md:mx-6 lg:mx-10 xl:mx-auto py-4 lg:py-6 flex flex-col-reverse md:flex-row gap-2 md:gap-0 justify-between items-center">
 
                 <p className="text-sm mt-2 md:mt-0">Developed by
-                    <span className="zoom text-blue-800 animate-pulse"><a href="https://digitalchief.io"> DigitalChief</a></span>
+                    <span className="zoom text-blue-900 animate-pulse"><a href="https://digitalchief.io"> DigitalChief</a></span>
                     {/* <span className="text-violet-600"> {name}</span> */}
                     </p>
 

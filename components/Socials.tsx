@@ -16,7 +16,7 @@ const Socials = ({ socials }: { socials: social[] }) => {
                 // const iconIndex = components.indexOf(icon : IconType)
                 // const Icon = components[`Fa${icon}`]
                 return (
-                    <Link href={s.link} target="_blank" rel="noreferrer" key={s.icon} className="zoom-img grid place-items-center p-3 rounded-full bg-blue-700 text-white">
+                    <Link href={s.link} target="_blank" rel="noreferrer" key={s.icon} className="zoom-img grid place-items-center p-3 rounded-full bg-blue-900 text-white">
                         {
                             //@ts-ignore
                             React.createElement(Fa[`${s.icon}`])
