@@ -4,7 +4,7 @@ const nextConfig = {
     appDir: true,
   },
   images: {
-    domains: ['res.cloudinary.com', 'firebasestorage.googleapis.com', 'img.icons8.com', 'raw.githubusercontent.com', 'i.imgur.com', 'img.freepik.com','media.geeksforgeeks.org', 'cdn.fitolympia.com', 'render.com', 'images.credly.com', 'i.ibb.co', 'static-00.iconduck.com', 'user-images.githubusercontent.com', 'dylanhnguyen.com','img.icons8.com', 'vercel.app']
+    domains: ['res.cloudinary.com', 'firebasestorage.googleapis.com', 'img.icons8.com', 'raw.githubusercontent.com', 'i.imgur.com', 'img.freepik.com','media.geeksforgeeks.org', 'cdn.fitolympia.com', 'render.com', 'images.credly.com', 'i.ibb.co', 'static-00.iconduck.com', 'user-images.githubusercontent.com', 'dylanhnguyen.com','img.icons8.com', 'jigarsable.vercel.app']
   },
   async rewrites() {
     return [

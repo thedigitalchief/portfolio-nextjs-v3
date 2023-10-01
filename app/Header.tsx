@@ -35,7 +35,7 @@ export default function Header({ logo }: { logo: string }) {
                 <ul className=' flex items-center gap-8'>
                     {navs.map((e, i) => (
                         <li key={i}>
-                            <Link
+                            <ScrollLink
                                 className='zoom-img hover:text-blue-700 hover:dark:text-blue-500 transition-colors capitalize cursor-pointer'
                                 to={e}
                                 offset={-60}
@@ -44,7 +44,7 @@ export default function Header({ logo }: { logo: string }) {
                                 isDynamic={true}
                             >
                                 {e}
-                            </Link>
+                            </ScrollLink>
                         </li>
                     ))}
                     <span
@@ -74,9 +74,9 @@ export default function Header({ logo }: { logo: string }) {
                     <CgClose className='self-end my-2' size={20} onClick={() => setNavCollapse(true)} />
 
                     {navs.slice(0, 5).map((e) => (
-                        <Link
+                        <ScrollLink
                             key={e}
-                            className='zoom-img hover:text-purple-700 py-1.5 px-4 rounded transition-colors capitalize cursor-pointer'
+                            className='zoom hover:text-purple-600 py-1.5 px-4 rounded transition-colors capitalize cursor-pointer'
                             to={e}
                             offset={-60}
                             smooth={true}
@@ -85,7 +85,7 @@ export default function Header({ logo }: { logo: string }) {
                             onClick={() => setNavCollapse(true)}
                         >
                             {e}
-                        </Link>
+                        </ScrollLink>
                     ))}
                       <Link 
                       href={'mailto:hello@dylanhnguyen.com'}
