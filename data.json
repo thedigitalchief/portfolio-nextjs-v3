@@ -163,11 +163,44 @@
       "name": "ClarityGPT - Powerful AI SAAS platform with 5 generative tools",
       "techstack": "React, TypeScript, Next.js, Node, Express, Tailwind, MongoDB, Lottie, Vercel",
      "category":"AI",
-      "image": "https://portfolio-reactvite-v5.vercel.app/assets/aisaas-demo.f8b5fd1f.mp4",
+      "image": "https://i.ibb.co/MsqB9B3/Screenshot-2023-09-04-at-23-29-46.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/aisaas-demo.f8b5fd1f.mp4",
         "visit": "https://ai-saas-clarity-main.vercel.app"
+      }
+    },
+        {
+      "name": "Chef'it Landing – Sign up for local homemade meals & home chefs",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+     "category":"Full Stack",
+      "image": "https://i.ibb.co/zVW6Jz2/chefit-landing-screenshot.png",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "https://i.ibb.co/zVW6Jz2/chefit-landing-screenshot.png",
+        "visit": "https://chefit-app-v3.vercel.app"
+      }
+    },
+     {
+      "name": "Developer Portfolio - Next.js dynamic portfolio ideal for freelance developers",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+     "category":"Full Stack",
+      "image": "https://i.ibb.co/Z2d1qJG/portfoliov5-compressed-demo.gif",
+      "links": {
+        "code": "https://github.com/thedigitalchief/",
+        "video": "hhttps://i.ibb.co/Z2d1qJG/portfoliov5-compressed-demo.gif",
+        "visit": "https://portfolio-reactvite-v5.vercel.app"
+      }
+    },
+    {
+      "name": "Personal Portfolio - Fully responsive portoflio developed for a client",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+     "category":"Full Stack",
+      "image": "https://i.ibb.co/qDRCFj7/portfoliov1-cbt-screenshot.png",
+      "links": {
+        "code": "https://github.com/thedigitalchief/responsive-portfolio",
+        "video": "https://i.ibb.co/4FhG4SZ/portfoliov5-screenshot.png",
+        "visit": "https://christiantbeltran.com"
       }
     },
     {
@@ -225,39 +258,6 @@
         "video": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
         "visit": "https://chefit.io"
       }
-    },
-      {
-      "name": "Chef'it Landing – Sign up for local homemade meals & home chefs",
-      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Full Stack",
-      "image": "https://i.ibb.co/zVW6Jz2/chefit-landing-screenshot.png",
-      "links": {
-        "code": "https://github.com/thedigitalchief",
-        "video": "https://i.ibb.co/zVW6Jz2/chefit-landing-screenshot.png",
-        "visit": "https://chefit-app-v3.vercel.app"
-      }
-    },
-     {
-      "name": "Developer Portfolio - Next.js dynamic portfolio ideal for freelance developers",
-      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Full Stack",
-      "image": "https://i.ibb.co/Z2d1qJG/portfoliov5-compressed-demo.gif",
-      "links": {
-        "code": "https://github.com/thedigitalchief/startupucr",
-        "video": "https://i.ibb.co/4FhG4SZ/portfoliov5-screenshot.png",
-        "visit": "https://portfolio-reactvite-v5.vercel.app"
-      }
-    },
-    {
-      "name": "Personal Portfolio - Fully responsive portoflio showcasing my projects and skills",
-      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Full Stack",
-      "image": "https://i.ibb.co/Z2d1qJG/portfoliov5-compressed-demo.gif",
-      "links": {
-        "code": "https://github.com/thedigitalchief/startupucr",
-        "video": "https://i.ibb.co/4FhG4SZ/portfoliov5-screenshot.png",
-        "visit": "https://christiantbeltran.com"
-      }
     }
   ],
   "educations": [
@@ -273,7 +273,7 @@
     ,
     {
       "institute": "Irvine Valley College",
-      "degree": "Transfer IGETC",
+      "degree": "Transfer Credit - IGETC",
       "duration": "2019 - 2021",
       "desc": [
         "Pursuing engineering degree with a focus on software development and machine learning",
@@ -281,7 +281,7 @@
       ]
     },
      {
-      "institute": "Bourns School of Engineering, UC Riverside",
+      "institute": "Bourns School of Engineering at University of California, Riverside",
       "degree": "Computer Science, B.S.",
       "duration": "2021 - 2023",
       "desc": [
@@ -304,8 +304,8 @@
       ]
     },
      {
-      "company": "Woodly Co. USA, Inc.",
-      "position": "Private-label Brand Founder",
+      "company": "Woodly Co. USA",
+      "position": "Private-label E-commerce",
       "duration": "March 2017 - September 2018",
       "desc": [
         "Launched successful private label, trademarked company sunglasses that were distributed nationwide on Amazon Prime",
@@ -353,7 +353,7 @@
       "duration": "June 2023 - August 2023",
       "desc": [
         "Developed dynamic, database-driven website pages and increased performance by 15% by using caching mechanisms with Memcached and Redis.",
-        "Assisted in adding full responsiveness to mobile environments",
+        "Assisted in adding full responsiveness and adapted company page to mobile environments",
         "Improved loading speeds by 34% by implementing lazy loading and image optimization."
 
       ]
