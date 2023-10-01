@@ -5,8 +5,9 @@
     "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance."
   ],
     "titles": [
-      "SAAS Engineering",
+      "SAAS Developer",
       "AI Development",
+       "Ecommerce CMS platforms",
       "Progressive Web Apps"
     ],
     "heroImage": "https://i.ibb.co/MBCqx9z/profilepicture-japan2023.png",
@@ -21,7 +22,7 @@
     "aboutImage": "https://i.ibb.co/fY4YmLk/compliance.png",
     "aboutImageCaption": "I strive to develop scalable and efficient applications while still providing engaging, pixel-perfect user experiences.",
     "title": "AI, SAAS, PWA, E-commerce, Full Stack",
-    "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress. I am also familiar with the following design tools: Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, and Sketch.",
+    "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress.",
     "callUrl": "https://calendly.com/dylanhnguyen",
     "resumeUrl": "https://dylanhnguyen.com/resume-dylanhnguyen.pdf"
   },
@@ -162,7 +163,7 @@
       "name": "ClarityGPT - Powerful AI SAAS platform with 5 generative tools",
       "techstack": "React, TypeScript, Next.js, Node, Express, Tailwind, MongoDB, Lottie, Vercel",
      "category":"AI",
-      "image": "https://i.ibb.co/MsqB9B3/Screenshot-2023-09-04-at-23-29-46.png",
+      "image": "https://portfolio-reactvite-v5.vercel.app/assets/aisaas-demo.f8b5fd1f.mp4",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/aisaas-demo.f8b5fd1f.mp4",
@@ -206,7 +207,7 @@
     {
       "name": "Startup Club@UCR - Landing Full-Stack Website",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Landing",
+     "category":"Full Stack",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/thedigitalchief/startupucr",
@@ -226,9 +227,9 @@
       }
     },
       {
-      "name": "Chef'it Landing Page – Sign up for local homemade meals & home chefs",
+      "name": "Chef'it Landing – Sign up for local homemade meals & home chefs",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Landing",
+     "category":"Full Stack",
       "image": "https://i.ibb.co/zVW6Jz2/chefit-landing-screenshot.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -237,14 +238,25 @@
       }
     },
      {
-      "name": "Portfolio Website - Dynamic, responsive developer portoflio showcasing my projects and skills",
+      "name": "Developer Portfolio - Next.js dynamic portfolio ideal for freelance developers",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Website",
-      "image": "https://i.ibb.co/4FhG4SZ/portfoliov5-screenshot.png",
+     "category":"Full Stack",
+      "image": "https://i.ibb.co/Z2d1qJG/portfoliov5-compressed-demo.gif",
       "links": {
         "code": "https://github.com/thedigitalchief/startupucr",
         "video": "https://i.ibb.co/4FhG4SZ/portfoliov5-screenshot.png",
         "visit": "https://portfolio-reactvite-v5.vercel.app"
+      }
+    },
+    {
+      "name": "Personal Portfolio - Fully responsive portoflio showcasing my projects and skills",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+     "category":"Full Stack",
+      "image": "https://i.ibb.co/Z2d1qJG/portfoliov5-compressed-demo.gif",
+      "links": {
+        "code": "https://github.com/thedigitalchief/startupucr",
+        "video": "https://i.ibb.co/4FhG4SZ/portfoliov5-screenshot.png",
+        "visit": "https://christiantbeltran.com"
       }
     }
   ],
