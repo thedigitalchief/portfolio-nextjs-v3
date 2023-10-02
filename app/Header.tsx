@@ -56,7 +56,7 @@ export default function Header({ logo }: { logo: string }) {
             </nav>
 
             <nav className='p-4 flex sm:hidden items-center justify-between'>
-                {logo === 'Dylan Nguyen' ? <Image width={42} height={42} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                {logo === 'Dylan Nguyen' ? <Image width={50} height={50} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
                 <div className='flex items-center gap-4'>
                     <span
                         onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
