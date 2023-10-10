@@ -2,15 +2,15 @@
 {
   "main": {
     "name": "Dylan Nguyen",
-    "shortDesc": [ "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance."
+    "shortDesc": [ "As a passionate full-stack engineer with expertise in AI and B2B SAAS development, I leverage my diverse expertise to engineer full stack solutions tailored to client needs, ensuring timely and budget-conscious delivery. Holding a Computer Science background from the University of California, Riverside, coupled with industry experience spanning web development, information security, and tech tutoring, I am actively seeking job opportunities where I can apply and expand my skills. Proficient in an array of programming languages, frameworks, and certified in Sumo Logic Fundamentals and IBM Full Stack Software Development, I thrive in collaborative team environments and am committed to driving meaningful digital transformations."
   ],
     "titles": [
       "SAAS Developer",
-      "AI Development",
-       "Ecommerce CMS platforms",
-      "Progressive Web Apps"
+      "AI & Deep Learning",
+      "Ecommerce (Shopify, Wordpress)",
+      "Progressive Full-Stack Apps"
     ],
-    "heroImage": "https://i.ibb.co/MBCqx9z/profilepicture-japan2023.png",
+    "heroImage": "https://i.ibb.co/rx5mtNJ/profilepic-whitebg.png",
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/material-ui.png",
       "https://img.icons8.com/color/144/000000/html-5--v1.png",
@@ -19,12 +19,12 @@
     ]
   },
   "about": {
-    "aboutImage": "https://i.ibb.co/PZ2mwKd/contact.png",
-    "aboutImageCaption": "I strive to develop scalable and efficient applications while still providing engaging, pixel-perfect user experiences.",
-    "title": "AI, SAAS, PWA, E-commerce, Full Stack",
-    "about": "I specialize in HTML, CSS, JavaScript, React, Node.js, Python, Java, C++, PHP, SQL, Git, REST APIs. Additionally, I am well-versed in analytical technologies as well, such as Google Tag Manager, Google Analytics, Salesforce.com, Sendgrid, MailChimp, Zapier, as well as, e-commerce platforms like Shopify, Woocommerce, and Wordpress.",
-    "callUrl": "https://calendly.com/dylanhnguyen",
-    "resumeUrl": "https://dylanhnguyen.com/resume-dylanhnguyen.pdf"
+    "aboutImage": "https://i.ibb.co/kgXJd84/71615-site-analytics-dashboard-site-stats-concept-illustration-business-analytics.gif",
+    "aboutImageCaption": "I strive for seamless integrations across platforms but also ensures the delivery of scalable, efficient, and innovative digital products that resonate with modern user demands.",
+    "title": "About Me",
+    "about": "With a robust understanding of languages and frameworks including C/C++, Java, Python, and React/Javascript, as well as experience iwithn cloud platforms like AWS, Firebase, and MongoDB, I possess a versatile technical toolkit. My proficiency in both front-end technologies like React, TypeScript, and Angular, and back-end systems including SQL and REST/CRUD API, enables me to offer comprehensive web solutions. Furthermore, my experience with AI, especially through projects harnessing GPT-4, positions me at the forefront of cutting-edge technology. ",
+    "callUrl": "http://dylanhnguyen.com/#contact",
+    "resumeUrl": "http://dylanhnguyen.com/resume-dylanhnguyen.pdf"
   },
     "socials": [
     {
@@ -72,7 +72,7 @@
     },
  
     {
-      "name": "Next",
+      "name": "Next.js",
       "image": "https://portfolio-reactvite-v5.vercel.app/assets/next-logo.47eabacf.svg",
       "category": "Frontend"
     },
@@ -182,9 +182,9 @@
       }
     },
      {
-      "name": "Developer Portfolio - Next.js dynamic portfolio ideal for freelance developers",
+      "name": "Responsive Portfolio - Dynamic portfolio ideal for personal, developer, or enterprise use",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Full Stack",
+     "category":"Landing",
       "image": "https://i.ibb.co/Z2d1qJG/portfoliov5-compressed-demo.gif",
       "links": {
         "code": "https://github.com/thedigitalchief/",
@@ -195,7 +195,7 @@
     {
       "name": "Personal Portfolio - Fully responsive portoflio developed for a client",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Full Stack",
+     "category":"Landing",
       "image": "https://i.ibb.co/qDRCFj7/portfoliov1-cbt-screenshot.png",
       "links": {
         "code": "https://github.com/thedigitalchief/responsive-portfolio",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "name": "HighlanderNow - Powerful academic platform serving 1,000 UCR students a month.",
+      "name": "HighlanderNow - Powerful academic SAAS serving 1,000 UCR students a month.",
       "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
       "category":"App",
       "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
@@ -216,7 +216,7 @@
     },
     
     {
-      "name": "Surfaholic - AI powered surf forecasts and community platform",
+      "name": "Surfaholic.ai - AI driven surf reports",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"AI",
       "image": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
@@ -227,7 +227,7 @@
       }
     },
     {
-      "name": "002Pickle™ - E-Commerce Shop App",
+      "name": "002Pickle™ - E-Commerce Shop",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
       "category":"App",
       "image": "https://i.ibb.co/Lnk98hr/Untitled.gif",
@@ -238,9 +238,9 @@
       }
     },
     {
-      "name": "Startup Club@UCR - Landing Full-Stack Website",
+      "name": "Startup Club@UCR - Landing",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Full Stack",
+     "category":"Landing",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/thedigitalchief/startupucr",
@@ -249,7 +249,7 @@
       }
     },
     {
-      "name": "Chef'it App– Find local homemade meals & home chefs",
+      "name": "Chef'it App – Order local homemade meals, home chefs, & MEHKOS",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"App",
       "image": "https://i.ibb.co/DkbRR7y/chefit-hero.png",

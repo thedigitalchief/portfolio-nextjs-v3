@@ -42,7 +42,7 @@ const Hero = ({ mainData }: HeroProps) => {
                     </h1>
                     <div className="flex flex-row items-start md:items-center gap-1.5">
                         <h2 className="text-lg md:text-2xl">
-                            I DEVELOP
+                            I develop
                         </h2>
                         <Typewriter
                             options={{
@@ -77,7 +77,7 @@ const Hero = ({ mainData }: HeroProps) => {
                     </a> */}
 
                     <div className="zoom w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-800 hover:dark:bg-violet-800 transition-colors group text-white"
-                        onClick={() => window.open('https://calendly.com/dylanhnguyen', '_blank')}
+                        onClick={() => window.open('http://dylanhnguyen.com/#contact', '_blank')}
                         // offset={-60}
                         // smooth={true}
                         // duration={500}
