@@ -2,10 +2,10 @@ export default function Head() {
   return (
     <>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="description" content="I'm Dylan Nguyen, full-stack developer based in Irvine, California. My journey in software development began during my first year of college." />
+      <meta name="description" content="I'm Dylan Nguyen, full-stack developer with expertise in AI, SAAS, and e-commerce development based in Irvine, CA." />
       <meta name="keywords" content="Dylan Nguyen, portfolio, jigar, full stack dev, nextjs portfolio, portfolio design, portfolio website, personal portfolio" />
       <meta property="og:site_name" content="Dylan Nguyen's Portfolio" />
-      <meta property="og:title" content="Portfolio | Dylan Nguyen - Full Stack Developer" />
+      <meta property="og:title" content="Portfolio | Dylan H. Nguyen" />
       <meta property="og:description"
         content="Dylan Nguyen, full-stack freelance developer." />
       <meta property="og:url" content="https://dylanhnguyen.com" />
@@ -18,7 +18,7 @@ export default function Head() {
       <meta name="application-name" content="Portfolio | Dylan Nguyen" />
       <meta name="apple-mobile-web-app-title" content="Portfolio | Dylan Nguyen - Full Stack Developer" />
       <link rel="icon" href="favicon.ico" />
-      <title>Portfolio | Dylan Nguyen</title>
+      <title>Dylan Nguyen | Portfolio</title>
     </>
   )
 }

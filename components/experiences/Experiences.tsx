@@ -19,7 +19,7 @@ const Experiences = ({ experienceData, educationData }: Props) => {
 
     return (
         <SectionWrapper id="experience" className="min-h-screen">
-            <h2 className="text-4xl text-center">Professional Experiences & Projects</h2>
+            <h2 className="text-4xl text-center">My Experience & Education</h2>
 
             <div className=" w-fit mx-auto mt-6 p-2 bg-white dark:bg-grey-800 rounded-md flex gap-2 items-center">
                 {['Experience', 'Education'].map((e, i) => (
@@ -30,7 +30,7 @@ const Experiences = ({ experienceData, educationData }: Props) => {
 
             <div className="lg:container sm:mx-4 lg:mx-auto lg:w-5/6 2xl:w-3/4">
                 <div className="relative wrap overflow-hidden p-4 md:py-10 md:px-0">
-                    <div className="left-6 md:left-1/2 absolute border-opacity-20 border-gray-400 dark:border-grey-800 h-full border"></div>
+                    <div className="zoom left-6 md:left-1/2 absolute border-opacity-20 border-gray-400 dark:border-grey-800 h-full border"></div>
 
                     {viewAll ?
                         (show === "Experience" ? experiences : educations).map((e, i) => (

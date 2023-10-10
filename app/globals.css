@@ -72,16 +72,16 @@ html {
 }
 .zoom {
   opacity: 0.95;
-  -webkit-transition: all 0.22s ease-in;
-  transition: all 0.22s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
 
 }
 
 .zoom:hover {
   opacity: 1;
   transform: scale(1.03);
-  -webkit-transition:  0.22s ease-out;
-  transition:  0.22s ease-out;
+  -webkit-transition:  0.22s ease-in;
+  transition:  0.22s ease-in;
 
   /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
@@ -90,7 +90,7 @@ html {
 .zoom-img {
   transition: .22s ease-in;
   -webkit-transition:  0.22s ease-in;
-  opacity: 0.93;
+  opacity: 0.95;
   /* Animation */
 
 }
