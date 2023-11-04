@@ -13,11 +13,11 @@ const CallToAction = () => {
         <SectionWrapper id='cta' className="xl:max-w-6xl my-24 lg:mx-10 xl:mx-auto mx-4 relative overflow-hidden flex flex-col-reverse md:flex-row gap-3 md:gap-0 items-center bg-gradient-to-r from-blue-700 to-blue-800 text-white rounded-2xl p-6 md:p-8 lg:px-12 lg:py-16 z-10">
             <div className="flex flex-col md:w-1/2 lg:w-3/5">
                 <h1 className="text-2xl lg:text-4xl font-extrabold">Interested?<br></br><span className="text-xl text-white">Don&apos;t hesistate to reach out.</span><br /></h1>
-                <h3 className="md:text-base lg:text-md font-medium mt-1.5">View my<span className="text-grey-800"> GitHub</span> for my software projects & collaborations.</h3>
-                {/* <p className="text-sm md:text-base mt-2.5 md:mt-6">Fork this template on GitHub start building your own portfolio website.</p> */}
+                <h3 className="md:text-base lg:text-md font-medium mt-1.5">View my software development agency, <span className="text-grey-800"> DigitalChief Studios</span> for more software projects & collaborations.</h3>
+                <p className="text-sm md:text-base mt-2.5 md:mt-6">Checkout my GitHub.</p>
                 <div className="flex items-center gap-4 my-4">
                    
-                    <Link href="https://digitalchief.io" target="_blank" className="zoom py-2 px-4 bg-blue-800 rounded-lg w-fit flex items-center gap-2 hover:bg-blue-900 shadow-xl transition-all"> DigitalChief Studios
+                    <Link href="https://digitalchief.io" target="_blank" className="zoom py-2 px-4 bg-blue-800 rounded-lg w-fit flex items-center gap-2 hover:bg-blue-900 shadow-xl transition-all">DigitalChief Studios
                         <BiLinkExternal />
                     </Link>
                      <Link href="https://github.com/thedigitalchief" target="_blank" className="zoom py-2 px-4 bg-white text-black rounded-lg w-fit flex items-center gap-2 hover:shadow-xl transition-shadow">

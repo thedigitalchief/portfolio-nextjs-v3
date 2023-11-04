@@ -1,28 +1,28 @@
 
 {
   "main": {
-    "name": "Dylan Nguyen",
-    "shortDesc": [ "As a passionate full-stack engineer with expertise in AI and B2B SAAS development, I leverage my diverse expertise to engineer full stack solutions tailored to client needs, ensuring timely and budget-conscious delivery. Holding a Computer Science background from the University of California, Riverside, coupled with industry experience spanning web development, information security, and tech tutoring, I am actively seeking job opportunities where I can apply and expand my skills. Proficient in an array of programming languages, frameworks, and certified in Sumo Logic Fundamentals and IBM Full Stack Software Development, I thrive in collaborative team environments and am committed to driving meaningful digital transformations."
+    "name": "Dylan H. Nguyen",
+    "shortDesc": [ "As a versatile full-stack engineer with expertise in AI and B2B SAAS development, I'm seeking opportunities to apply and expand my skills. With a Computer Science degree from the University of California, Riverside, I'm proficient in various programming languages and certified in Sumo Logic Fundamentals and IBM Full Stack Software Development."
   ],
     "titles": [
-      "SAAS Developer",
-      "AI & Deep Learning",
-      "Ecommerce (Shopify, Wordpress)",
-      "Progressive Full-Stack Apps"
+      "SAAS Platforms",
+      "AI & Deep Learning Automations",
+      "Ecommerce & CRM(Shopify, Wordpress)",
+      "Full-Stack Apps"
     ],
     "heroImage": "https://i.ibb.co/rx5mtNJ/profilepic-whitebg.png",
     "techStackImages": [
-      "https://img.icons8.com/color/144/000000/material-ui.png",
-      "https://img.icons8.com/color/144/000000/html-5--v1.png",
-      "https://img.icons8.com/color/144/000000/redux.png",
-      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+      "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fultraviolet%2F120%2Fnull%2Freact--v1.png&w=256&q=75",
+      "https://portfolio-optimized.vercel.app/icons/icons8-nodejs.svg",
+      "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "https://portfolio-optimized.vercel.app/icons/icons8-git.svg"
     ]
   },
   "about": {
     "aboutImage": "https://i.ibb.co/kgXJd84/71615-site-analytics-dashboard-site-stats-concept-illustration-business-analytics.gif",
-    "aboutImageCaption": "I strive for seamless integrations across platforms but also ensures the delivery of scalable, efficient, and innovative digital products that resonate with modern user demands.",
+    "aboutImageCaption": "Mobile/Web Apps, AI, SAAS, E-commerce",
     "title": "About Me",
-    "about": "With a robust understanding of languages and frameworks including C/C++, Java, Python, and React/Javascript, as well as experience iwithn cloud platforms like AWS, Firebase, and MongoDB, I possess a versatile technical toolkit. My proficiency in both front-end technologies like React, TypeScript, and Angular, and back-end systems including SQL and REST/CRUD API, enables me to offer comprehensive web solutions. Furthermore, my experience with AI, especially through projects harnessing GPT-4, positions me at the forefront of cutting-edge technology. ",
+    "about": "With a robust understanding of languages and frameworks including C/C++, Java, Python, and React/Javascript, as well as experience iwithn cloud platforms like AWS, Firebase, and MongoDB, I possess a versatile technical toolkit. My proficiency in both front-end technologies like React, TypeScript, and Vue, and back-end systems including SQL and REST/CRUD API, enables me to offer comprehensive web solutions. Furthermore, my experience with AI, especially through projects harnessing GPT-4, positions me at the forefront of cutting-edge technology. ",
     "callUrl": "http://dylanhnguyen.com/#contact",
     "resumeUrl": "http://dylanhnguyen.com/resume-dylanhnguyen.pdf"
   },
@@ -349,7 +349,7 @@
     },
      {
       "company": "TriNet Internet Solutions, Inc.",
-      "position": "Web Developer Intern",
+      "position": "Full Stck Developer Intern",
       "duration": "June 2023 - August 2023",
       "desc": [
         "Developed dynamic, database-driven website pages and increased performance by 15% by using caching mechanisms with Memcached and Redis.",

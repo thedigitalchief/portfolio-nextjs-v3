@@ -62,13 +62,13 @@ const Hero = ({ mainData }: HeroProps) => {
                     </p>
 
 
-                    <div className="zoom-img w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-500 hover:bg-blue-700 dark:bg-blue-700 hover:dark:bg-blue-800 transition-colors group text-white"
+                    <div className="zoom-img w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-600 hover:bg-blue-700 dark:bg-blue-800 hover:dark:bg-blue-900 transition-colors group text-white"
                         onClick={() => window.open('https://dylanhnguyen.com/resume-dylanhnguyen.pdf', '_blank')}
                         // offset={-60}
                         // smooth={true}
                         // duration={500}
                         // isDynamic={true}
-                    >Résumé<IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
+                    >View Résumé<IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
 
                     </div>
 
@@ -76,13 +76,13 @@ const Hero = ({ mainData }: HeroProps) => {
                         <span className="relative zoom w-fit text-m md:text-base ">Contact Me</span>
                     </a> */}
 
-                    <div className="zoom w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-800 hover:dark:bg-violet-800 transition-colors group text-white"
+                    <div className="zoom w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-800 hover:dark:bg-violet-900 transition-colors group text-white"
                         onClick={() => window.open('http://dylanhnguyen.com/#contact', '_blank')}
                         // offset={-60}
                         // smooth={true}
                         // duration={500}
                         // isDynamic={true}
-                    >Schedule Call<IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
+                    >Contact Me<IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
 
                         {/* <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' /> */}
                     </div>
