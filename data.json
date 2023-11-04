@@ -20,7 +20,7 @@
   },
   "about": {
     "aboutImage": "https://i.ibb.co/kgXJd84/71615-site-analytics-dashboard-site-stats-concept-illustration-business-analytics.gif",
-    "aboutImageCaption": "Mobile/Web Apps, AI, SAAS, E-commerce",
+    "aboutImageCaption": "An introduction to my skills and experience",
     "title": "About Me",
     "about": "With a robust understanding of languages and frameworks including C/C++, Java, Python, and React/Javascript, as well as experience iwithn cloud platforms like AWS, Firebase, and MongoDB, I possess a versatile technical toolkit. My proficiency in both front-end technologies like React, TypeScript, and Vue, and back-end systems including SQL and REST/CRUD API, enables me to offer comprehensive web solutions. Furthermore, my experience with AI, especially through projects harnessing GPT-4, positions me at the forefront of cutting-edge technology. ",
     "callUrl": "http://dylanhnguyen.com/#contact",
@@ -36,11 +36,11 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaFacebook",
+      "icon": "https://dylanhnguyen.com/gmail-icon.png",
       "link": "mailto:hello@dylanhnguyen.com"
     },
     {
-      "icon": "FaYoutube",
+      "icon": "https://dylanhnguyen.com/phone-icon.png",
       "link": "tel:+19498422889"
     }
   ],
@@ -171,9 +171,9 @@
       }
     },
         {
-      "name": "Chef'it Landing – Sign up for local homemade meals & home chefs",
+      "name": "Chef'it Landing – Early user signups for local homemade meals & home chefs",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Full Stack",
+     "category":"Landing",
       "image": "https://i.ibb.co/zVW6Jz2/chefit-landing-screenshot.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -206,7 +206,7 @@
     {
       "name": "HighlanderNow - Powerful academic SAAS serving 1,000 UCR students a month.",
       "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
-      "category":"App",
+      "category":"Full Stack",
       "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -229,7 +229,7 @@
     {
       "name": "002Pickle™ - E-Commerce Shop",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-      "category":"App",
+      "category":"Full Stack",
       "image": "https://i.ibb.co/Lnk98hr/Untitled.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -251,7 +251,7 @@
     {
       "name": "Chef'it App – Order local homemade meals, home chefs, & MEHKOS",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"App",
+     "category":"Full Stack",
       "image": "https://i.ibb.co/DkbRR7y/chefit-hero.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -266,14 +266,14 @@
       "degree": "High School Diploma",
       "duration": "2015 - 2019",
        "desc": [
-        "Nation Merit Scholar, Varsity nationally ranked tennis, AP Scholar"
+        "National Merit Scholar, Irvine CUBESAT01, Nationally ranked Varsity Tennis"
        
       ]
     }
     ,
     {
       "institute": "Irvine Valley College",
-      "degree": "Transfer Credit - IGETC",
+      "degree": "Transfer - IGETC",
       "duration": "2019 - 2021",
       "desc": [
         "Pursuing engineering degree with a focus on software development and machine learning",
