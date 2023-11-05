@@ -21,7 +21,7 @@ export default function Footer({ socials, name }: { socials: social[], name: str
 
                 <div className="hidden xl:flex items-center gap-2">
                     <Link href={'https://dylanhnguyen.com'} target="_blank">
-                        <Image alt="Dylan Nguyen Portfolio"width={45} height={45} src="https://dylanhnguyen.com/digitalchiefstudios.png"className={`${theme === 'dark' ? 'invert' : 'invert-0'} opacity-80 hover:opacity-100 transition-opacity`} />
+                        <Image alt="Dylan Nguyen Portfolio" width={45} height={45} src="https://i.ibb.co/zSpP5jk/animated-headshot-nobg-05936691.png" className={`${theme === 'dark' ? 'invert' : 'invert-0'} opacity-80 hover:opacity-100 transition-opacity`} />
                     </Link>
                     {/* <p className="text-sm">X</p>
                     <Link href={'https://vercel.com'} target="_blank">
