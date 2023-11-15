@@ -2,7 +2,7 @@
 {
   "main": {
     "name": "Dylan H. Nguyen",
-    "shortDesc": [ "As a versatile full-stack engineer with expertise in AI and B2B SAAS development, I'm seeking opportunities to apply and expand my skills. With a Computer Science degree from the University of California, Riverside, I'm proficient in various programming languages and certified in Sumo Logic Fundamentals and IBM Full Stack Software Development."
+    "shortDesc": [ "Driven full-stack software developer with expertise in AI and B2B SAAS development, I'm seeking opportunities to apply and expand my skills. With a Computer Science degree from the University of California, Riverside, I'm proficient in various programming languages and certified in Sumo Logic Fundamentals and IBM Full Stack Software Development."
   ],
     "titles": [
       "SAAS Platforms",
@@ -20,7 +20,7 @@
   },
   "about": {
     "aboutImage": "https://i.ibb.co/kgXJd84/71615-site-analytics-dashboard-site-stats-concept-illustration-business-analytics.gif",
-    "aboutImageCaption": "An introduction to my skills and experience",
+    "aboutImageCaption": "Full Stack, AI, & SAAS Developer",
     "title": "About Me",
     "about": "With a robust understanding of languages and frameworks including C/C++, Java, Python, and React/Javascript, as well as experience iwithn cloud platforms like AWS, Firebase, and MongoDB, I possess a versatile technical toolkit. My proficiency in both front-end technologies like React, TypeScript, and Vue, and back-end systems including SQL and REST/CRUD API, enables me to offer comprehensive web solutions. Furthermore, my experience with AI, especially through projects harnessing GPT-4, positions me at the forefront of cutting-edge technology. ",
     "callUrl": "http://dylanhnguyen.com/#contact",
