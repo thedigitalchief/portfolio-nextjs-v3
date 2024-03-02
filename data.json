@@ -19,7 +19,7 @@
     ]
   },
   "about": {
-    "aboutImage": "https://i.ibb.co/kgXJd84/71615-site-analytics-dashboard-site-stats-concept-illustration-business-analytics.gif",
+    "aboutImage": "https://portfoliov4-pi.vercel.app/assets/whacky-felix.a0ac36b4.png",
     "aboutImageCaption": "Full Stack, AI, & SAAS Developer",
     "title": "About Me",
     "about": "With a robust understanding of languages and frameworks including C/C++, Java, Python, and React/Javascript, as well as experience iwithn cloud platforms like AWS, Firebase, and MongoDB, I possess a versatile technical toolkit. My proficiency in both front-end technologies like React, TypeScript, and Vue, and back-end systems including SQL and REST/CRUD API, enables me to offer comprehensive web solutions. Furthermore, my experience with AI, especially through projects harnessing GPT-4, positions me at the forefront of cutting-edge technology. ",
@@ -211,7 +211,7 @@
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
-        "visit": "https://highlandernow.com/#/"
+        "visit": "https://highlandernow-webapp.vercel.app/#/"
       }
     },
     
