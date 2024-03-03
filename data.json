@@ -2,13 +2,13 @@
 {
   "main": {
     "name": "Dylan H. Nguyen",
-    "shortDesc": [ "Driven full-stack software developer with expertise in AI and B2B SAAS development, I'm seeking opportunities to apply and expand my skills. With a Computer Science degree from the University of California, Riverside, I'm proficient in various programming languages and certified in Sumo Logic Fundamentals and IBM Full Stack Software Development."
+    "shortDesc": [ "As a computer science student with with experience in AI and SaaS software development, I'm seeking opportunities to apply and leverage my skills. I'm passionate about creating innovative solutions and am eager to contribute to a team."
   ],
     "titles": [
-      "SAAS Platforms",
-      "AI & Deep Learning Automations",
-      "Ecommerce & CRM(Shopify, Wordpress)",
-      "Full-Stack Apps"
+      "SAAS",
+      "AI",
+      "Shopify & WordPress",
+      "Full Stack"
     ],
     "heroImage": "https://i.ibb.co/rx5mtNJ/profilepic-whitebg.png",
     "techStackImages": [
@@ -20,9 +20,9 @@
   },
   "about": {
     "aboutImage": "https://portfoliov4-pi.vercel.app/assets/whacky-felix.a0ac36b4.png",
-    "aboutImageCaption": "Full Stack, AI, & SAAS Developer",
-    "title": "About Me",
-    "about": "With a robust understanding of languages and frameworks including C/C++, Java, Python, and React/Javascript, as well as experience iwithn cloud platforms like AWS, Firebase, and MongoDB, I possess a versatile technical toolkit. My proficiency in both front-end technologies like React, TypeScript, and Vue, and back-end systems including SQL and REST/CRUD API, enables me to offer comprehensive web solutions. Furthermore, my experience with AI, especially through projects harnessing GPT-4, positions me at the forefront of cutting-edge technology. ",
+    "aboutImageCaption": "Learn About Me",
+    "title": "About",
+    "about": "My understanding includes C/C++, Java, Python, and React/Javascript, as well as experience iwithn cloud platforms like AWS, Firebase, and MongoDB, I possess a versatile technical toolkit. My proficiency in both front-end technologies like React, TypeScript, and Vue, and back-end systems including SQL and REST/CRUD API, enables me to offer comprehensive web solutions. Furthermore, I have experience with AI through projects harnessing OpenAI's GPT-4 API and other AI frameworks. ",
     "callUrl": "http://dylanhnguyen.com/#contact",
     "resumeUrl": "http://dylanhnguyen.com/resume-dylanhnguyen.pdf"
   },
@@ -36,11 +36,11 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaGithub",
+      "icon": "FaEnvelope",
       "link": "mailto:hello@dylanhnguyen.com"
     },
     {
-      "icon": "FaGithub",
+      "icon": "FaPhone",
       "link": "tel:+19498422889"
     }
   ],
@@ -181,19 +181,9 @@
         "visit": "https://chefit-app-v3.vercel.app"
       }
     },
-     {
-      "name": "Responsive Portfolio - Dynamic portfolio ideal for personal, developer, or enterprise use",
-      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Landing",
-      "image": "https://i.ibb.co/Z2d1qJG/portfoliov5-compressed-demo.gif",
-      "links": {
-        "code": "https://github.com/thedigitalchief/",
-        "video": "hhttps://i.ibb.co/Z2d1qJG/portfoliov5-compressed-demo.gif",
-        "visit": "https://portfolio-reactvite-v5.vercel.app"
-      }
-    },
+  
     {
-      "name": "Personal Portfolio - Fully responsive portoflio developed for a client",
+      "name": "Personal Portfolio - Responsive personal portoflio",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"Landing",
       "image": "https://i.ibb.co/qDRCFj7/portfoliov1-cbt-screenshot.png",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "name": "HighlanderNow - Powerful academic SAAS serving 1,000 UCR students a month.",
+      "name": "HighlanderNow - Academic SAAS serving UCR students",
       "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
       "category":"Full Stack",
       "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
@@ -216,7 +206,7 @@
     },
     
     {
-      "name": "Surfaholic.ai - AI driven surf reports",
+      "name": "Surfaholic - AI driven predictive surf reports",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"AI",
       "image": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
@@ -238,18 +228,18 @@
       }
     },
     {
-      "name": "Startup Club@UCR - Landing",
+      "name": "Startup@UCR - Dynamic Landing",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"Landing",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/thedigitalchief/startupucr",
         "video": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
-        "visit": "https://startupucr.com"
+        "visit": "https://startupucr-digitalchief.vercel.app"
       }
     },
     {
-      "name": "Chef'it App – Order local homemade meals, home chefs, & MEHKOS",
+      "name": "Chef'it – MVP for ordering homemade MEHKO food",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
      "category":"Full Stack",
       "image": "https://i.ibb.co/DkbRR7y/chefit-hero.png",
@@ -273,7 +263,7 @@
     ,
     {
       "institute": "Irvine Valley College",
-      "degree": "Transfer - IGETC",
+      "degree": "Transfer",
       "duration": "2019 - 2021",
       "desc": [
         "Pursuing engineering degree with a focus on software development and machine learning",
@@ -281,9 +271,9 @@
       ]
     },
      {
-      "institute": "Bourns School of Engineering at University of California, Riverside",
+      "institute": "Bourns School of Engineering, University of California, Riverside",
       "degree": "Computer Science, B.S.",
-      "duration": "2021 - 2023",
+      "duration": "2021 - 2024",
       "desc": [
  "Strong understanding of machine learning, artificial intelligence, big data, regression analysis, and data mining",
         "Knowledgeable in software development methodologies and project management practices, including Agile, Waterfall, Scrum, design patterns, and Git."
@@ -304,13 +294,13 @@
       ]
     },
      {
-      "company": "Woodly Co. USA",
+      "company": "Woodly Co.",
       "position": "Private-label E-commerce",
       "duration": "March 2017 - September 2018",
       "desc": [
         "Launched successful private label, trademarked company sunglasses that were distributed nationwide on Amazon Prime",
         "Negotiated with multiple overseas Chinese suppliers and Amazon’s fulfillment & distribution network",
-          "Achieved $10,000 in sales in first year of business",
+          "Achieved $10,000 in revenue first year of business",
         "Skills: Product Development, Branding, Marketing, Negotiation, Supply Chain Management, Amazon FBA"
       
       ]
@@ -349,7 +339,7 @@
     },
      {
       "company": "TriNet Internet Solutions, Inc.",
-      "position": "Full Stck Developer Intern",
+      "position": "Web Developer Intern",
       "duration": "June 2023 - August 2023",
       "desc": [
         "Developed dynamic, database-driven website pages and increased performance by 15% by using caching mechanisms with Memcached and Redis.",
