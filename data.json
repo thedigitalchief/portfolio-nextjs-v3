@@ -13,6 +13,7 @@
     "heroImage": "https://i.ibb.co/rx5mtNJ/profilepic-whitebg.png",
     "techStackImages": [
       "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fultraviolet%2F120%2Fnull%2Freact--v1.png&w=256&q=75",
+     "https://portfolio-optimized.vercel.app/icons/icons8-python.svg",
       "https://portfolio-optimized.vercel.app/icons/icons8-nodejs.svg",
       "https://img.icons8.com/color/144/null/javascript--v1.png",
       "https://portfolio-optimized.vercel.app/icons/icons8-git.svg"
@@ -159,10 +160,21 @@
     }
   ],
   "projects": [
+        {
+      "name": "HighlanderNow - Academic SAAS serving UCR students",
+      "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
+      "category":"Full Stack",
+      "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
+        "visit": "https://highlandernow-webapp.vercel.app/#/"
+      }
+    },
     {
       "name": "ClarityGPT - Powerful AI SAAS platform with 5 generative tools",
       "techstack": "React, TypeScript, Next.js, Node, Express, Tailwind, MongoDB, Lottie, Vercel",
-     "category":"AI",
+     "category":"Full Stack",
       "image": "https://i.ibb.co/MsqB9B3/Screenshot-2023-09-04-at-23-29-46.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -173,7 +185,7 @@
         {
       "name": "Chef'it Landing – Early user signups for local homemade meals & home chefs",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Landing",
+     "category":"Landings",
       "image": "https://i.ibb.co/zVW6Jz2/chefit-landing-screenshot.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -185,7 +197,7 @@
     {
       "name": "Personal Portfolio - Responsive personal portoflio",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Landing",
+     "category":"Landings",
       "image": "https://i.ibb.co/qDRCFj7/portfoliov1-cbt-screenshot.png",
       "links": {
         "code": "https://github.com/thedigitalchief/responsive-portfolio",
@@ -193,22 +205,12 @@
         "visit": "https://christiantbeltran.com"
       }
     },
-    {
-      "name": "HighlanderNow - Academic SAAS serving UCR students",
-      "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
-      "category":"Full Stack",
-      "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
-      "links": {
-        "code": "https://github.com/thedigitalchief",
-        "video": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
-        "visit": "https://highlandernow-webapp.vercel.app/#/"
-      }
-    },
+
     
     {
       "name": "Surfaholic - AI driven predictive surf reports",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"AI",
+     "category":"Full Stack",
       "image": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/SurfApp-Inc",
@@ -239,8 +241,8 @@
       }
     },
     {
-      "name": "Chef'it – MVP for ordering homemade MEHKO food",
-      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+      "name": "Chef'it – MVP for ordering homemade food from MEHKO chefs",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, REST, MapboxGL, MySQL, MongoDB, Firebase, TailWind",
      "category":"Full Stack",
       "image": "https://i.ibb.co/DkbRR7y/chefit-hero.png",
       "links": {
