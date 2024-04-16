@@ -229,9 +229,9 @@
       }
     },
     {
-      "name": "Startup@UCR - Dynamic Landing",
+      "name": "Startup@UCR Club Website",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     "category":"Landing",
+     "category":"Landings",
       "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/thedigitalchief/startupucr",
@@ -240,7 +240,7 @@
       }
     },
     {
-      "name": "Chef'it – MVP for ordering homemade food from MEHKO chefs",
+      "name": "Chef'it – Webapp for ordering homemade food from MEHKO chefs",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, REST, MapboxGL, MySQL, MongoDB, Firebase, TailWind",
      "category":"Full Stack",
       "image": "https://i.ibb.co/DkbRR7y/chefit-hero.png",
@@ -272,7 +272,7 @@
       ]
     },
      {
-      "institute": "Bourns School of Engineering, University of California, Riverside",
+      "institute": "University of California, Riverside",
       "degree": "Computer Science, B.S.",
       "duration": "2021 - 2024",
       "desc": [
@@ -343,9 +343,9 @@
       "position": "Web Developer Intern",
       "duration": "June 2023 - August 2023",
       "desc": [
-        "Developed dynamic, database-driven website pages and increased performance by 15% by using caching mechanisms with Memcached and Redis.",
-        "Assisted in adding full responsiveness and adapted company page to mobile environments",
-        "Improved loading speeds by 34% by implementing lazy loading and image optimization."
+        "Assisted in increasing performance by 15% by using caching mechanisms with Memcached and Redis.",
+        "Implmented full website responsiveness for mobile environments",
+        "Improved loading speeds using lazy loading and image optimization."
 
       ]
     }
