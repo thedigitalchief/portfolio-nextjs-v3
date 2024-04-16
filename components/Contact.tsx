@@ -54,7 +54,7 @@ const Contact = () => {
 
     return (
         <SectionWrapper id="contact" className="mb-16 mx-4 lg:mx-0">
-            <h2 className="text-center text-4xl">Contact Me</h2>
+            <h2 className="text-center text-4xl">Contact</h2>
             <ToastContainer />
 
             <div className="w-full lg:w-5/6 2xl:w-3/4 mt-10 md:mt-16 mx-auto flex justify-between rounded-xl">
@@ -62,7 +62,7 @@ const Contact = () => {
                 <Image unoptimized={true} quality={100} alt="contact" src="/contact.gif" className="hidden md:block w-1/2 h-full object-cover" width={1000} height={1000} />
                 <div className="flex-1">Let&apos;s connect!
                     <h3 className="text-2xl">Contact Me</h3>
-                    <p className="text-gray-400 mb-4 text-sm md:text-base"> Whether you have a question or just want connect, I can talk about anything!</p>
+                    <p className="text-gray-400 mb-4 text-sm md:text-base"> Whether you have a question or want to connect, <br/>do not hesistate to reach out!</p>
 
                     <form onSubmit={handleSubmit} className="flex flex-col gap-4 rounded-xl">
                         <input onChange={handleChange} required value={values.name} name="name" type="text" placeholder='Full Name *' className="outline-none bg-gray-100 dark:bg-grey-800 placeholder-gray-400 rounded-lg py-3 px-4" />

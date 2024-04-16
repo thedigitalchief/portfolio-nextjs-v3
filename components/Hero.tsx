@@ -34,7 +34,7 @@ const Hero = ({ mainData }: HeroProps) => {
                     <div className="flex items-center gap-1">
                         <Image unoptimized={true} alt='waving-hand' width={30} height={30} src={wavingHand} />
                         <p className="text-lg md:text-xl mt-2 md:mt-1.5">
-                        WELCOME! I&apos;M
+                        Welcome! I&apos;m
                         </p>
                     </div>
                     <h1 className="text-4xl md:text-6xl font-bold relative">

@@ -28,8 +28,8 @@ const CallToAction = () => {
                     </Link>
                 </div>
             </div>
-            <div className="zoom w-full md:w-1/2 h-40 md:h-52 lg:w-96 mb-4 md:mb-0 mx-auto rounded-lg bg-white dark:bg-grey-900">
-                 <Image alt="Fork this template on Github" quality={100} width={1000} height={1000} className="zoom-img w-full h-full mt-2 object-cover object-top rounded-lg" src={theme === "dark" ? "/hero.gif" : "/hero.gif"} />
+            <div className="zoom w-full md:w-1/2 h-40 md:h-52 lg:w-96 mb-4 md:mb-0 mx-auto rounded-lg dark:bg-grey-900">
+                 <Image alt="Fork this template on Github" quality={100} width={1000} height={1000} className=" w-full h-full mt-2 object-cover object-top rounded-lg" src={theme === "dark" ? "/hero.gif" : "/hero.gif"} />
             </div>
           
         </SectionWrapper >

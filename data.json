@@ -1,14 +1,13 @@
 
 {
   "main": {
-    "name": "Dylan",
-    "shortDesc": [ "I am an undergraduate seeking job opportunities to apply and leverage my skills. I am passionate about creating innovative solutions and am eager to contribute to a colloborative team."
+    "name": "Dylan Nguyen",
+    "shortDesc": [ "I am currently seeking job opportunities to apply and leverage my skills. I am passionate about creating innovative solutions and am eager to contribute to a colloborative team."
   ],
     "titles": [
       "Full Stack",
-      "AI",
-      "Shopify & WordPress",
-      "Full Stack"
+      "Cyber Security",
+      "Shopify & WordPress"
     ],
     "heroImage": "https://i.ibb.co/rx5mtNJ/profilepic-whitebg.png",
     "techStackImages": [
@@ -21,9 +20,9 @@
   },
   "about": {
     "aboutImage": "https://i.ibb.co/Z1xSY9s/84276-web-class.gif",
-    "aboutImageCaption": "Learn About Me",
-    "title": "About",
-    "about": "I possess a versatile technical toolkit with experience in Information Security as well as understanding C/C++, Java, Python, and Javascript and cloud platforms like AWS, Firebase, and MongoDB. My proficiency in both front-end like React/TypeScript/Vue, and back-end including SQL and REST/CRUD API, enables me to offer comprehensive web solutions. I enjoy meeting new people and working in collaborative team environements. My interpersonal skills include strong communication, critical thinking, and time management. ",
+    "aboutImageCaption": "My Background",
+    "title": "An introduction.",
+    "about": "I have a versatile technical toolkit with experience in Information Security as well as understanding C/C++, Java, Python, and Javascript and cloud platforms like AWS, Firebase, and MongoDB. My proficiency in both front-end like React/TypeScript/Vue, and back-end including SQL and REST/CRUD API, enables me to offer comprehensive web solutions. I enjoy meeting new people and working in collaborative team environements. My interpersonal skills include strong communication, critical thinking, and time management. ",
     "callUrl": "http://dylanhnguyen.com/#contact",
     "resumeUrl": "http://dylanhnguyen.com/resume-dylanhnguyen.pdf"
   },
