@@ -39,7 +39,7 @@ const Projects = ({ projectsData }: Props) => {
 
             <div className="overflow-x-auto scroll-hide md:w-full max-w-screen-sm mx-auto mt-6 flex justify-between items-center gap-2 md:gap-3 bg-white dark:bg-grey-800 p-2 rounded-md">
                 {categories.map((c: string = "", i: number) => (
-                    <span key={i} onClick={() => filterProjects(c)} className={`p-1.5 md:p-2 w-full text-sm md:text-base text-center capitalize rounded-md ${category.toLowerCase() === c.toLowerCase() ? "bg-blue-600 text-white" : "hover:bg-gray-100 hover:dark:bg-grey-900"} cursor-pointer transition-all`}>
+                    <span key={i} onClick={() => filterProjects(c)} className={`p-1.5 md:p-2 w-full text-sm md:text-base text-center capitalize rounded-md ${category.toLowerCase() === c.toLowerCase() ? "bg-blue-700 text-white" : "hover:bg-gray-100 hover:dark:bg-grey-900"} cursor-pointer transition-all`}>
                         {c}
                     </span>
                 ))}
@@ -54,7 +54,7 @@ const Projects = ({ projectsData }: Props) => {
 
             {filteredProjects.length > 6
                 &&
-                <ViewAll scrollTo='projects' title={viewAll ? 'Okay, I got it' : 'View All'} handleClick={() => setViewAll(!viewAll)} />
+                <ViewAll scrollTo='projects' title={viewAll ? 'Ok' : 'View All'} handleClick={() => setViewAll(!viewAll)} />
             }
         </SectionWrapper>
     )
@@ -76,7 +76,7 @@ export const ViewAll = ({ handleClick, title, scrollTo }: { handleClick: MouseEv
                     :
                     <Link
                         to={scrollTo}
-                        className={`bg-blue-600 text-white px-4 ${title === 'View All' ? 'animate-bounce' : 'animate-none'} cursor-pointer py-1.5 rounded-md hover:shadow-xl transition-all`}
+                        className={`bg-blue-700 text-white px-4 ${title === 'View All' ? 'animate-bounce' : 'animate-none'} cursor-pointer py-1.5 rounded-md hover:shadow-xl transition-all`}
                         offset={-60}
                         smooth={true}
                         duration={500}

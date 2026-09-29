@@ -34,15 +34,15 @@ const Hero = ({ mainData }: HeroProps) => {
                     <div className="flex items-center gap-1">
                         <Image unoptimized={true} alt='waving-hand' width={30} height={30} src={wavingHand} />
                         <p className="text-lg md:text-xl mt-2 md:mt-1.5">
-                            Hello
+                        Welcome! I&apos;m
                         </p>
                     </div>
                     <h1 className="text-4xl md:text-6xl font-bold relative">
-                        I&apos;m {name}
+                 {name}
                     </h1>
                     <div className="flex flex-row items-start md:items-center gap-1.5">
                         <h2 className="text-lg md:text-2xl">
-                            I am into
+                            
                         </h2>
                         <Typewriter
                             options={{
@@ -61,37 +61,49 @@ const Hero = ({ mainData }: HeroProps) => {
                         {shortDesc}
                     </p>
 
-                    {/* <a href="https://sppuprep.tech" target="_blank" rel="noopener noreferrer" className="relative whitespace-nowrap before:absolute before:bottom-0 before:left-0 before:h-full before:w-full before:origin-bottom before:scale-y-[0.35] hover:before:scale-y-100 before:transition-transform before:ease-in-out before:duration-500 before:bg-blue-300 dark:before:bg-blue-600">
-                        <span className="relative">SPPU Prep</span>
-                    </a> */}
 
-                    <div className="w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-600 hover:bg-blue-700 dark:bg-blue-700 hover:dark:bg-blue-800 transition-colors group text-white"
-                        onClick={() => window.open('https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view', '_blank')}
+                    <div className="zoom-img w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-blue-600 hover:bg-blue-700 dark:bg-blue-800 hover:dark:bg-blue-900 transition-colors group text-white"
+                        onClick={() => window.open('https://dylanhnguyen.com/resume-dylanhnguyen.pdf', '_blank')}
                         // offset={-60}
                         // smooth={true}
                         // duration={500}
                         // isDynamic={true}
-                    >Résumé
-                        <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
+                    >View Résumé<IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
+
+                    </div>
+
+                    {/* <a href="mailto:hello@dylanhnguyen.com" target="_blank" rel="noopener noreferrer" className="zoom w-fit relative whitespace-nowrap before:absolute before:bottom-0 before:left-0 before:h-full before:w-full before:origin-bottom before:scale-y-[0.35] hover:before:scale-y-100 before:transition-transform before:ease-in-out before:duration-400 before:bg-blue-300 dark:before:bg-blue-600">
+                        <span className="relative zoom w-fit text-m md:text-base ">Contact Me</span>
+                    </a> */}
+
+                    <div className="zoom w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-800 hover:dark:bg-violet-900 transition-colors group text-white"
+                        onClick={() => window.open('http://dylanhnguyen.com/#contact', '_blank')}
+                        // offset={-60}
+                        // smooth={true}
+                        // duration={500}
+                        // isDynamic={true}
+                    >Contact Me<IoIosArrowForward className='group-hover:translate-x-1 transition-transform' />
+
+                        {/* <IoIosArrowForward className='group-hover:translate-x-1 transition-transform' /> */}
                     </div>
                 </div>
 
                 <div className="relative mx-auto lg:mx-0 mt-12 md:mt-16 lg:mt-0">
-                    <div className="w-56 h-56 md:w-80 md:h-80 lg:-translate-x-16">
+                    <div className="zoom w-56 h-56 md:w-80 md:h-80 lg:-translate-x-16">
                         <Image alt='avatar' width={1000} height={1000} className="rounded-full w-full h-full object-cover" src={heroImage} />
                     </div>
 
-                    <div className="absolute grid -top-6 -left-12 lg:-top-14 lg:-left-32 w-16 h-16 md:w-20 md:h-20 bg-white dark:bg-grey-800 rounded-full place-items-center hover:shadow-lg transition-shadow">
+                    <div className="zoom-img absolute grid -top-6 -left-12 lg:-top-14 lg:-left-32 w-16 h-16 md:w-20 md:h-20 bg-white dark:bg-grey-800 rounded-full place-items-center hover:shadow-lg transition-shadow">
                         <Image alt='tech-stack' className="h-8 w-8 md:h-10 md:w-10 object-cover" src={techStackImages[0]} width={100} height={100} />
                     </div>
                     
-                    <div className="absolute grid top-0 -right-12 lg:-right-4 w-14 h-14 bg-white dark:bg-grey-800 rounded-full place-items-center hover:shadow-lg transition-shadow">
+                    <div className="zoom-img  absolute grid top-0 -right-12 lg:-right-4 w-14 h-14 bg-white dark:bg-grey-800 rounded-full place-items-center hover:shadow-lg transition-shadow">
                         <Image alt='tech-stack' className="h-8 w-8 md:h-10 md:w-10 object-cover" src={techStackImages[1]} width={100} height={100} />
                     </div>
-                    <div className="absolute grid bottom-[4rem] md:bottom-24 -right-16 md:-right-20 lg:bottom-[8.5rem] lg:-right-12 w-12 h-12 md:w-16 md:h-16 bg-white dark:bg-grey-800 rounded-full place-items-center hover:shadow-lg transition-shadow">
+                    <div className="zoom-img absolute grid bottom-[4rem] md:bottom-24 -right-16 md:-right-20 lg:bottom-[8.5rem] lg:-right-12 w-12 h-12 md:w-16 md:h-16 bg-white dark:bg-grey-800 rounded-full place-items-center hover:shadow-lg transition-shadow">
                         <Image alt='tech-stack' className="h-6 w-6 md:h-10 md:w-10 object-cover" src={techStackImages[2]} width={100} height={100} />
                     </div>
-                    <div className="absolute grid -bottom-10 -right-8 lg:-bottom-0 lg:right-6 w-14 md:w-16 h-14 md:h-16 bg-white dark:bg-grey-800 rounded-full place-items-center hover:shadow-lg transition-shadow">
+                    <div className="zoom-img absolute grid -bottom-10 -right-8 lg:-bottom-0 lg:right-6 w-14 md:w-16 h-14 md:h-16 bg-white dark:bg-grey-800 rounded-full place-items-center hover:shadow-lg transition-shadow">
                         <Image alt='tech-stack' className="h-10 w-10 object-cover" src={techStackImages[3]} width={100} height={100} />
                     </div>
                 </div>

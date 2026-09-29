@@ -1,29 +1,32 @@
+
 {
   "main": {
-    "name": "Dylan H. Nguyen",
-    "shortDesc": "Driven full-stack developer with experience developing websites and web applications specializing in custom SAAS, full-stack development to fit client needs while delivering high-quality products on time and under budget. I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+    "name": "Dylan Nguyen",
+    "shortDesc": [ "I am currently seeking job opportunities to apply and leverage my skills. I am passionate about creating innovative solutions and eager to contribute collaboratively."
+  ],
     "titles": [
-      "Full Stack engineering",
-      "AI, SAAS development",
-        "Progressive web apps"
+      "Full Stack",
+      "Cyber Security",
+      "Shopify & WordPress"
     ],
-    "heroImage": "https://i.ibb.co/MBCqx9z/profilepicture-japan2023.png",
+    "heroImage": "https://i.ibb.co/rx5mtNJ/profilepic-whitebg.png",
     "techStackImages": [
-      "https://img.icons8.com/color/144/000000/material-ui.png",
-      "https://img.icons8.com/color/144/000000/html-5--v1.png",
-      "https://img.icons8.com/color/144/000000/redux.png",
-      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+      "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fultraviolet%2F120%2Fnull%2Freact--v1.png&w=256&q=75",
+     "https://portfolio-optimized.vercel.app/icons/icons8-python.svg",
+      "https://portfolio-optimized.vercel.app/icons/icons8-nodejs.svg",
+      "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "https://portfolio-optimized.vercel.app/icons/icons8-git.svg"
     ]
   },
   "about": {
-    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
-    "aboutImageCaption": "Dylan Nguyen",
-    "title": "Full Stack, AI, SAAS Developer",
-    "about": "I am an undergraduate currently obtaining a B.S. in Computer Science at University of California, Riverside. I am seeking any opportunities to apply and leverage my skill set in sofware development. <br><br> My experience encompasses extensive work with HTML/CSS/Javascript, the Bootstrap Framework, VueJS, AngularJS, and NodeJS. My projects have often required integration using AWS Lambda, Google App Engine, and AWS API Gateway. With hands-on experience in both SQL and NoSQL databases, I have designed and executed numerous seamless integrations for back-end services and databases, closely aligning with the outcomes MindFire expects. Being well-versed in Google Tag Manager, Google Analytics, Salesforce.com, and Zapier, I can confidently say that my skill set resonates with the expectations of this role. <br> <br> Beyond technical proficiencies, I am deeply familiar with the intricacies of digital marketing, from leveraging social media platform APIs to creating data-driven campaigns that resonate. My experience has also taught me the importance of being proactive and organized, especially in a fast-paced agency environment. I pride myself on my ability to multitask efficiently and maintain acute attention to detail, ensuring that every project I undertake is executed with precision and dedication.<br><br> Let's work together to bring your ideas to life! On a more personal note, I was born in Seattle, WA and grew up in Irvine, CA. My hobbies include surfing, tennis, skiing, cinema and coding",
-    "callUrl": "tel:+19498422889",
-    "resumeUrl": "https://drive.google.com/file/d/1GEKbpkjIghV6gnghL6FmWnNRS4fGUkId/view"
+    "aboutImage": "https://i.ibb.co/Z1xSY9s/84276-web-class.gif",
+    "aboutImageCaption": "My Background",
+    "title": "An introduction.",
+    "about": "I have a versatile technical toolkit with experience in Information Security as well as understanding C/C++, Java, Python, and Javascript and cloud platforms like AWS, Firebase, and MongoDB. My proficiency in both front-end like React/TypeScript/Vue, and back-end including SQL and REST/CRUD API, enables me to offer comprehensive web solutions. I enjoy meeting new people and working in collaborative team environements. My interpersonal skills include strong communication, critical thinking, and time management. ",
+    "callUrl": "http://dylanhnguyen.com/#contact",
+    "resumeUrl": "http://dylanhnguyen.com/resume-dylanhnguyen.pdf"
   },
-  "socials": [
+    "socials": [
     {
       "icon": "FaLinkedin",
       "link": "https://www.linkedin.com/in/dylanhnguyen"
@@ -33,12 +36,12 @@
       "link": "https://github.com/thedigitalchief"
     },
     {
-      "icon": "FaInstagram",
+      "icon": "FaEnvelope",
       "link": "mailto:hello@dylanhnguyen.com"
     },
     {
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/itsdigitalchief"
+      "icon": "FaPhone",
+      "link": "tel:+19498422889"
     }
   ],
   "skills": [
@@ -48,96 +51,129 @@
       "category": "Frontend"
     },
     {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/null/python.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Java",
+      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Fjava-coffee-cup-logo--v1.png&w=256&q=75",
+      "category": "Frontend"
+    },
+    {
+      "name": "React",
+      "image": "https://jigarsable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fultraviolet%2F120%2Fnull%2Freact--v1.png&w=256&q=75",
+      "category": "Frontend"
+    },
+     {
+      "name": "C++",
+      "image": "https://portfolio-optimized.vercel.app/icons/icons8-c++.svg",
+      "category": "Frontend"
+    },
+ 
+    {
+      "name": "Next.js",
+      "image": "https://portfolio-reactvite-v5.vercel.app/assets/next-logo.47eabacf.svg",
+      "category": "Frontend"
+    },
+    {
+      "name": "TypeScript",
+      "image": "https://i.ibb.co/7265F1d/typescript-icons8.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind",
+      "image": "https://img.icons8.com/color/144/null/tailwindcss.png",
+      "category": "Frontend"
+    },
+      {
+      "name": "Node.js",
+      "image": "https://portfolio-optimized.vercel.app/icons/icons8-nodejs.svg",
+      "category": "Backend"
+    },
+    {
+      "name": "Express",
+      "image": "https://img.icons8.com/ios/150/null/express-js.png",
+      "category": "Backend"
+    },
+     {
+      "name": "MongoDB",
+      "image": "https://img.icons8.com/?size=256&id=8rKdRqZFLurS&format=png",
+      "category": "Backend"
+    },
+    {
+      "name": "AWS",
+      "image": "https://img.icons8.com/color/144/null/amazon-web-services.png",
+      "category": "Backend"
+    },
+     {
       "name": "Firebase",
       "image": "https://img.icons8.com/color/144/null/firebase.png",
       "category": "Backend"
     },
     {
-      "name": "GitHub",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
-      "category": "Tools"
-    },
- {
-      "name": "React",
-      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
-      "category": "Frontend"
-    },
-    {
-      "name": "Next.js",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
-      "category": "Frontend"
-    },
-    {
-      "name": "TypeScript",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
-      "category": "Frontend"
-    },
-     {
-      "name": "Tailwind",
-      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
-      "category": "Frontend"
-    },
-    {
-      "name": "Bootstrap",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
-      "category": "Frontend"
-    },
-    {
-      "name": "JQuery",
-      "image": "https://img.icons8.com/material-outlined",
-      "category": "Frontend"
-    },
-      {
-      "name": "Node.js",
-      "image": " https://img.icons8.com/color/144/null/mysql-logo.png",
-      "category": "Backend"
-    },
-    {
-      "name": "Express",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
-      "category": "Backend"
-    },
-     {
-      "name": "MongoDB",
-      "image": "https://jigarsable-jd3mn2g0e-jigar-sable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fexternal-tal-revivo-color-tal-revivo%2F96%2Fnull%2Fexternal-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png&w=256&q=75",
-      "category": "Backend"
-    },
-    {
-      "name": "AWS",
-      "image": "https://jigarsable-jd3mn2g0e-jigar-sable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F144%2Fnull%2Famazon-web-services.png&w=256&q=75",
-      "category": "Backend"
-    },
-    {
-      "name": "MySQL/SQlite",
+      "name": "mySQL/SQlite",
       "image": "https://img.icons8.com/color/144/null/mysql-logo.png",
       "category": "Backend"
     },
-        {
-      "name": "PHP",
-      "image": "https://jigarsable-jd3mn2g0e-jigar-sable.vercel.app/_next/image?url=https%3A%2F%2Fimg.icons8.com%2Foffices%2F160%2Fnull%2Fphp-logo.png&w=256&q=75",
-      "category": "Backend"
-    },
+    
      {
       "name": "Git",
-      "image": " https://img.icons8.com/color/144/null/mysql-logo.png",
+      "image": "https://portfolio-optimized.vercel.app/icons/icons8-git.svg",
       "category": "Tools"
     },
-    {
-      "name": "Agile",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+     {
+      "name": "Github",
+      "image": "https://i.ibb.co/VvYgNwN/icons8-github-384.png",
       "category": "Tools"
     },
      {
       "name": "Vercel",
-      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "image": "https://i.ibb.co/cx9FGcL/vercel-icon-512x449-3422jidz.png",
       "category": "Tools"
+    },
+     {
+      "name": "Cloudinary",
+      "image": "https://i.ibb.co/4twZ5GD/cloudinary-cloud-glyph-white.png",
+      "category": "Tools"
+    },
+     {
+      "name": "TensorFlow",
+      "image": "https://i.ibb.co/hsxLGyq/img-icons8-com.png",
+      "category": "Tools"
+    },
+    {
+      "name":"WordPress",
+      "image": "https://i.ibb.co/hWHxZxc/wordpress-logo-wordpress-icon-transparent-free-png.webp",
+       "category": "Tools"
+    },
+    {
+      "name":"Shopify",
+      "image": "https://i.ibb.co/dDswggg/shopping-512.webp",
+       "category": "Tools"
+    },
+    {
+      "name":"Woocomerce",
+      "image": "https://i.ibb.co/pKgc5HL/imgbin-computer-icons-e-commerce-woocommerce-portable-network-graphics-wordpress-social-media-icon-b.jpg",
+       "category": "Tools"
     }
   ],
   "projects": [
+        {
+      "name": "HighlanderNow - Academic SAAS serving UCR students",
+      "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
+      "category":"Full Stack",
+      "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
+      "links": {
+        "code": "https://github.com/thedigitalchief",
+        "video": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
+        "visit": "https://highlandernow-webapp.vercel.app/#/"
+      }
+    },
     {
       "name": "ClarityGPT - Powerful AI SAAS platform with 5 generative tools",
       "techstack": "React, TypeScript, Next.js, Node, Express, Tailwind, MongoDB, Lottie, Vercel",
-    
+     "category":"Full Stack",
       "image": "https://i.ibb.co/MsqB9B3/Screenshot-2023-09-04-at-23-29-46.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
@@ -145,34 +181,47 @@
         "visit": "https://ai-saas-clarity-main.vercel.app"
       }
     },
-    {
-      "name": "HighlanderNow - Academic platform serving nearly 3,000 UCR students a month.",
-      "techstack": "Vue, React, Node, Express, REST, Firebase, Tailwind.CSS, MongoDB, Leaflet, Google Maps",
-   
-      "image": "https://i.ibb.co/X7GPbq8/highlandernow.gif",
+        {
+      "name": "Chef'it Landing – Early user signups for local homemade meals & home chefs",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+     "category":"Landings",
+      "image": "https://i.ibb.co/zVW6Jz2/chefit-landing-screenshot.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
-        "video": "https://dylanhnguyen.com/assets/highlander.59dd0dd4.mp4",
-        "visit": "https://highlander.com/#/"
+        "video": "https://i.ibb.co/zVW6Jz2/chefit-landing-screenshot.png",
+        "visit": "https://chefit-app-v3.vercel.app"
       }
     },
+  
+    {
+      "name": "Personal Portfolio - Responsive personal portoflio",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+     "category":"Landings",
+      "image": "https://i.ibb.co/qDRCFj7/portfoliov1-cbt-screenshot.png",
+      "links": {
+        "code": "https://github.com/thedigitalchief/responsive-portfolio",
+        "video": "https://i.ibb.co/4FhG4SZ/portfoliov5-screenshot.png",
+        "visit": "https://christiantbeltran.com"
+      }
+    },
+
     
     {
-      "name": "Surfaholic - Peer to peer Surf Reports",
-      "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-    
-      "image": "https://i.ibb.co/KVLLnnc/IMG-1491.jpg",
+      "name": "Surfaholic - AI driven predictive surf reports",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+     "category":"Full Stack",
+      "image": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
       "links": {
         "code": "https://github.com/SurfApp-Inc",
-        "video": "https://dylanhnguyen.com/assets/surfaholic.f74a38ab.mp4",
-        "visit": "https://surfaholic.app"
+        "video": "https://i.ibb.co/JvqJkZb/surfaholic-Adobe-Express.gif",
+        "visit": "https://surfaholic.netlify.app"
       }
     },
     {
-      "name": "002Pickle™ - Pickleball E-Commerce Shop",
-      "techstack": " React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     
-      "image": "https://i.ibb.co/q0pGtwq/cap-logo.png",
+      "name": "002Pickle™ - E-Commerce Shop",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
+      "category":"Full Stack",
+      "image": "https://i.ibb.co/Lnk98hr/Untitled.gif",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/002pickle-demo.e366c128.mp4",
@@ -180,36 +229,25 @@
       }
     },
     {
-      "name": "Startup Club@UCR - Landing",
+      "name": "Startup@UCR Club Website",
       "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-     
-      "image": "https://i.ibb.co/q0pGtwq/cap-logo.png",
+     "category":"Landings",
+      "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
       "links": {
-        "code": "https://github.com/thedigitalchief",
-        "video": "https://dylanhnguyen.com/assets/startupucr.9c9ee42e.mp4",
-        "visit": "https://startupucr.com"
+        "code": "https://github.com/thedigitalchief/startupucr",
+        "video": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
+        "visit": "https://startupucr-digitalchief.vercel.app"
       }
     },
     {
-      "name": "Chef'it – Find local homemade meals & home chefs",
-      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, API REST, Mapbox GL, MySQL, MongoDB, Firebase, TailWind",
-    
-      "image": "https://i.ibb.co/zVWbN5m/startupucr-Adobe-Express.gif",
+      "name": "Chef'it – Webapp for ordering homemade food from MEHKO chefs",
+      "techstack": "React, Node.js, Express.js, JavaScript, TypeScript, REST, MapboxGL, MySQL, MongoDB, Firebase, TailWind",
+     "category":"Full Stack",
+      "image": "https://i.ibb.co/DkbRR7y/chefit-hero.png",
       "links": {
         "code": "https://github.com/thedigitalchief",
         "video": "https://dylanhnguyen.com/assets/catify-visible.e0bf1103.png",
         "visit": "https://chefit.io"
-      }
-    },
-    {
-      "name": "Responsive Portfolio v1",
-      "techstack": "React, HTML, Bootstrap, TailWind",
-    
-      "image": "https://i.ibb.co/jDx7bm0/Screenshot-2023-09-04-at-23-44-04.png",
-      "links": {
-        "code": "https://github.com/thedigitalchief",
-        "video": "https://dylanhnguyen.com/assets/portfolio.d24c72e0.mp4",
-        "visit": "https://portfolio-optimized.vercel.app"
       }
     }
   ],
@@ -219,40 +257,51 @@
       "degree": "High School Diploma",
       "duration": "2015 - 2019",
        "desc": [
-       "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
-        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
+        "National Merit Scholar, Irvine CUBESAT01, Nationally ranked Varsity Tennis"
+       
       ]
     }
     ,
     {
       "institute": "Irvine Valley College",
-      "degree": "Transfer Program",
+      "degree": "Transfer",
       "duration": "2019 - 2021",
       "desc": [
-        "Pursuing engineering degree with a focus on software development and machine learning"
+        "Pursuing engineering degree with a focus on software development and machine learning",
+              "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL"
       ]
     },
      {
-      "institute": "Bourns School of Engineering | University of California, Riverside",
+      "institute": "University of California, Riverside",
       "degree": "Computer Science, B.S.",
-      "duration": "2021 - 2023 (Expected)",
+      "duration": "2021 - 2024",
       "desc": [
-       "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
-        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
+ "Strong understanding of machine learning, artificial intelligence, big data, regression analysis, and data mining",
+        "Knowledgeable in software development methodologies and project management practices, including Agile, Waterfall, Scrum, design patterns, and Git."
       ]
     }
     
   ],
   "experiences": [
-   
      {
-      "company": "Woodly Co. USA, Inc.",
-      "position": "Private-label Brand Founder",
+      "company": "Tyvak Systems",
+      "position": "Engineer Intern",
+      "duration": "April 2017 - December 2018",
+      "desc": [
+        "Individually selected to join small team of first high school students to successfully develop and launch a nano-satellite into orbital space",
+        "Assisted in development of orbital camera module team from Tyvak Nano-Satellite systems",
+        "Developed technical specifications and government legal documentsA"
+      
+      ]
+    },
+     {
+      "company": "Woodly Co.",
+      "position": "Private-label E-commerce",
       "duration": "March 2017 - September 2018",
       "desc": [
         "Launched successful private label, trademarked company sunglasses that were distributed nationwide on Amazon Prime",
         "Negotiated with multiple overseas Chinese suppliers and Amazon’s fulfillment & distribution network",
-          "Achieved $10,000 in sales in first year of business",
+          "Achieved $10,000 in revenue first year of business",
         "Skills: Product Development, Branding, Marketing, Negotiation, Supply Chain Management, Amazon FBA"
       
       ]
@@ -264,7 +313,7 @@
       "desc": [
         "Analyzed and resolved technology problems for Irvine residents",
         "Provided individualized assessment and tailored education plans",
-        "Skills: Technology Troubleshooting, Communication, Time Management, Patience, Adaptability"
+        "Skills: Technology Education, Communication, Time Management, Adaptability"
       ]
     },
     {
@@ -274,8 +323,8 @@
       "desc": [
         "Safely handled and provided punctual delivery services of customer products",
         "Promoted to Gold Status for providing exceptional customer and merchant communication service",
-        "Maintained a 4.9/5.0 rating with over 500 deliveries",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
+        "Skills: Customer Service, Communication, Time Management, Adaptability"
+
       ]
     },
      {
@@ -285,19 +334,19 @@
       "desc": [
         "Assisted in development of technical network diagrams of security infrastructure",
         "Analyzed threats with vulnerability scanning tools and internal security controls",
-
-        "Performed vulnerability scans and penetration tests on internal and external systems",
+          "Performed vulnerability scans and penetration tests on internal and external systems",
         "Skills: Cyber Security, Network Security, Vulnerability Management, Penetration Testing, Active Directory, IAM/SEIM, Sumo Logic, Secureworks, Netwrix, Hitachi, ZenDesk"
       ]
     },
      {
-      "company": "UpWork",
-      "position": "Full Stack Developer",
-      "duration": "June 2023 - Present",
+      "company": "TriNet Internet Solutions, Inc.",
+      "position": "Web Developer Intern",
+      "duration": "June 2023 - August 2023",
       "desc": [
-        " developing scalable, responsive SaaS progressive web apps, Demonstrated success in application optimization, ensuring seamless operation across all device types and network conditions.",
-        "effective project management, client communication, and the ability to meet tight deadlines"
-      
+        "Assisted in increasing performance by 15% by using caching mechanisms with Memcached and Redis.",
+        "Implmented full website responsiveness for mobile environments",
+        "Improved loading speeds using lazy loading and image optimization."
+
       ]
     }
   ]

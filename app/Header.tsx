@@ -6,6 +6,7 @@ import { Link as ScrollLink } from 'react-scroll'
 import { FiSun, FiMoon } from 'react-icons/fi'
 import { FaNodeJs } from 'react-icons/fa'
 import { CgClose, CgMenuRight } from 'react-icons/cg'
+import Image from 'next/image';
 
 export default function Header({ logo }: { logo: string }) {
 
@@ -27,15 +28,15 @@ export default function Header({ logo }: { logo: string }) {
         <header className={`backdrop-filter backdrop-blur-lg ${scroll ? 'border-b bg-white bg-opacity-40' : 'border-b-0'} dark:bg-grey-900 dark:bg-opacity-40 border-gray-200 dark:border-b-0 z-30 min-w-full flex flex-col fixed`}>
             <nav className='lg:w-11/12 2xl:w-4/5 w-full md:px-6 2xl:px-0 mx-auto py-4 hidden sm:flex items-center justify-between'>
 
-                <Link href={'/'} className='2xl:ml-6 hover:text-blue-700 hover:dark:text-blue-500 transition-colors duration-300'>
-                    {logo === 'Dylan Nguyen' ? <FaNodeJs size={28} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                <Link href={'/'} className='zoom-img 2xl:ml-6 hover:text-blue-700 hover:dark:text-blue-500 transition-colors duration-300'>
+                    {logo === 'Dylan Nguyen' ? <Image width={40} height={40} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
                 </Link>
 
-                <ul className='flex items-center gap-8'>
+                <ul className=' flex items-center gap-8'>
                     {navs.map((e, i) => (
                         <li key={i}>
                             <ScrollLink
-                                className='hover:text-blue-700 hover:dark:text-blue-500 transition-colors capitalize cursor-pointer'
+                                className='zoom-img hover:text-blue-700 hover:dark:text-blue-500 transition-colors capitalize cursor-pointer'
                                 to={e}
                                 offset={-60}
                                 smooth={true}
@@ -48,21 +49,21 @@ export default function Header({ logo }: { logo: string }) {
                     ))}
                     <span
                         onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
-                        className='hover:bg-gray-100 hover:dark:bg-blue-700 p-1.5 rounded-full cursor-pointer transition-colors'>
+                        className='zoom hover:bg-gray-100 hover:dark:bg-blue-700 p-1.5 rounded-full cursor-pointer transition-colors'>
                         {theme === 'dark' ? <FiSun /> : <FiMoon />}
                     </span>
                 </ul>
             </nav>
 
             <nav className='p-4 flex sm:hidden items-center justify-between'>
-                {logo === 'Dylan Nguyen' ? <FaNodeJs size={28} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
+                {logo === 'Dylan Nguyen' ? <Image width={50} height={50} src={"/mylogo.webp"} alt={logo} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>}
                 <div className='flex items-center gap-4'>
                     <span
                         onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
                         className='bg-gray-100 dark:bg-blue-700 p-1.5 rounded-full cursor-pointer transition-colors'>
                         {theme === 'dark' ? <FiSun /> : <FiMoon />}
                     </span>
-                    <CgMenuRight size={20} onClick={() => setNavCollapse(false)} />
+                    <CgMenuRight size={22} onClick={() => setNavCollapse(false)} />
                 </div>
             </nav>
 
@@ -72,10 +73,10 @@ export default function Header({ logo }: { logo: string }) {
                 <div className="flex flex-col p-4 gap-5 bg-gray-100/95 backdrop-filter backdrop-blur-sm dark:bg-grey-900/95 w-3/4">
                     <CgClose className='self-end my-2' size={20} onClick={() => setNavCollapse(true)} />
 
-                    {navs.slice(0, 4).map((e) => (
+                    {navs.slice(0, 5).map((e) => (
                         <ScrollLink
                             key={e}
-                            className='hover:text-purple-600 py-1.5 px-4 rounded transition-colors capitalize cursor-pointer'
+                            className='zoom hover:text-purple-600 py-1.5 px-4 rounded transition-colors capitalize cursor-pointer'
                             to={e}
                             offset={-60}
                             smooth={true}
@@ -86,15 +87,20 @@ export default function Header({ logo }: { logo: string }) {
                             {e}
                         </ScrollLink>
                     ))}
-                    <ScrollLink
-                        to='contact'
-                        offset={-60}
-                        smooth={true}
-                        duration={500}
+                      <Link 
+                      href={'mailto:hello@dylanhnguyen.com'}
+                        // offset={-60}
+                        // smooth={true}
+                        // duration={500}
                         onClick={() => setNavCollapse(true)}
-                        className='px-6 py-1.5 rounded-md bg-blue-600 hover:bg-blue-700 text-white text-center'>
-                        Contact
-                    </ScrollLink>
+                        className='zoom w-fit px-6 py-1.5 rounded-lg bg-blue-800 hover:bg-purple-800 text-white text-center'>Email</Link>
+
+                    <Link href={'https://calendly.com/dylanhnguyen'}
+                        // offset={-60}
+                        // smooth={true}
+                        // duration={500}
+                        onClick={() => setNavCollapse(true)}
+                        className='zoom w-fit px-6 py-1.5 rounded-lg bg-blue-800 hover:bg-purple-800 text-white text-center'>Schedule Call</Link>
                 </div>
             </div>
 
