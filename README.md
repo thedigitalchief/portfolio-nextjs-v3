@@ -4,41 +4,22 @@
 
 4. Create a Firebase project and select the web app
 
-5. Create an `.env.local` file in the root directory, and add the following variables with your firebase config:
-   ```
-   SENDGRID_API_KEY=XXXXXXXX
-   NEXT_PUBLIC_FIREBASE_DATABASE_URL=XXXXXXXXXX
-   MAIL_FROM=YOUR_MAIL_ID
-   MAIL_TO=YOUR_MAIL_ID
-   ```
-   <!-- write text to tell user to get sendgrid keys from dashboard and add here -->
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+- **Firebase**
+- **SendGrid**
+- **Framer Motion**
 
-> **Note**: `SENDGRID_API_KEY` - Create an API key from "Settings" -> "API Keys" with "Restricted Access" to only "Mail Send"
+---
 
-1. Update the sample [data.json](https://github.com/jigar-sable/next-portfolio/blob/main/data.json) provided, with your data or directly import the same and edit using firebase later. (For storing images you can use [Cloudinary](https://cloudinary.com) or [Firebase Storage](https://firebase.google.com/docs/storage))
+## Development 💻
 
-2. Import json data
+Follow the steps below to run the project locally.
 
-   - Go to [Firebase Console](https://console.firebase.google.com) and select your project
-   - Go to "Database" -> "Realtime Database" -> "Import JSON" and import the [data.json](https://github.com/jigar-sable/next-portfolio/blob/main/data.json) file
+1. Fork the repository
 
-3. Run the project
+2. Clone your fork
 
    ```bash
-   npm run dev
-   ```
-
-## Deployment 🚀
-
-1. Create a Vercel account and select "Import Project"
-
-2. Select the forked repository and deploy
-
-3. Add the following environment variables in the Vercel dashboard:
-   ```
-   SENDGRID_API_KEY=XXXXXXXX
-   NEXT_PUBLIC_FIREBASE_DATABASE_URL=XXXXXXXXXX
-   MAIL_FROM=YOUR_MAIL_ID
-   MAIL_TO=YOUR_MAIL_ID
-   ```
-4. Hurray! 
+   git clone https://github.com/thedigitalchief/next-portfolio.git
